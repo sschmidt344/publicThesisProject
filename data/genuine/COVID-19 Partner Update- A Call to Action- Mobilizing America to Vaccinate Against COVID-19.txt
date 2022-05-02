@@ -1,0 +1,616 @@
+Hello, everyone.
+My name is Angel Roca, and I would like to welcome you
+to today's CDC Partner Update call on COVID-19.
+This call serves as a way for CDC to share updates on COVID-19, our latest resources
+and guidances, and to answer questions submitted by you, our partners.
+On today's call, we will provide an update on what we know about post-COVID conditions,
+A presentation on the national month of action.
+And as we prepare for summer, updates on vaccination and travel.
+First, we will hear from an author of new guidance for health professionals on caring
+for patients with post-COVID conditions.
+Then we will hear from two experts working in the COVID-19 response
+on the different initiatives occurring across the country during the month of action,
+and the benefits of being fully vaccinated before travel.
+Then, our speakers will answer questions we've received over the last week via email.
+If you experience technical difficulties or otherwise would like to review today's call,
+you can find the recordings on CDC.gov and YouTube in eight to 10 days.
+All past Partner Calls can be found there, so please take your time
+to review and share prior recordings.
+For more information about these webinars, visit our COVID-19 Partner Call webpage,
+where you can register for future Partner Calls and see recordings of previous webinars.
+If this is your first webinar with us, welcome.
+Please see the link in the chat to subscribe and receive future call invitations.
+Please note, this call is not intended for media,
+although we welcome the media who may be here today.
+Should you be a reporter and have questions, we invite you to reach out to media@cdc.gov.
+These calls are designed to share the latest science, guidance and resources from CDC.
+CDC issues thousands of resources and guidance material for individuals, businesses
+and the public on our website CDC.gov.
+Here are some of the highlights on just a few of our recent web additions.
+First, a new CDC study released on June 7th, 2021, finds the MRNA COVID-19 vaccine authorized
+by the Food and Drug Administration, Pfizer and Moderna reduce the risk of infection
+by 91% for fully vaccinated people.
+The findings come from four weeks of additional data collected in CDC's Heroes Recovery Study
+of healthcare workers, first responders, frontline workers and other essential workers.
+These groups are more likely to be exposed to the virus
+that causes COVID-19 because of their occupations.
+Of those who became infected after being fully or partially vaccinated,
+findings indicate that they were more likely to have a milder or shorter illness and spend
+on average six fewer total days sick, and two fewer days sick in bed.
+Second, throughout the COVID-19 pandemic, older US adults have been at increased risk
+for severe COVID-19 associated illnesses and death.
+Recent studies since COVID-19 vaccinations began in the United States in December 2020 have shown
+that emergency department visits, hospital admissions and death decline more
+in older adults who had higher vaccination coverage than in younger adults
+who had lower vaccination coverage.
+And third, CDC released updated guidances on May 28th, 2021 for operating youth camps,
+which can play an important role in the lives of children, including supporting their social,
+emotional and physical development.
+This guidance is intended for all types of youth staying in overnight camps.
+The guidance outlines strategies that camp programs can use
+to help maintain healthy environments and operations, lower the cost of COVID-19 spread
+in their programs, and prepare for when someone is sick with COVID-19,
+providing support, coping and resilience.
+Welcome to today's panelists, Dr. Jennifer Chevinsky
+from the Epidemic Intelligence Service Office Health Systems and Worker Safety Task Force.
+Dr. Jennifer Layden, a co-lead for the Vaccine Task Force.
+Dr. Allison Taylor Walker, epidemiology
+and surveillance lead, CDC's Travelers Health Branch.
+Welcome all.
+Now I'll turn it over to Dr. Chevinsky, who will present on post-COVID conditions.
+Dr. Chevinsky?
+>> Thank you, Angel, and welcome to everyone joining us today.
+My name is Jennifer Chevinsky, and I'm a preventive medicine physician
+and an EIS officer serving with the Health Systems
+and Worker Safety Task Force within CDC's COVID-19 response.
+Today I'd like to provide an update on newly released interim guidance on evaluating
+and caring for patients with post-COVID conditions.
+Next slide, please.
+Information in this guidance is based on medical expert opinion,
+feedback from US medical associations and patient advocacy groups,
+and the best currently available data.
+Today I'll be providing a background on post-COVID conditions, general considerations
+for healthcare providers on evaluation and treating patients with post-COVID conditions,
+and the future directions of continued research on this topic.
+More detailed information can be found on the CDC website.
+Next slide, please.
+In this section, we'll talk more about post-COVID conditions.
+Thank you.
+Post-COVID conditions, informally known as long COVID, is an umbrella term for the wide range
+of physical and mental health problems that occur four or more weeks
+after first being infected with COVID-19.
+Even people who had mild symptoms or who did not have any symptoms
+when they were infected can have post-COVID conditions.
+And the CDC is currently working with government, academic and community partners
+to better understand the long-term effects of COVID-19.
+Next slide.
+Post-COVID conditions can present themselves differently.
+These conditions can have different types and combinations
+of health problems for different lengths of time.
+We've identified several patterns so far, including persistent symptoms,
+new symptoms that can occur much later after the initial infection, and symptoms
+and conditions that change over time.
+The different symptoms and conditions could be caused by different underlying processes,
+and different factors can complicate the signs and symptoms of post-COVID conditions,
+including underlying medical conditions, other health issues related
+to a potentially life-threatening illness, or more general effects from the pandemic.
+Post-COVID conditions may also share similarities with other post-viral conditions
+such as myalgia, encephalomyelitis, chronic fatigue syndrome, dysautonomia,
+or mast cell activation syndrome.
+Next slide, please.
+Post-COVID conditions may affect millions of Americans.
+The frequency varies widely in the literature, from 5% to up to 80%,
+in part due to using different definitions, different criteria
+and different data sources in different settings.
+Evidence suggests that post-COVID conditions occur in children, adolescents and adults.
+And we also face challenges estimating the prevalence of post-COVID conditions
+in subgroups that might be at higher risk.
+Next slide.
+Post-COVID conditions are associated with a spectrum of physical,
+social and psychological consequences, as well as functional limitations
+that can present substantial challenges to patient wellness and quality of life.
+There are many types of post-COVID symptoms and some
+of the most commonly reported ones include fatigue, brain fog or cognitive impairment,
+shortness of breath, cough, chest pain, headaches, loss of smell or taste,
+burning or prickling, that's usually felt in the hands, arms, legs or feet, stomach pain,
+diarrhea, fever, insomnia, muscle pain, joint pain, mood changes, lightheadedness,
+heart palpitations or abnormal heart rhythm, menstrual cycle irregularities, rashes,
+and symptoms that get worse after physical or mental activities,
+also known as post exertional malaise.
+Next slide, please.
+So what are some general considerations that healthcare providers can keep
+in mind while treating patients with post-COVID conditions?
+While most of our audience today are not healthcare providers,
+the information is also useful for businesses, schools and other partners
+as your organizations may interact with people with post-COVID conditions,
+and it could be a helpful resource.
+The most important consideration is that healthcare providers listen to
+and validate patients' experiences, recognizing that symptoms
+and conditions could substantially impact a patient's quality of life functioning
+and ability to return to school or work.
+Healthcare professionals should partner with patients to identify achievable health goals,
+setting expectations with patients and their families that outcomes
+for post-COVID conditions differ among patients, and with transparency that there's much more
+to learn about post-COVID conditions.
+Most post-COVID conditions can be identified and managed by primary care providers,
+and a patient-centered medical home model could be helpful with coordinated, comprehensive care
+and open communication among a core group of specialty care providers and support services
+like occupational therapy, physical therapy and social work
+to maximize functional improvement and rehabilitation efforts.
+Healthcare providers might also consider referring patients to post-COVID care clinics
+where they're available and accessible.
+Many post-COVID conditions may be diagnosed just based on history and physical examination,
+while others might require directed diagnostic testing, with the understanding
+that potential harms could arise from excessive testing, such as increased risk
+for incidental findings, imaging-related radiation exposure and cost.
+And lastly, any symptoms persisting beyond three months should prompt further evaluation.
+Next slide, please.
+So now I'll go into our next steps for continued work on post-COVID conditions.
+Next slide, please.
+The documentation of post-COVID conditions is critical
+for accurate public health surveillance.
+The World Health Organization has recently developed medical coding guidance
+for healthcare encounters related to post-COVID conditions.
+The medical code is not currently available in the US and it's currently under review.
+But in the meantime, the CDC recommends healthcare providers use B94.8,
+sequela of other specified infectious and parasitic diseases.
+Next slide, please.
+Researchers are working to define the time periods in which symptoms would be related
+to long-term or short-term illness related to COVID-19.
+CDC has partnered with NIH to align our efforts within the federal government.
+And we're also continuing to work with our partners at the federal, state, local level
+and with academic and community partners.
+And lastly, the current knowledge we have of post-COVID conditions is likely
+to change rapidly with ongoing extensive research.
+We will continue to keep you informed as this research develops,
+and you can find more information about post-COVID conditions,
+including this new interim guidance, on the CDC website.
+Next slide, please.
+I'd like to take some time to highlight the acknowledgments for those
+who contributed to this interim guidance.
+Next slide, please.
+Listed here are the authors of this guidance, along with the different external experts,
+medical associations and patient advocacy organizations who supported the development
+of the guidance on post-COVID conditions.
+We're very appreciative for their efforts.
+Next slide, please.
+Thank you for having me today to share this interim guidance
+on post-COVID conditions with CDC's partners.
+With that, It's now my pleasure to turn the call
+over to my colleague Dr. Layden from the Vaccine Task Force.
+Thank you.
+>> Thank you, Dr. chevensky.
+Good afternoon.
+My name is Jen Layden and I am a co-lead of the Vaccine Task Force
+within the CDC's COVID-19 Response.
+Today I'm going to talk about some of our work around the national month of action.
+We all know that getting a COVID-19 vaccination can help protect you from getting COVID-19,
+and recent data shows that the vaccines may help keep people from spreading COVID-19 to others.
+We want everyone to be able to go into and continue into the summer, to be able to travel,
+visit with friends and family, socialize and take part in camps,
+events and sports with the peace of mind that they are protected
+and that they don't risk reading COVID-19 to others.
+Next slide, please.
+CDC, the federal government, states and territories are working toward the goal
+of ensuring that 70% of adults 18 years of age and over have had
+at least one dose of COVID-19 vaccine by July 4th.
+As part of this goal, we are building on local successes to increase equitable access
+of vaccines, and we are focusing on three areas.
+One, continuing to expand access to communities.
+Two, reaching those who are interested
+in getting the vaccine once they have more resources and information.
+And three, sharing key messages about the benefits of COVID vaccine.
+Getting a COVID-19 vaccine is fast, easy and free.
+Vaccines are now widely available and anyone living
+in the United States can get a free COVID-19 vaccine.
+You do not need health insurance to get a vaccine, and you will not be asked
+for your immigration or residency status.
+COVID-19 vaccines are safe and effective.
+These vaccines have received and continue
+to undergo the most intensive safety monitoring in US history.
+COVID-19 is still a threat to people who are unvaccinated.
+Some people who get COVID-19 can become severely ill, which could result in hospitalization.
+And some people have ongoing health problems several weeks
+or even longer after getting infected.
+Even people who do not have symptoms
+when they're infected can have these ongoing health problems.
+You should be vaccinated regardless of whether you already have had COVID-19.
+Experts do not yet know how long you are protected
+from getting sick again after recovering from COVID-19.
+CDC, the federal government, states and territories, pharmacy partners as well
+as many others are working to ensure everyone has access to these safe and effective vaccines.
+If you, your family or friends need help accessing a COVID-19 vaccine,
+you can go to Vaccines.gov or ask your local pharmacist
+or wherever you get your healthcare for more information.
+Next slide, please.
+I'll next provide a high-level overview of the month of action.
+Through July 4th, the We Can Do This campaign is mobilizing national organizations,
+community-based partners, influencers, celebrities, athletes and thousands
+of volunteers across the nation to empower their communities get vaccinated.
+This month-long effort is intended to move more people to action by raising awareness
+about how easy it is to access COVID-19 vaccines, make it easier for people
+to access the vaccine, and providing incentives for people to get their vaccines.
+Next slide, please.
+I wanted to provide some examples of month of action access and promotion activities.
+Some examples of ways that partners are making it even easier
+to get vaccines include providing childcare, extending pharmacy hours, and bringing vaccines
+to where people are, such as barber shops, baseball games, NASCAR races.
+We are working hard to make sure that everyone knows the importance of getting vaccinated.
+This includes a national vaccination tour
+with the vice president throughout the South and the Midwest.
+Many groups are canvassing, texting and phone banking in areas with low vaccination rates.
+Many local organizations are coordinating vaccination events.
+Next slide, please.
+Communities across the nation are responding to the call for action.
+More than 50 mayors are competing to boost vaccination rates
+through canvassing, partnerships and incentives.
+More than 230 colleges and universities have committed to take action
+to get students and communities vaccinated.
+Businesses all over the country are stepping
+up to provide incentives to the public and employees.
+Examples of incentives we have seen include childcare providers watching kids
+for free while parents go get their shot, vaccines at barbershops, baseball games
+and NASCAR races, pharmacies that are open 24 hours on Fridays.
+And businesses like Anheuser Busch, Kroger and United Airlines are stepping
+up to offer all adults free beer and drinks on July 4th,
+the chance to win $1 million and free first class flights.
+Next slide, please.
+We are making a lot of great progress towards the July 4th goal
+but still have a lot of work to do.
+This slide provides some summary data.
+And please note that the data on this slide are a little bit old.
+As of Thursday, June 17th, 2021, over 175 million people
+or 53% of the population have received at least one dose.
+Overall, over 314 million doses of vaccine have been administered.
+In total, 53% of the population has received at least one dose.
+In total, 44.5% of the population has been fully vaccinated.
+Among the population 18 years of age and older,
+roughly 65% of the population have received at least one dose.
+12 states have already given at least one shot to 70% of adults, and more than 28 states
+and the DC have fully vaccinated 50% or more of their adult populations.
+But millions of Americans still need protection against the virus.
+Next slide, please.
+We are using a multipronged approach to support jurisdictions to continue
+to build on the successes to date.
+This approach includes addressing additional needs, such as vaccine supply,
+vaccine access, demand, as well as staffing.
+We are understanding that there are unique local needs across different settings and communities,
+and we are leveraging federal as well as local resources
+to support equitable access in communities.
+Next slide, please.
+Some of the strategies that have been identified to support local communities include ensuring
+that supply is not a problem, using redistribution strategies
+to ensure local access where it's needed.
+Identify opportunities for federal and other partners to help support access
+at the local level, provide communication support, support mobilizing communities
+to get vaccinated, addressing myths and disinformation, and generating demand
+in communities, overcoming challenges, to use the data for local access
+and addressing staffing challenges.
+Next slide, please.
+We are often asked what jurisdictions can do.
+Jurisdictions can do multiple things to help support this month of action.
+They can use local data to refine local strategies,
+such as identifying metro, urban versus rural strategies.
+They can engage community partners, they can continue to enroll primary care providers
+and ensure that they get vaccine to administer.
+They can leverage national communication efforts at the local level.
+They can communicate with CDC and other federal agencies.
+An example of a vaccine success can be seen in Puerto Rico, which has completed teacher
+and school staff vaccination ahead of schedule.
+The Puerto Rico Department of Public Health partnered with the territory's National Guard,
+local universities, healthcare partners, and local government agencies
+to rapidly establish multiple vaccination centers across the island.
+For this mission, eight dedicated vaccination sites were established,
+and 12,000 vaccine doses were all set
+up for the next six consecutive weeks of vaccinating school employees.
+On January 18th, 2021, vaccination of school staff began, and within the first two weeks,
+over 16,000 educators received their first dose.
+At the beginning of March 2021, President Biden asked US states and territories
+to prioritize COVID-19 vaccinations for teachers
+to ensure children could return to school quickly and safely.
+By the end of March, 98% of school staff in Puerto Rico were fully vaccinated.
+Next slide, please.
+In closing, CDC and the federal government's end goal has always been
+to vaccinate everyone against COVID-19.
+We will continue to provide focused support to jurisdictions as we worked work
+to reach the president's goal of ensuring 70% of adults have one
+or more COVID-19 vaccine shots by July 4th.
+Over the summer and into the fall,
+CDC and jurisdictions will be taking a multipronged approach to increase demand
+in vaccine coverage that leverages the strong foundation states, local,
+tribal and territorial health departments have already created.
+We are committed to working together, doing everything we can
+to get the country past this pandemic and return to normal.
+Thank you for having me here today to present on the national month of action.
+And now I'd like to hand it over to my colleague, Dr. Walker.
+Thank you.
+>> Thank you, Dr. Layden.
+My name is Allison Taylor Walker, and I'm the epidemiology and surveillance lead
+within the Travelers Health Branch at CDC.
+I'm glad to be here and very grateful for the opportunity to speak with you all today.
+In this presentation, I'll be discussing domestic
+and international travel during COVID-19 and the importance of getting fully vaccinated
+against COVID-19 before traveling.
+Next slide, please.
+On this graph, you can see the three major COVID surges that have occurred in the United States.
+We can see that each surge has followed a holiday where travel has increased.
+So travel has likely contributed to these COVID-19 surges.
+Next slide, please.
+This graphic shown on the slide is from the New York Times in February of 2020.
+And it highlights in the first months of the pandemic,
+how drastically travel has decreased at the borders began to close.
+Next slide, please.
+But recently, travel has picked up again.
+A survey in early May 2021 conducted by Destination Analysts
+of over 1,200 American travelers said
+that 77% were either already traveling or ready to start traveling.
+This slide shows a significant decrease in the number of people at TSA checkpoints from 2019
+to 2020, and the increase from 2020 to 2021.
+Passenger numbers continue to increase,
+and TSA screened over 2 million people yesterday on June 20th.
+Next slide, please.
+There are many examples of tools that have been used to try
+to reduce travel associated transmission of COVID-19.
+They include border closings, testing, quarantine, and vaccine to name a few.
+Some of these tools work better than others.
+For example, data have shown the temperature and symptoms screening
+at airports detected few COVID-19 cases and required considerable resources.
+The yield was approximately one case for every 85,000 travelers screened.
+Due to the nature of the disease, many people who spread the virus are not symptomatic,
+and temperature and symptom screening were not effective.
+On the other hand, we do know that vaccinations are highly effective,
+and fully vaccinated travelers are less likely to get and spread COVID-19.
+Next slide, please.
+When thinking about risks related to travel, it's really important to separate risk
+at your destination and your individual or personal level of risk.
+At the destination level, some things to think about include the COVID-19 case rates, testing,
+health availability, variants of concern, and the proportion
+of the population who are vaccinated.
+At the individual level, you can personally consider for your situation.
+Are you fully vaccinated?
+If you aren't fully vaccinated, can you get tested or stay home after travel?
+Are you likely to get severe disease due to your age or health status?
+And how likely are you to wear a mask, keep distance from others
+and avoid crowds at your travel destination?
+Next slide, please.
+We've seen positive signs emerge as more people get vaccinated.
+In Israel, the increasing percent of the population fully vaccinated correlated over time
+with the decreasing daily number of new cases.
+This may be because fully vaccinated people are at low risk of symptomatic and severe COVID-19,
+or because fully vaccinated people are less likely to have asymptomatic infection
+or transmit SARS-CoV-2 to others.
+Next slide, please.
+This graph shows that increasing vaccination coverage both at the origin
+and destination leads to reduced infection and transmission risk for travelers.
+The science is clear: vaccines are an important tool for making travel safer,
+and fully vaccinated travelers are less likely to get and spread COVID-19.
+Next slide, please.
+Travelers should still check out the situation at their destination.
+And even if you're fully vaccinated, pay close attention to the current situation
+at your destination before traveling internationally.
+The travel health notice system is a great place to start.
+COVID-19 travel recommendations can be found
+on an interactive world map showing COVID-19 travel recommendations by destination.
+The travel health notice provides travelers information about the COVID-19 situation
+in destinations around the world.
+Shown here is a travel health notice for India, which is at the highest, level four,
+and it indicates the travelers should avoid all travel to India.
+Similar information from many destinations can be found at the link on the slide.
+Next slide, please.
+We all want to be able to return to travel this summer,
+and vaccination is the key to doing that safely.
+For travel within the United States, fully vaccinated travelers do not need to get tested
+for COVID-19 pre and post-travel or to self-quarantine after travel.
+CDC recommends that those who are not yet fully vaccinated get tested one
+to three days before travel, three to five days after your journey,
+and quarantine for seven days if you get tested,
+and for 10 days if you don't get a test post returning.
+Everyone vaccinated or not should self-monitor for symptoms,
+wear a mask while using public transportation and at transportation hubs like airports,
+and take other precautions while traveling.
+Next slide, please.
+For international travel, fully vaccinated travelers no longer need
+to get tested before outbound travel unless their destination requires it.
+And also, they no longer need to self-quarantine after travel.
+However, both unvaccinated and fully vaccinated international travelers must still show proof
+of a negative viral test or documentation of recovery before boarding a flight
+to the United States, and should still get tested three to five days after travel.
+International travelers should continue to follow all requirements related to testing,
+mask wearing and quarantine in their destinations.
+And this is the end of my presentation.
+Thank you again for allowing me to share this guidance as we head
+into the summer travel season and to explain why vaccines are the key to returning to travel.
+>> Thank you, Dr. Walker, Dr. Chevinsky and Dr. Layden.
+Thank you so much for those presentations.
+For those of you who submitted questions in advance of this call, thank you.
+We received many excellent questions and we will try to get to as many as we can today.
+We'll start off with Dr. Chevinsky.
+The first questions are addressed to you.
+First question, how likely are people to develop post-COVID conditions?
+>> Thank you for that question.
+Actually estimating the percentage of people with post-COVID conditions is quite difficult,
+and that's because research is relatively new in this area.
+Most recent research suggests that roughly 10 to 20%
+of people are reporting post-COVID conditions.
+However, there are studies that range from 5% of people to up to 80% of people depending
+on the study methods and the setting.
+So additional research is needed in order
+to better understand the prevalence, and that research is ongoing.
+Based on the research that has examined post-COVID conditions,
+most people with post-COVID conditions often start developing long-term effects of COVID
+between one month and four months after COVID infection.
+CDC continues to work to identify how common these longer-term effects are,
+who's most likely to get them, and when symptoms resolve.
+Multi-year studies are underway to further investigate post-COVID conditions,
+and these studies will help us better understand the frequency of post-COVID conditions,
+and help us understand how to best treat patients with these longer-term effects.
+>> Thank you.
+Next question, are post-COVID conditions always severe?
+>> Thank you for that question.
+The personal experience of long-term effects after COVID-19 are real and different
+for each person who experiences them.
+People can experience different combinations of symptoms, degrees of severity and some
+of these symptoms and conditions may resolve over time.
+In a recent study conducted by CDC, 7% of adults experience at least one
+of the following post-COVID conditions or symptoms, which include respiratory
+or lung-related symptoms like shortness of breath, abdominal pain, or other digestive
+or abdominal symptoms like diarrhea, chest pain, symptoms related to the nervous system
+or in the brain like altered mental status, headache, including migraines.
+Circulatory or heart symptoms, like an increased heart rate or heart palpitations,
+fluid and electrolyte disorders like low potassium level, general discomfort,
+malaise or fatigue, nausea and vomiting and urinary symptoms.
+So there are multiple different kinds of symptoms and the experience can be unique
+to each person who experiences it.
+>> Thank you.
+Next question.
+How can I prevent myself from developing post-COVID conditions?
+>> Sure. The best way to prevent post-COVID conditions is by getting vaccinated
+against COVID-19 as soon as you can.
+COVID-19 vaccination is recommended for all people 12 years and older.
+And if you're not fully vaccinated, then you should take everyday actions
+like wearing a mask, avoiding crowds and other sort of activities, washing hands,
+to protect yourself from getting the virus that causes COVID-19.
+The COVID-19 vaccination should be offered to all eligible people,
+regardless of whether they had a COVID-19 infection, and including individuals
+who experienced post-COVID conditions.
+And although -- so there have been reports of people experiencing an improvement
+of their post-COVID conditions after vaccination.
+Research is still ongoing to verify this effect and these reports to better understand
+that report that we've been hearing.
+>> Thank you, Dr. Chevinsky.
+The next set of questions are for Dr. Layden.
+First question.
+What level of collective, also known as herd immunity, would CDC consider realistic
+to reach by the end of this year?
+>> Thanks for that question.
+Population immunity means that enough people in the community are protected from getting
+that particular disease because they've either already had the disease
+or because they've been vaccinated.
+Population immunity makes it hard for the disease to spread from one person to another,
+and it even protects those who cannot be vaccinated like newborns
+or people who are allergic to the vaccine.
+The percentage of people who need to have protection
+to achieve this population level immunity various by disease.
+For COVID-19, we are still learning how many people have to be vaccinated
+against this virus before the population can be considered to be protected.
+As we know more, CDC will continue to update our recommendations
+for both the vaccinated and unvaccinated people.
+>> Thank you for that.
+The next question, what current approach do you recommend
+for the remaining unvaccinated population?
+>> Thanks for that quest.
+The United States Department of Health and Human Services' COVID-19 public education campaign --
+sorry -- We Can Do This is a national initiative to increase public confidence in and uptake
+of COVID-19 vaccines, while reinforcing basic prevention measures
+such as mask wearing and social distancing.
+Through a nationwide network of trusted messengers and consistent,
+fact-based public health messaging, the campaign helps the public make informed decisions
+about their health and COVID-19, including steps to protect themselves and their community.
+The effort is driven by communication science
+and provides tailored information for at risk groups.
+The campaign supports efforts of the CDC and others across HHS
+to use education to improve health.
+Communication products and initiatives are designed to help those in the movable middle,
+meaning people who want to protect their health but still have questions
+about the vaccines becoming more willing to consider vaccine.
+The We Can Do This campaign aims to connect with Americans from a wide range of backgrounds.
+While that campaign aims to build confidence in vaccine, it also reinforces basic message
+about prevention and treatment of COVID-19 and flu.
+For more information, please visit COVID-19 public education campaign
+at WeCanDoThis.HHS.gov.
+Thanks.
+>> Thank you.
+Next question, is the booster vaccine on the radar or anywhere near it,
+for those who say had COVID-19 last year or got their shot early on?
+And how many months later would they recommend getting a booster
+or after the first shot or after having had COVID?
+>> Thanks for that question.
+At this time, we do not know how long any
+of the currently authorized COVID-19 vaccines protect you from getting COVID-19.
+We also do not know if people will need to get a booster dose later.
+But this is something the manufacturers and NIH are studying.
+>> Thank you.
+Next question, how do we return to work and school while keeping everyone safe?
+>> Great question.
+Fully vaccinated people can resume activities without wearing a mask
+or physically distancing except where required by federal, state, local,
+tribal or territorial laws, rules and regulations,
+including local business and workplace guidances.
+Although fully vaccinated persons do not need to wear masks, schools can be supportive of staff
+or students who choose to continue to wear a mask.
+For unvaccinated people, including children two years and older, masks should still be worn
+in addition to staying at least six feet apart, especially when indoors around people
+who don't live in your household.
+Unvaccinated persons should wear masks to completely cover the nose and mouth
+and fit snugly against the side of their face without gaps.
+Masks are still required of all people on planes, buses, trains and other forms
+of public transportation traveling into, within or outside of the United States
+and in US transportation hubs such as airports and stations.
+>> Thank you.
+Many of us who have been vaccinated with the J&J vaccine see a lot of guidance
+and promising headlines seemingly based entirely
+on real-world results in data about the mRNA vaccines.
+What does the CDC have to provide more data about real world efficacy
+and results specifically for the J&J vaccine to ease our minds?
+>> All COVID-19 vaccines currently available in the United States are effective
+at preventing COVID-19, as we've already seen in clinical trial settings.
+Some people who are fully vaccinated against COVID-19 will still get sick
+because no vaccine is 100% effective.
+Experts continue to monitor and evaluate how often this occurs, how severe their illness is
+and how likely a vaccinated person is to spread COVID-19 to others.
+Most vaccine effectiveness data now available are related to the mRNA vaccines,
+because these vaccines have been available longer.
+CDC and other experts continue to study the effectiveness of both mRNA vaccines
+and the J&J vaccines in real world conditions.
+As this data becomes available, it will be shared.
+Thank you.
+>> Thank you, Dr. Layden.
+And the final question is for Dr. Walker.
+Dr. Walker, what is CDC's guidance for post travel for children?
+I work at a preschool that goes through the summer
+and many families are not following the travel guidance for unvaccinated individuals
+because they are focused on adults.
+>> Thank you for that question.
+So we recommend delaying travel until you're fully vaccinated.
+At any age, if you're not fully vaccinated and must travel,
+follow CDC's recommendations for unvaccinated people.
+If you're not vaccinated, not fully vaccinated and must travel, take the following steps
+to protect yourself and others from COVID-19.
+Before you travel, get tested with a viral test one to three days before your trip.
+While you're traveling, wearing a mask over your nose and mouth is required on planes, buses,
+trains, and other forms of public transportation traveling into,
+within or out of the United States and while indoors
+at US transportation hubs such as airports and stations.
+Travelers are not required to wear a mask in outdoor areas of a conveyance,
+like a ferry or the top deck of a bus.
+CDC recommends that travelers who are not fully vaccinated continue to wear a mask
+and maintain physical distance when traveling.
+Avoid crowds, staying at least six feet or two meters -- about two arm's lengths --
+from anyone who's not traveling with you.
+And wash your hands often or use hand sanitizer with at least 60% alcohol.
+After you travel, get tested with a viral test three to five days after travel and stay home
+and self-quarantine for a full seven days after travel.
+Even if you test negative, stay home and self-quarantine for the full seven days.
+If you test positive, isolate yourself to protect others from getting infected.
+And if you don't get tested, stay home and self-quarantine for 10 days after travel.
+Avoid being around people who are at increased risk for severe illness
+for 14 days, whether or not you got tested.
+And self-monitor for COVID-19 symptoms, isolate and get tested if you develop symptoms.
+And finally, follow all state and local recommendations or requirements.
+>> Thank you, Dr. Walker, Dr. Layden and Dr. Chevinsky.
+This concludes today's discussion.
+Thank you everyone for joining our call today.
+The recording will be posted on our Partner Call webpage, where you can find other recordings
+and information about previous webinars.
+CDC's Chief Health Equity Unit is hosting a call this Thursday for the national month
+of action for COVID-19 vaccinations.
+This webinar will highlight organizations who have adapted successful vaccination activities
+for Black or African American and Hispanic or Latino communities.
+The webinar will also encourage attendees to increase vaccine uptake in these racial
+and ethnic communities by helping meet President Biden's July 4th vaccination goal.
+The link is provided on the slide.
+Please, I encourage you to join and help us reach this goal.
+Please make sure to sign up for the upcoming Partner Call announcements to stay informed.
+We will have our next call in July.
+I thank you all for joining.
+Have an excellent day.

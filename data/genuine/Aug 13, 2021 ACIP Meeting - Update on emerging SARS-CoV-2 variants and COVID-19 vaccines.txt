@@ -1,0 +1,1024 @@
+We will now reconvene the meeting to hear our updates
+from our CDC colleagues.
+We will first have Dr. Heather Scobie present an update
+on emerging SARS-CoV-2 variants and COVID-19 vaccines.
+And then Dr. Sara Oliver will present on considerations
+for booster use of COVID-19 vaccines for the future.
+So, Dr. Scobie.
+>> Good afternoon.
+Next slide.
+Next slide.
+This slide shows one of the new ways
+that CDC is visualizing the impact of COVID vaccination
+and the COVID data tracker website.
+The graphs display weekly trends by age group
+for the cumulative percent of people fully vaccinated in blue
+and the average rate
+of new cases per 100,000 population in grey.
+The three graphs at the bottom
+in the red box represent the three age groups greater
+than 50 years of age.
+Here we observe higher coverage rates
+and lower case rates compared with the younger age groups,
+shown above, that have lower coverage
+and recent increases in cases.
+Next slide.
+This map, also from COVID data tracker,
+shows the county level view
+of the case rates per 100,000 population
+over the past seven days compared
+with vaccination coverage rates.
+A legend is shown on the right.
+The magenta and purple colors
+that predominate the map are counties
+with low vaccination coverage and high recent COVID incidence.
+The green and light blue colors are counties
+with higher coverage and low COVID incidence.
+Counties colored navy blue, which represents greater
+than 50% coverage and high incidence are relatively few
+and reflect the recent increases in delta variant transmission,
+occurring largely among unvaccinated persons.
+Next slide.
+A lot of public concern has been raised on the delta variant
+and breakthrough transmission, which I'd like to contextualize
+with two example state scenarios,
+each with one million population and different coverage levels.
+State A has 70% coverage, on the left,
+and state B has 30% coverage on the right.
+The COVID data used for this example are actual data
+from the COVID data tracker website for states
+with similar coverage levels.
+The dots each represent 10 COVID cases,
+and in state A 130 cases are occurring per week,
+compared with over 5000 cases occurring weekly
+in state B. Using--
+Sorry. Using the est-- vaccine efficacy estimates
+from the U.K. we can estimate the number and proportion
+of vaccinated cases, shown in red,
+and vaccinated cases, shown in blue.
+Proportionally, there are more vaccinated cases in state A,
+at 22% of cases vaccinated, compared with just 5%
+in state B, but this is expected because the proportion
+of cases vaccinated increases
+with increasing vaccination coverage.
+At the extreme of 100% vaccination coverage,
+all cases would be vaccinated
+because no vaccine is 100% effective.
+Next slide.
+Similar trends
+with hospitalization are observed below,
+where one dot equals one hospitalization.
+In state A, just 1.4 hospitalization occur weekly,
+and in state B, 18.8 hospitalizations occur.
+In both states, the majority of cases
+and hospitalizations are among unvaccinated people.
+Next slide.
+Next slide.
+Four variants are considered variants of concern; alpha,
+or B117, first detected in the U.K., beta, or B1351,
+first detected in South Africa, gamma, or P1, first detected
+in Brazil and Japan, and finally delta, or B1617.2,
+first detected in India.
+Attributes of the variants related
+to public health impact are noted in the table.
+Of note, all of the variants of concern have mutations
+in the receptor binding domain
+that have variably impacted vaccine efficacy,
+with the cluster of mutation shared by beta
+and gamma having the largest known impact.
+Another class of variants under monitoring are the variants
+of interest which have similar mutations
+but less current impact of current evidence
+of public health impact.
+Next slide.
+These are our latest national Nowcast projections
+of the proportions of circulating SARS-CoV-2 variants
+from CDC's COVID data tracker.
+The SAC bars show the observed historic estimates
+and the most recent Nowcast projections
+for the commonly sequenced SARS-CoV-2 lineages in the U.S.
+by two-week interval specimen collection date.
+The variants of concern depicted
+in different orange shades have increased over time
+and projections for the two weeks ending July 31st,
+alpha decreased to a projected prevalence of 2%,
+gamma decreased to 1%, and beta remained at 0%,
+while the delta variant increased to 94%.
+Recently the graph was changed
+to display the different delta sublineages
+and AY3 has increased to 13%.
+This lineage does not contain the so-called delta
+plus mutation.
+Next slide.
+We have several types of evidence that we monitor
+to assess the impact of variants on vaccines,
+including antibody neutralization generated
+in the laboratory.
+Though we note that a correlative protection is not
+yet established, good correlation has been observed
+between vaccine efficacy and the neutralizing antibody levels
+from different vaccines,
+and this will likely be the first type of evidence we get
+on the impact of new variants on vaccines.
+We also monitor vaccine efficacy data from clinical trials
+and real-world vaccine effectiveness studies.
+We note that a greater proportion is usually observed
+against severe disease,
+or a greater protection is usually observed
+against severe disease and symptomatic illness
+and confirmed infection, which includes asymptomatic cases.
+And this is because protection
+against severe disease requires lower antibody levels
+and is less affected by differences
+in efficacy across vaccines.
+Finally, we monitor breakthrough infection, and I'm going
+to review these types of evidence now.
+Next slide.
+We conduct a review of available studies on vaccines authorized
+or intending to be authorized in the U.S. and containing data
+and the ability of post-vaccination sera
+to neutralize SARS-CoV-2 variants.
+In this dot plot, the reduction in neutralization
+of the variants is shown relative to the wild type
+or dominant strain used in each study,
+where no effect equals one at the bottom of the y axis.
+Each dot represents one study result,
+with mRNA results shown together in blue, AstraZeneca in yellow,
+Novavax in brown, and Janssen in green.
+Beta had the largest median reduction at 7.5-fold,
+delta had a median reduction of 2.8-fold,
+gamma was reduced 3.1-fold, and alpha was reduced 1.9-fold.
+While an alpha variant with an E44K change,
+which has been detected in the U.K., U.S., and other countries,
+had a further reduction
+in neutralization compared to alpha alone.
+Next slide.
+In terms of what is known about duration of immunity, to-date,
+available data demonstrate antibody persistence
+for at least eight months after COVID infection,
+and at least six months after the second mRNA vaccine dose,
+with some evidence at eight months for the Janssen vaccine.
+Studies suggest individuals may maintain long-term protection
+from severe illness caused by antigenically similar strains,
+even if they become susceptible to mild infection.
+Two studies have shown a combined impact
+of waning antibody levels
+and reduce neutralization of variants.
+At six months after receiving the Moderna vaccine,
+neutralizing antibody levels were reduced but sufficient
+to protect against the ancestral strain, while about 50%
+of people had undetectable neutralizing titers
+against the beta and gamma variants.
+A small study at eight months after receipt
+of the Janssen vaccine, observed minimal decline
+in neutralizing titers and improved protection
+against beta, gamma, and delta variants compared with one month
+after vaccination, which was suggested to be related
+to antibody maturation.
+It's unclear if there are differences in the kinetics
+of antibody response by vaccine platform
+and more data is needed.
+Next slide.
+Pfizer recently published their six-month clinical
+efficacy data.
+Vaccine efficacy, or VE, against infection
+out to six months was 91%.
+They performed an additional analysis looking
+at different time intervals
+after receiving the second vaccine dose
+and observed a gradual decline in VE against infection
+of six percentage points every two months.
+So, the confidence intervals
+around the estimates were overlapping.
+At four to six months post-vaccination,
+VE was 84% compared with 96% at least two months after--
+at less than two months after vaccination.
+VE against severe illness during the period was 97%.
+Moderna has not yet published their extended efficacy results
+but announced in a press release
+that VE was 93% for up to six months.
+Next slide.
+In terms of VE against the variants, for the alpha variant,
+mRNA vaccines have been to shown to have greater
+than 85% real-world VE against confirmed infection in the U.S.
+and multiple countries.
+For gamma, mRNA vaccines have 84% to 88% real-world VE
+against symptomatic infection and 79% VE
+against confirmed infection
+when gamma was widely circulating in Canada.
+For beta, Moderna vaccine had 96% real-world VE
+and Pfizer vaccine had 75% VE against confirmed infection
+in a study from Qatar, while Janssen vaccine had 52% VE
+against moderate or severe disease
+in their clinical trial in South Africa.
+Importantly, all studies observed high VE
+against severe disease.
+Next slide.
+In terms of what we know about the delta variant,
+it's nearly twice as contagious as previous variants.
+There's some evidence of increased illness severity,
+compared with previous strains and unvaccinated persons.
+The greatest risk
+of transmission is still among unvaccinated people,
+and fully vaccinated people
+with delta breakthrough infections can spread virus
+to others.
+However, when vaccinated people with delta--
+vaccinated people with delta may be infectious
+for shorter periods than unvaccinated persons with delta.
+Next slide.
+For the delta variant, vaccine effectiveness studies have been
+published from several countries,
+mostly for the Pfizer vaccine.
+In England and Scotland, reduced Pfizer VE was observed at 70%
+for infection and 88% for illness, compared to 92
+and 93 percent for the alpha variant.
+Protection against hospitalization for--
+from delta was 96%, which was similar
+to that observed with alpha.
+In Canada, delta VE estimates were similar to the U.K.
+but with smaller differences in VE for alpha and delta.
+Israel has observed a progressive decline
+in VE during the period after delta predominance,
+with the most recent VE estimates of around 40%
+against infection and illness,
+while VE against severe disease has remained above 90%.
+Qatar was the only country that assessed delta VE
+for both Pfizer and Moderna, shown with hollow symbols.
+VE against symptomatic illness was 54% for Pfizer compared
+with 85% for the Moderna vaccine.
+While VE's against severe illness were above 90% for both,
+it's important to note that the comparison shown for the alpha
+and delta VE in Israel and Qatar are for different studies
+that were separated by two
+to five months during the time periods
+when alpha and delta circulated.
+Other methodologic differences may explain some
+of the variation observed
+and the study results across countries.
+Next slide.
+Other potential differences in VE results relate to differences
+in the vaccine programs by country.
+In the U.S. we use the Pfizer, Moderna, and Janssen vaccines,
+which have followed the manufacturer recommended
+intervals of three and four weeks between mRNA doses.
+Israel has also used Pfizer vaccine, and though they--
+though they also-- has only used Pfizer vaccine,
+though they also authorize Moderna
+and follow the three-week interval between doses.
+Israel also had a very tight cohort with more than 50%
+of the country vaccinated in the first three to four months.
+Qatar is the most similar country to the U.S. in terms
+of using both Moderna and Pfizer at the same dosing intervals.
+Finally, the U.K. and Canada are the most similar to each other
+in that they both use mRNA and the AstraZeneca vaccines.
+As part of the-- a dose-sparing strategy,
+they also adopted extended dose intervals of up to 12
+to 16 weeks, which were later shown to improve immunogenicity
+and VE compared with standard intervals,
+including for ages greater than 80 years.
+The countries also support mixing and matching
+between vaccines, which has been shown to increase VE.
+I'll also note, with the Pf--
+that the Pfizer vaccine has a lower mRNA dosage
+and accelerated schedule of three weeks compared
+to four weeks for Moderna, which has the potential
+to impact the robustness and duration of immunity,
+as has been generally observed for other vaccines.
+Next slide.
+In public data from Israel, the Ministry
+of Health has observed higher breakthrough rates
+and lower Pfizer VE against infection
+for persons vaccinated during January to February.
+Then in more recent months for persons age 16 to 59
+and 60 years and older.
+Two retrospective cohort studies, a person's vaccinated
+with Pfizer in large healthcare systems observed increasing
+breakthrough infections among persons vaccinated in January
+versus April, and higher breakthrough infection rates
+among those who received the second mRNA dose more
+than five months ago, compared with less than five months ago.
+All age groups were impacted
+but one study observed higher magnitude
+of differences with increasing age.
+Next slide.
+Delta only rose to predominance in the U.S. at the end of June.
+This week, the first study assessing potential VE changes
+in July was posted from the Mayo Clinic Healthcare System.
+For patients in Minnesota, the authors observed that VE
+against infection was significantly lower
+for both Moderna and Pfizer vaccines in July
+when delta variant was more
+than 70% prevalent compared with previous months.
+Insignificantly lower for Pfizer at 42%,
+compared with Moderna at 76%.
+Importantly, the effectiveness of both vaccines
+against COVID associated hospitalization remained
+consistent-- consistently high during the same timeframe.
+More information is needed in this area
+and will be forthcoming.
+Next slide.
+Despite high efficacy, vaccine breakthrough cases are still
+expected to occur, including those caused
+by circulating variants.
+CDC conducts nationwide monitoring
+of vaccine breakthrough cases,
+resulting in hospitalization or death.
+As of August 2nd, among more
+than 164 million fully vaccinated
+in the U.S. there have been 7101 hospitalizations and 1507 deaths
+with vaccine breakthrough reported
+to Path to Surveillance.
+Among hospitalized or fatal breakthrough cases,
+75% were 65 years or older.
+In addition to National Path to Surveillance, CDC has a number
+of other ways to monitor breakthrough infection,
+including a population-based service surveillance system
+called COVID-NET, which represents 10%
+of the U.S. population.
+The most recent COVID-NET data
+on COVID associated hospitalizations among adults
+estimated 32% of all vaccinated cases are immunocompromised,
+versus 11% of unvaccinated cases.
+Next slide.
+To summarize, alpha, beta,
+and gamma variant have low prevalence
+in the U.S. Alpha has minimal impact on VE, while beta
+and gamma have moderate impact that the vaccines appear likely
+to protect against severe disease.
+Delta has high prevalence in the U.S. and has moderate impact
+on vaccine effectiveness.
+The vaccines are likely to still provide protection
+against severe disease.
+More data is still needed on the impact of delta,
+especially for the Janssen vaccine
+and the potential for waning immunity.
+Next slide.
+Manufacturers are conducting booster studies
+of current vaccines and or second-generation vaccines
+against the beta variant.
+Moderna has posted a preliminary result of the phase two trial
+of a single booster dose of the previously authorized
+and a beta variant specific vaccine.
+Both vaccines had acceptable safety and it boosted immunity
+to the wild type strain, as well
+as to the beta and gamma variants.
+Pfizer has also submitted preliminary data on a booster
+of their original vaccine to the FDA.
+No delta specific booster vaccines have been shared
+to date-- or studies have been shared to date.
+In summary-- sorry, next slide.
+In summary, the currently authorized vaccines work
+against known variants.
+Given the increased risk related to the delta variant,
+it is important to increase vaccine uptake
+and all eligible populations.
+CDC is closely monitoring real world vaccine effectiveness
+and breakthrough infections using multiple methods,
+populations, and outcomes.
+CDC continues to monitor emerging variants,
+including the prevalence and impact on disease incidence,
+severity, and vaccine breakthrough.
+The ACIP will review evidence submitted for boosters
+and any next generation vaccines to address the evidence
+of diminished VE related to the variants or waning immunity.
+Finally, this is a changing landscape
+and the CDC will continue to communicate promptly
+about emerging evidence.
+Thank you.
+>> Thank you, Dr. Scobie,
+and this presentation is now open for questions.
+Miss Bahta.
+>> Thank you.
+And thank you for this thorough presentation.
+I really appreciate the information you've
+provided today.
+I'm wondering if we could go to slide 20.
+I think I need some clarification
+about the last bullet, that 32%
+of all vaccinated cases are immunocompromised versus 11%
+of unvaccinated who are immunocompromised.
+Can you please explain that to me?
+>> Sure. It means-- it means that,
+you know by vaccination status, there are differences
+in the way the cases look, I guess.
+So just like breakthrough cases, fatal breakthrough cases,
+you know, would occur in older persons as is summarized.
+And for immunocompromised people there's a larger proportion of--
+or sorry, for breakthrough cases,
+there's a larger proportion of immunocompromised ones,
+immunocompromised persons,
+compared with unvaccinated cases.
+I'm not sure if that's clear, but there are differences
+in the background characteristics of cases
+that are vaccinated versus those that are unvaccinated.
+Is that clear?
+>> Thank you.
+Dr. Arthur.
+>> Thank you, Dr. Lee.
+Quick, I really like this slide at the beginning
+that shows the variation in ages and immunization rates by age
+and how that's affecting the case counts by age.
+I wondered if the CDC had intended to do the same analysis
+by race and ethnicity.
+I think that in terms
+of understanding the overlapping pockets of unvaccinated persons,
+the age category is just one part of the problem
+and understanding how race
+and ethnicity are affecting both vaccination levels
+and case count would be extremely helpful.
+I think that was a great slide.
+I'd love to see it broken down by a couple of other factors.
+Yes, this slide here.
+Thank you.
+>> Thank you.
+>> Thank you.
+[inaudible] will take that under advisement.
+Dr. Fryhofer.
+>> Sandra Fryhofer, American Medical Association.
+Thank you for that excellent presentation.
+Could you take a look at slide nine?
+You briefly mentioned the delta plus variant,
+but I still missed what you said,
+and this is something I get a lot of questions about.
+>> Sure, so--
+>> The delta plus variant.
+>> The delta plus variant, it's not a name we actually use,
+but it does correspond to what you see as AY1
+and AY2 on this slide.
+So AY3 does not have the mutation
+that the media refers to as delta plus.
+Is that clear?
+>> Thank you so-- thank you so much.
+And on slide 16, could you say again what the open circle map
+under the Qatar-- it's an open blue circle.
+>> Yeah, so do you see the bands under the country labels
+for Pfizer and Moderna?
+This slide was hard to create
+without making it look really busy, so only the two results
+on the right relate to Moderna; the rest relate to Pfizer.
+>> Thank you so much.
+>> Thank you.
+Dr. Maldonado.
+>> Yes, thank you.
+That was a great presentation.
+I have a question about the Mayo study.
+I have reviewed the manuscript, the [inaudible],
+but I'm still a little confused about the statistical method
+that were used to calculate effectiveness and I wonder
+if you could apply some clarity.
+They use an interesting approach
+which is they use a match triple, so unvaccinated,
+vaccinated, with Pfizer, vaccinated with Moderna.
+But the thing that I'm concerned about,
+or at least want your input on is they actually included people
+who had received-- their whole cohort included single
+vaccinations as well as fully vaccinated individuals,
+but I couldn't really determine whether they calculated
+effectiveness based on breakthrough infections
+after all, one or more doses, or just after two doses, and that,
+I think, would affect that effectiveness.
+I don't know why it would be by product, but certainly
+that could affect effectiveness as well.
+So just wondered if you have any additional information
+about how-- whether they in fact included just fully vaccinated
+or not; it looks like they included all of--
+even single dose vaccinated individuals.
+>> Thanks.
+So that paper is still, you know, it's a pre-print.
+It's still under peer review, so let's hope
+that if it's not clear it's clarified
+for the final publication.
+I don't have any additional information beyond what's
+included in the pre-print, and we're looking forward to,
+you know, results that should be released
+from CDC studies in the coming weeks.
+>> Ms. Léger.
+>> Hi. Thank you.
+On slide-- thank you for your presentation.
+On slide 12, addressing duration of immunity,
+do you have any data about individuals
+who have had the vaccine and COVID-19 infection,
+as far as how long their immunity antibody
+persistence lasted?
+I guess the question is, is your immunity additive
+if you've had both natural infection and vaccine?
+>> Yeah. Thank you.
+There are quite a few studies published on this topic,
+and the consensus appears to be that the--
+having a previous infection and then being vaccinated,
+probably provides the best immunity compared
+to just getting a previous--
+just being infected or just being vaccinated.
+It boosts immunity levels to high levels
+and has greater protection against variants,
+because of maturation of the immune response.
+But I'm not sure about the duration of protection
+and whether there's information available
+on those individuals related to the question you asked.
+>> Thank you.
+>> Thank you.
+I see no new questions, so I wonder if we can move
+on to Dr. Oliver's presentation.
+>> Great. Thank you so much.
+Next slide.
+So, as we think through recommendations
+for booster doses of COVID-19 vaccines,
+the main question we're answering is are booster doses
+needed for those previously vaccinated
+with the primary series?
+As with other things with COID vaccines policies
+on boosters will be coordinated with FDA
+for regulatory allowance and ACIP for recommendations
+around use in specific populations.
+Next slide.
+Then we want to continue to distinguish
+that an additional COVID-19 dose, after receipt
+of a primary series, is one way to provide protection for those
+who may not have mounted an appropriate immune response
+to the initially recommended series.
+This is not considered a booster dose
+and this is what was described
+for the first part of the meeting.
+What we're talking about now are booster doses,
+which are vaccine doses administered
+when the initial sufficient immune response
+to a primary series may have waned over time,
+after a primary series and then can increase immunity.
+Next slide.
+So, from this point on in the presentation we'll be focusing
+on booster doses.
+Next slide.
+So, recommendations for booster doses would obviously only apply
+to those who have completed a primary series.
+To date, over 350 million vaccine doses have been
+administered in the U.S. The figure
+on the left shows the number of people fully vaccinated
+by COVID vaccine series type.
+And then on the right shows percent
+of the population fully vaccinated by age.
+Over 60% of those 18 years of age
+and over are fully vaccinated, and this increases
+to over 80% among those 65 years of age and over.
+Next slide.
+So, the timing of when individuals became fully
+vaccinated is important to this discussion as well.
+This figure shows the daily count
+of fully vaccinated people,
+with a seven-day moving average shown in red.
+If everyone will recall,
+we began the COVID vaccination program in December of 2020.
+As only two dose series were available at that time,
+we began to see individuals become fully vaccinated
+in January.
+Then through spring, we increased vaccination rates,
+where between one and two million individuals were fully
+vaccinated each day.
+Then through the past month we've been adding
+around 200,000 fully vaccinated individuals each day.
+Next slide.
+However, we know that due to the way the vaccine was recommended
+and rolled out initially,
+age groups are not evenly distributed
+across the last eight months.
+When we look at the weekly count of fully vaccinated people
+in the U.S. by age group, you can see that those 65 years
+of age and over, in yellow, were among the earliest vaccinated.
+In the spring, we then moved into larger populations
+of those 18 to 39, in lavender, and 40 to 64, in grey.
+And then recently, since vaccination was recommended
+for adolescents, you can see the 12-
+to 17-year-old population in black.
+This varying age distribution will be important as we think
+through recommendations for boosters in a variety
+of populations and ages.
+Next slide.
+So, this is the plan for how ACIP will approach booster doses
+over the next several weeks.
+We need to think through what are the key considerations
+for decision making.
+Then we evaluate what data are available for decision making.
+And finally, then we can address,
+does ACIP recommend booster doses
+for COVID vaccines in any populations.
+Next slide.
+For today's presentation we'll focus
+on what are the key considerations
+for decision making.
+Next slide.
+At the ACIP meeting in June, we laid out data
+that would be needed to inform recommendations
+for booster doses, thinking through the risk
+of COVID complications and exposures,
+risk of waning immunity, and risk of COVID variants.
+Next slide.
+As we move into preparations for a possible vote in the future,
+we're restructuring the questions slightly,
+thinking through these two main questions we need
+to address booster doses; do we need them and do they work?
+We can take these questions to think through using aspects
+of our evidence to recommendation framework
+to answer, do we need them.
+We'll think through the public health problem of COVID
+and what information we have on the current vaccines.
+Then, do they work?
+We will think through the benefits and possible harms
+of COVID-- of booster doses of COVID vaccines.
+Next slide.
+So, under the public health problem we'll need
+to specifically address is vaccine effectiveness,
+or VE, waning over time.
+Is waning reduced for the delta variant
+and does this data vary by subpopulation?
+Under benefits and harms, we'll need to address if booster doses
+of COVID vaccines are safe and immunogenic.
+Will booster doses of COVID vaccines reduce COVID incidence,
+hospitalization, and mortality, and do booster doses improve VE
+against the delta variant?
+We'll walk through each of these questions in more detail,
+outlining data we'll be collecting,
+to address these overall questions.
+Next slide.
+First, is VE waning over time?
+Specifically, we need to assess if VE at six
+to eight months is similar to what was noted at two months
+after vaccination, that ACIP reviewed at the time of the EUA.
+And how does this data vary by severity of disease?
+We may see that VE wanes for asymptomatic or mild disease,
+but remains high for severe disease,
+hospitalization, and death.
+And what data on waning VE would identify a need
+for booster doses of COVID vaccines.
+Next slide.
+So, the next, is VE reduced for the delta variant?
+And again, how does this vary by severity of disease?
+And while the delta variant is clearly what we're dealing
+with right now, how would this information
+on delta variant impact VE for future variants?
+Next slide.
+And finally for the public health problem.
+The final question for the public health problem;
+does this data vary by subpopulation?
+At previous ACIP meetings, we discussed
+that boosters may be recommended for the entire population
+or they could only be needed among specific subpopulations.
+Groups identified as needed close monitoring
+and additional data collection include residents
+of long-term care facilities, adults65 years of age and over,
+and healthcare personnel.
+Next slide.
+For long term care facility residents and older adults,
+we've already highlighted that these were vaccinated
+in the earlier phases of the COVID-19 vaccine rollout.
+In addition, this is a population
+that has needed special considerations
+for other vaccines, including additional boosters
+or higher dose vaccines.
+In addition, healthcare personnel were vaccinated
+in the early phase of the vaccine rollout.
+They will have continued exposure to SARS-CoV-2,
+and another point that was not mentioned at a previous meeting
+but clearly could be an issue in the future,
+there could be a need for additional considerations
+for healthcare personnel to include the continuity
+of healthcare systems.
+We may have a very specific need to prevent asymptomatic
+or mild infections in healthcare personnel
+if there are COVID surges straining
+healthcare infrastructure.
+Next slide.
+So next, moving to the benefits and harms.
+We need to address if booster doses
+of COVID vaccines are safe and immunogenic.
+Assuring COVID vaccine safety has been a critical
+of the entire COVID vaccine program and will continue
+into this phase as well.
+We need to know if COVID vaccines provide a boost
+in neutralizing antibody response.
+And we'll-- while we're likely to get this information,
+we also need to address how neutralizing antibodies
+correlate to clinical protection from COVID-19.
+Next slide.
+We need to evaluate if booster doses
+of COVID vaccines will reduce COVID incidence,
+hospitalization, and mortality.
+We're not likely to have long term efficacy studies
+with booster doses, but need to think through other ways
+to address if booster doses will reduce COVID morbidity
+and mortality.
+Next slide.
+Then do booster doses improve VE against the delta variant
+and other variants of concern?
+Again, delta is what we're focused on now,
+but it's unlikely to be the only variant we'll have
+to address in the future.
+What do we know about boosters and other known variants
+of concern and how can this data inform VE for future variants?
+Next slide.
+So now highlighting the work group interpretation
+of these considerations and the framework around booster doses.
+First, further thoughts around the public health problem.
+Right now, the largest public health impact will continue
+to be from individuals receiving the COVID vaccine
+primary series.
+We know that the vast majority of cases,
+especially cases requiring medical attention now,
+are in unvaccinated individuals.
+The best way to address the current surge we're experiencing
+is for individuals to receive the primary series
+that is currently recommended and available.
+Then decisions for boosters need to focus on the prevention
+of severe disease, hospitalization, and death.
+And the work group strongly emphasized the importance
+of ensuring global vaccine availability.
+New variants could emerge from regions
+with low vaccine coverage and high community transmissions.
+One of the best ways to protect the population here
+from the next variant threat is to ensure that the remainder
+of the global population has access to a safe
+and effective COVID vaccine.
+Next slide.
+Next, the work group interpretation
+of the benefits and harms.
+Neutralizing antibody data will be important
+for booster dose discussions,
+but may not represent the entire immune response
+to COVID vaccines.
+We can't make decisions around boosters based solely
+on detectable neutralizing antibodies.
+The cellular immune response can be difficult to measure
+in a broad population, but is important
+in our ability to fight COVID.
+And commercial antibody testing is not authorized or recommended
+to evaluate post-vaccination immune response.
+Based on available data and the timing of vaccine rollout,
+the initial booster vaccine policy will be focused
+on the at-risk adult population.
+Adolescents are only just now receiving their primary series.
+The at-risk individuals we've highlighted,
+that we'll focus on, include adults 65 years of age and over,
+long term care facility residents,
+and healthcare personnel.
+Next slide.
+So going back to our road map for booster doses, today,
+we've discussed key considerations
+for decision making.
+Next slide.
+The plan now is to have another ACIP meeting
+in the next several weeks where we'll fill in this framework
+and identify what data are available for decision making.
+Then, once we've evaluated the available data
+and have regulatory allowance for booster doses,
+we can address if ACIP recommends booster doses
+of COVID vaccines in any populations.
+Next slide.
+I do want to highlight that there will be some questions.
+We may not have the amount of data desired
+as we move into these decisions.
+We may not have detailed information around how VE varies
+for each specific COVID vaccine in each specific subpopulation.
+We may not know VE for booster doses of COVID vaccines,
+especially in each subpopulation.
+And finally, we won't know how the need for booster doses
+of COVID vaccines evolve as the pandemic evolves.
+However, by continuing to present
+and discuss the available data at public ACIP meetings,
+we can highlight what we know and don't know and how
+that information can inform future--
+possible future recommendations.
+Next slide.
+I want to thank the mighty team listed here that's helped
+with the many things our COVID ACIP team is working
+on that you see and don't see, as well as the vaccine
+and EPI taskforce
+and respiratory viruses branch here at CDC.
+Next slide.
+So, our question posed to ACIP today is does ACIP agree
+with the framework laid
+out to address booster dose recommendations
+and the work group interpretations?
+And are there other questions
+that would be important for ACIP to address?
+Thanks.
+>> Thank you so much Dr. Oliver.
+That was an excellent presentation as always
+and a clear delineation of issues at hand.
+I want to ask are there any ACIP members who have any questions
+that they'd like to ask?
+>> Dr. Talbot.
+>> I actually have two.
+I think one of the important things for us
+to define are how many-- or to [inaudible] the number of areas
+in the U.S. with low vaccination rates.
+Giving a third dose to people who are already willing
+to get a vaccine and to mask may not overcome the large pockets
+of unvaccination.
+And so, I think--
+>> Dr. Talbot.
+We can't here you.
+Dr. Lee, can you hear us?
+>> The comments and the questions.
+I'm hoping they can hear us.
+And then at the end we can capture all the comments
+and have a discussion about those.
+Dr.--
+>> Dr. Lee, just to give you an update--
+>> Dr. Virginia Caine with the National Medical Association.
+Are we also looking at my concern for boosters related
+to chronic medical underling conditions, such as diabetes
+in our patients where they may be immunocompromised?
+And we know the durations of our vaccines,
+based on your studies you just showed about eight months,
+but does the delta variant create any issues
+for the longevity of our immunity related
+to the effectiveness of this boost immunization?
+So, I'm very concerned that it may be a different efficacy,
+depending on race and the type
+of chronical underlying medical condition,
+compared to our majority population.
+And I really emphasize this that when you look
+at African Americans, Latino X populations, Native Americans,
+we're almost three times the rate of hospitalizations,
+our death rates are over twice as great
+as our white counterparts, so I'm very concerned
+about making sure that we're doing those booster dose
+recommendations that's really required for our populations
+that may have a higher rate of some mild immunocompromised
+that doesn't merit the rank of being a transplant
+or an advanced treated HIV but a significant populations of a lot
+of chronic medical conditions that can impact us.
+>> Okay, thank you so much, Dr. Caine.
+There's a couple more questions in the chat.
+I see that our CDC colleagues are back on.
+May I ask if you were able to hear the questions
+or the comments or if you missed them?
+>> Hi, Dr. Lee.
+This is Dr. Oliver.
+Can you hear me?
+>> We can, yes.
+>> Okay, great.
+We dropped out through Dr. Talbot's questions,
+and then we heard what Dr. Caine said.
+So, I don't know what was in the in between.
+But we're happy to follow up and have individuals on our team
+that were taking notes as well.
+>> Okay, terrific.
+I think I'm just going to jump in for one second,
+this time as a member, and comment quickly about a couple
+of things that I had heard, and also my own questions,
+which are I think better correlative immunity are
+sorely needed.
+We actually all understand that.
+I think it would be really helpful to understand
+of the gaps in the data that are currently existing, you know,
+what's being pursued by the companies and or FDA
+as standards for immunity and or NIH to better understand it,
+you know, any information--
+I recognize that a lot of us won't necessarily sit
+within CDC, but it seems like we need that strong partnership
+to better define what the correlative immunity are.
+The context of the unvaccinated can't be forgotten in a--
+in the silo of this particular question,
+which I know you all recognize,
+but I think that was emphasized again.
+Individuals living in congregate living facilities, I'll just add
+that as a particular topic.
+And then this question about chronic medical conditions
+and race ethnicity, I think the main--
+I think this reminds me of the conversations we had
+when we were talking about designing those clinical trials
+and ensuring that there are diverse populations included,
+to demonstrate efficacy and safety
+and just how important it is for us not to forget
+that that continues to be important in the effectiveness
+and post-market safety phase and that we need to continue
+to pay attention to any meaningful differences,
+and some of that is already in what you're doing
+with understanding risk by different conditions.
+But I think, also, just for us as ACIP to remind ourselves
+that we can't ever forget how important to continue
+that attention on ensuring that the benefits and the risks are,
+you know, for everyone.
+Okay, I'm going to pause there.
+Dr. Oliver, is there anything you want to respond
+to in the very short time before I move
+on to additional questions?
+>> Thank you.
+Just that noted and taking notes, I think we are aware
+of those gaps as well and we'll hope to fill them
+in with future presentations, but taking notes.
+Thanks.
+>> Thank you.
+Dr. Maldonado.
+>> Yeah, thank you very much for laying out the framework
+for consideration and future policy decisions,
+but I want to make two points.
+The first is, so we're well beyond a year now
+when these clinical trials started and these many thousands
+of individuals submitted to really exciting opportunities,
+but also provided blood samples and lots of detailed follow up
+and I really think that the companies really owe it
+to the public health infrastructure of the U.S.
+and elsewhere to really find those data.
+I mean it's been a year.
+We know that breakthrough cases happen,
+we know there's blood samples that were available.
+We should be able to identify at least some level
+of correlation between--
+Hello? Sorry.
+Anyway, correlation between immune markers
+and breakthrough cases versus not.
+I mean that's not hard science.
+I mean that's pretty straight forward
+and I think the data should be there
+because the samples are there and the patients are there.
+So, we really need to hold these groups accountable,
+given that many thousands of people volunteered,
+took blood in these bio banks and they are available now;
+we should be seeing these data.
+So, I really call on transparency on that
+and immune correlate is critical at this point
+and there's no reason why we shouldn't start
+to at least understand and know what we understand
+and what we don't.
+The second thing I want to point out is, again relative
+to children, that let's not wait until we finish one set
+of studies before we start tacking on more studies.
+It just it takes more time to do that and why not plan ahead
+with the children that we have now, like you have done
+with adults, so that we can enroll all the children we meet
+up front and make sure that we do booster work with them too,
+if that is appropriate.
+But adding them on at the end is highly inefficient,
+it's not fair to the family and it is really an obstacle for us
+to getting long term data on children that we also need.
+So those are just two calls to actions, if you will.
+>> Thank you, Dr. Maldonado.
+Dr. Zahn.
+>> Thank you, Dr. Lee.
+Just a comment is I think it's going to be really important
+to be messaging appropriately about ACIP's deliberations.
+It seems like, to me, from-- as of today, officially,
+the ACIP is considering the need for a booster dose.
+But to my mind, from what I see from epidemiology
+and my community I think
+around the country is I think we have very little evidence
+at this point that waning immunity, you know,
+is a significant driver burden disease right now.
+Right now, the, you know, the overwhelming driver of disease,
+and serious disease in particular,
+is people who are unvaccinated.
+And I think the CDC's-- you know, the ACIP's cadence
+of meetings for this, which is going to happen
+over several weeks and obviously the FDA deliberation is going
+to be important as well reflect--
+I mean I think that reality, but I--
+and I think that if epidemiologic data
+or those facts on the ground change then ACIP
+and the FDA will change accordingly in terms
+of their assessment of the situation, you know,
+to more promptly, you know, provide guidance as needed.
+But I guess my point is that right now it seems
+like this conversation is anticipating the potential need
+over time to give a boost of dose as opposed
+to there's evidence that people need a booster dose right now
+and the ACIP is just looking through the data
+and I just think that that's an important distinction that's
+going to be important to communicate
+that to the general public and the providers.
+>> Thank you, Dr. Zahn.
+Are there any other questions or comments?
+Alright.
+>> Dr. Lee, I don't see any other comments.
+I know that this is like--
+this is the first of many discussions,
+and we do anticipate part of the reason for us
+to have multiple meetings over the next several weeks is
+as this data emerges, we wanted people to start thinking
+and be prepared to address it.
+So, if you-- if you are ready, we can go ahead
+and close this meeting, or do you have any final comments?
+>> Well I just want to thank all of our presenters
+for leading these robust discussions
+on the topics most recently of variants and boosters,
+but also for the vote on immunocompromised.
+I think it was a really productive meeting today.
+I'll look to my ACIP members to see
+if there are any last comments
+or suggestions that they might have.
+Okay. Well hearing and seeing no additional hands raised,
+and given that we are running late, I will now be very happy
+to adjourn our meeting today and thank everyone
+for your participation and your engagements.
+Dr. Cohn is there anything else?
+>> That is it.
+This concludes the meeting.
+After you officially conclude it and we be on the lookout
+for information about a meeting on August 24th
+or any potential changes
+and we appreciate everyone's time today.
+>> Thank you.
+The meeting's now adjourned.
+Everyone have a great day.
+Take care.
+>> Thanks.

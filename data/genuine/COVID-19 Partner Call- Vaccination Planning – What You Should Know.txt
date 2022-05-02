@@ -1,0 +1,883 @@
+Hello everyone, my name is Diane Hall and I would like to welcome you
+to today's CDC partner update call on COVID-19.
+This call serves as a way for CDC to share weekly updates on COVID-19
+and our latest resources and guidance,
+especially for the private sector and other partners.
+Today's call will focus on CDC strategies for vaccine planning.
+First, we will hear from our COVID-19 response Chief Medical Officer about where we are
+with the response and what everyone should know about protecting themselves and others.
+Then we will hear from the director of the COVID-19 vaccine task force
+about vaccine planning efforts to date.
+Afterwards, our speakers will take questions from the audience.
+Please note this call is intended primarily
+for CDC partners directly involved in the COVID-19 response.
+It is not intended for media.
+Should media who are listening have questions, we invite you to reach out to media@cdc.gov.
+We are recording this call and it will be posted on CDCs COVID-19 website.
+It will also be available on CDCs YouTube channel.
+All past partner call recordings can be found there.
+So please take some time to look over the topics and to share the links for those.
+If this is your first webinar with us welcome.
+Our weekly calls occur every Monday at 3pm Eastern.
+Please see the link in the chat box to subscribe to our mailing list
+to receive future COVID-19 partner update webinar invitations.
+We use several email lists for sending out invitations for these calls.
+If you've missed an invitation over the past few weeks, please click that link in the chat box
+to make sure that you are on the CDC COVID-19 partner email list.
+I would also like to take this opportunity to remind all participants
+that our website has our latest information guidance and communication resources.
+We have over 2000 documents providing information and guidance for individuals,
+businesses, schools and the public on our website.
+In addition to the resources we'll highlight today, some updates that posted
+within the past week include release of indicators for dynamic school decision making,
+to help schools make decisions about in person learning
+as local conditions evolve throughout the pandemic.
+We've also updated information on obesity, race/ethnicity, and COVID-19.
+And this includes new maps and science on the racial and ethnic implications
+and potential complications for patients with COVID-19.
+The easiest way to see the pages that have been updated is to go to CDCs main COVID-19 web page.
+And if you scroll down a bit, you'll see a latest update section.
+And you can click on there and see the update and the date of it.
+Thanks to those of you who sent us questions in advance.
+We have already teed up a few of those.
+And we'll also be keeping an eye on the Q&A box.
+So please feel free to submit questions or add a thumbs up to questions
+that are similar to your question.
+We will not be viewing the chat box or monitoring it.
+We will use that to post links as we talk about different resources.
+So if you do have a question, please use the Q&A, not the chat.
+And the Q&A box is located on the bottom panel of the Zoom window on your screen.
+I'm pleased today to be joined by two CDC experts on the COVID-19 response.
+Dr. John Brooks, our Chief Medical Officer for the COVID-19 response.
+And Dr. Nancy Messonnier, the director of the COVID-19 vaccine task force.
+Please note that there will be slides for Dr. Messonnier's portion of the presentation
+but we do not have slides for Dr. Brooks update.
+If you experience any difficulties, technical difficulties or would like to review the call.
+Again, we are recording it and it will be posted
+on the CDC COVID web page as well as CDCs YouTube channel.
+Now, let's turn to Dr. Brooks for some updates.
+Dr. Brooks.
+>> Oh, thank you so much, Dr. Hall, and welcome everyone again for joining us today.
+As Dr. Hall mentioned I'm John Brooks,
+and I'm the Chief Medical Officer for the CDCs COVID-19 response.
+And today I'd like to provide just a brief update on the COVID response at CDC
+so that we can have a lot more time
+with my colleagues Dr. Messonnier [inaudible] vaccination,
+and also some of the latest scientific updates and guidance
+that may be relevant to vaccination.
+Let me give you a quick situational update and bring you all
+up to speed of where we are since last week.
+Globally, there have now been over 30 million cases worldwide and over 958,000 deaths.
+That is as of September the 21st.
+So we're approaching 1 million deaths worldwide.
+Specifically, the US there have been over 6.7 million confirmed or probable cases
+that were reported to CDC, and tragically 198,000 deaths,
+so we're approaching 200,000 there.
+These represent 22% of all cases and 21% of all deaths reported worldwide since the beginning
+of the pandemic, which is also more cases and deaths than contributed by any other country.
+India and Brazil are third in terms of cases and deaths.
+And India has more cases, whereas Brazil has had more deaths.
+Over the past seven days, the average daily number of new diagnoses was about 40,000.
+And there's been a 17% increase compared
+to the daily number during the seven day period preceding the most recent one.
+Over the same most recent seven days, the daily number of deaths has been between 750 and 800,
+which is an 8% increase compared to the seven days prior and in contrast to last week,
+now 41% of reporting jurisdictions and states see an upward trajectory.
+The degree of reduction in the current phase of the epidemic is going to continue to vary
+as it has since the beginning by state, and the daily numbers
+of both cases and deaths remain high.
+Achieving control nationally will continue to depend
+on a strong strong public health response including increased access to testing
+with shortened turnaround times for results for those who need it, and more widespread adoption
+of what we call non pharmaceutical interventions or NPIs.
+I know many of you have heard of repeatedly including this call
+and these include social distancing, hand hygiene, masking in public,
+especially when [inaudible] each other, covering coughs and sneezes, avoiding touching your face
+and routine disinfection of high touch services.
+We also recommend increasing ventilation.
+And of course, monitoring yourself and others closely for illness,
+I'd encourage you to visit COVID CDCs -- rather COVID view web page,
+where we have a weekly summary and interpretation of key indicators
+that have been adapted to track the epidemic in the US.
+I'd like to now highlight one MMWR and note as always that scientists around the country
+and the world are working diligently
+to better understand how COVID-19 illness affects both patients individually
+and their communities.
+Today I want to share with you what we've learned in the last few weeks from one report
+in the MMWR that's the morbidity and mortality weekly report for those
+who don't recognize the acronym that I think has some relevance for today's topic.
+Just before I describe this report, I'd like to address some controversy.
+Some of you may have seen in the media about the scientific integrity
+of this publication as well as possibly CDC.
+I'll note that the MMWR is often referred to as the voice of CDC.
+And I want to assure you that the MMWR staff works methodically
+to follow the most rigorous scientific review process akin to that of some
+of the highest scientific journals to ensure timely, accurate,
+reliable and most important trustworthy public health information and recommendations.
+CDC as an agency stands by the scientific integrity, of the more than hundred,
+gosh now over 100 COVID-19 reports that the MMWR has published to date.
+And our agency remains steadfast in its commitment to make public health decisions
+and recommendations based on the highest quality scientific data in a manner derived openly
+and objectively placing the benefits of society above the benefits to our institution.
+I hope some of you saw that our testing guidance has been updated.
+And some of you may have also noticed that over the weekend,
+we had a posting that was describing spread of COVID-19, possibly as an airborne pathogen.
+I just want to let you know that this was an early draft of a document
+that was presently undergoing scientific review.
+It wasn't intended to be posted that was an error on the part of our agency
+and I apologize on behalf of CDC for that.
+We weren't ready to put it up.
+We are -- and as we go down that road we'll
+of course update all guidances that relate to this topic.
+We're looking at the possibility of COVID being transmitted as sort
+of an opportunistic, airborne condition.
+That means that that it can possibly be transmitted through the airborne route,
+but that this is not the main mode of transmission, that the main mode
+of transmission remains close exposure
+within that six foot circumference of a person who's infected.
+Now let me go on just briefly to summarize the MMWR.
+I mentioned this was published last week on September the eighth,
+titled decreased influenza activity during the COVID-19 pandemic in four countries;
+United States, Australia, Chile, and South Africa 2020.
+And this has particularly interesting implications for the upcoming flu season.
+So this study looked at annual flu trends in the countries I just mentioned,
+and compared rates during the most recent season during the pandemic, to rates during prior years
+that were not -- where there was no COVID-19 pandemic.
+So for the US part of this analysis, investigators used data
+from about 300 clinical laboratories in all 50 states, Puerto Rico, Guam and the District
+of Columbia that participate in a virologic surveillance program our agency maintains
+for influenza.
+Looking at the past year's 2019, 2020 flu season,
+during the period after the national emergency was declared,
+influenza virus circulation declined sharply.
+Before the emergency declaration, more than 20%
+of submitted specimens tested positive for influenza.
+Whereas after that declaration, this percentage dropped to about 2%.
+And during the later intra-seasonal period.
+So when we're moving out of the flu season now, as it happened in the late spring
+and into the summer, the percent positive among submitted tests,
+read [inaudible] maintain historically low levels at around point 2%.
+And that's compared to 1 to 2% that we see in this intra-seasonal period usually.
+So let me now look at the data from the southern hemisphere countries I mentioned.
+Chile, Australia and South Africa.
+And this is for their most recent flu season that occurred completely during the pandemic.
+Their seasons are [inaudible] different from ours,
+and they're actually now entering their spring.
+And really, what's interesting is during the last flu season,
+their influenza activity was basically flat and below 1%, throughout,
+where they'd had robust influenza activity in preceding years.
+So I just want to caution that although in this kind of analysis [inaudible] cannot be inferred
+from these ecologic comparisons, these consistent trends
+over time and place are very compelling.
+And there's biological plausibility, premise that the community interventions we've all put
+into place for COVID-19, those ones I mentioned before and for a disease like COVID-19, which,
+like influenza is spread primarily through respiratory particles,
+that these same interventions that were designed
+for COVID also helped interrupted influenza transmission.
+So together with vaccination for influenza, we continue to recommend
+that we do all those things I've mentioned and everyone's been talking about for COVID-19
+to reduce its incidence that is an influenza during the coming influenza season.
+And on that note, and before I move to Dr. Messonnier,
+I'd like to remind everyone that flu season is coming.
+And with rare exceptions, the CDC recommends annual flu vaccination for everyone six months
+of age or older, and especially this year, during the COVID-19 pandemic.
+I encourage all of you to get your yearly flu shot, and encourage all of your partners
+and those in your organizations to call and support flu vaccination efforts.
+September and October are great times to get the flu vaccine.
+With that, it's now my great pleasure to hand you over to my colleague, Dr. Nancy Messonnier
+to share information about CDCs COVID-19 vaccination implementation plans.
+>> Great. Thank you, John.
+And thank all of you for tuning in today to listen, I hear it's quite a full house.
+I'm happy today to talk to you about the plan for COVID vaccine implementation.
+Next slide, please.
+Some of you have probably heard us talk about this before.
+And, you know, the goal of getting prepared for vaccination is
+to be prepared before a vaccine is ready and available.
+And that's certainly what we're pressing to do now.
+And as I start this talk, I want you to know that I realize many of you are dealing
+with everyday emergencies -- with emergencies every day as you work
+to respond to the current pandemic.
+I know, it's hard sometimes for us to be saying wait,
+no need to worry about something that's still a few months away.
+But as you'll see, as I move on, I hope I'll convince you of why we really do need to get
+on to the actual practical, objective work of planning for vaccination now,
+so that it can be seamless when vaccine is available.
+Next slide.
+There's a huge amount of work going on right now in the US and around the world to get safe
+and effective vaccines and we should --
+we should be happy to hear that that work seems to be proceeding really well.
+But we also I think all know that the goal is not to have a safe
+and effective vaccine sitting on a shelf.
+The goal is to have a program that administers COVID vaccines safely and effectively
+in a manner that helps us with another tool to end this pandemic.
+We all have done vaccination before.
+I mean, it's been part of what we've been planning for for years, for example,
+for a flu pandemic, but there are things about COVID that make this especially a daunting task.
+And this slide just attempts to outline some of the things
+that really make this a complex and evolving landscape.
+So the vaccines for COVID are many.
+There are at least six vaccines that are currently
+under development in the United States.
+But the vaccines are actually quite different.
+Some of the vaccines are two dose vaccines, and in fact, only one of those vaccines is one dose,
+and the products are pretty different and not interchangeable.
+That means if the recommendation is for two dose vaccine,
+we actually need to get the same vaccine both times.
+Vaccines have varying presentations.
+Because the vaccine platforms are so different the vaccine efficacy
+and adverse event profile looks different, and will be different in different populations.
+There are varying cold chain requirements for these vaccines,
+and some of them don't fit neatly into our routine immunization cold chains.
+For example, one of the vaccines requires --
+requires transport and storage in ultra low cold temperatures.
+And we really need to be aware of that as we plan for the implementation.
+Certainly, we all believe that it's imperative that we protect children and pregnant women.
+But at least the first available vaccines are being tested in adults,
+and they won't be immediately available for use in children or pregnant women.
+As we planned for vaccination, one of the things
+that we certainly never fully considered was the need
+for socially distance vaccination practices.
+But if we want everybody to feel safe about getting their vaccine, we need to make sure
+that we can vaccinate them safely.
+This year's flu season in some ways is a good opportunity
+to test drive [inaudible] distanced practices.
+There is guided [inaudible].
+Communication and education are always important as we plan for vaccination.
+But in the current vaccine planning, it's actually even more important,
+as myths and misinformation are already spreading.
+But also because the US government has been investing early manufacturing of vaccines
+at risk even before those vaccines are license or the phase three studies are completed,
+we may actually have vaccine available much more quickly than we normally would
+after FDA authorizes the juice and CDC makes recommendations.
+And that's a great thing.
+But it also means that we'll have much less time to make sure
+that providers understand these vaccines so that they're ready
+to answer questions from their patients.
+In addition, we have to acknowledge that from a starting place some high risk groups
+for COVID might start with distrust of public health.
+And since we do want to make sure that every community across the United States has access
+to this vaccine, we need to start now in planning,
+make sure that communities get the appropriate outreach so they can understand
+about this vaccine and our systems now.
+Next slide.
+There are multiple critical components to vaccine implementation.
+And the public health impact relies on rapid, efficient and high uptake
+of the complete vaccine series with the early focus on these high risk groups.
+And this diagram just attempts to point out the multiple things that are going on.
+It looks like from the chevron's that it's sequential.
+But in fact, each of these pieces is something we're working
+on now to try to make this seamless.
+So just starting at the left.
+It's certainly important to be prioritizing populations, especially at times
+when perhaps we won't have enough vaccine for everybody.
+The National Academy released a report last week giving their input on this
+and CDCs Advisory Committee on Immunization Practices has been meeting since the spring
+with this topic is one of the topics on their agenda.
+There's an ACIP meeting tomorrow, starting at 10 and going all afternoon,
+if you want to tune in to hear those conversations.
+One of the things to understand is that while the conversations about prioritization are going
+on now, we won't get the complete precise ACIP recommendations around prioritization
+until there's actually a vaccine so that they can look closely at the vaccine characteristics
+and how it impacts prioritization.
+Once vaccines are prioritized, they need to be allocated to state health department or to some
+of the commercial entities that are going to help with vaccination as well as allocating
+to some of the federal entities who are also going to be taking responsibility
+for vaccinating their own populations.
+Vaccine needs to be distributed through the manufacturer through a distributor to the state.
+I'll talk about that more in a few minutes.
+Administration is clearly complicated because of the conditions of this vaccine.
+And I think our universal desire to do everything we can to be efficient,
+that we don't waste time getting a protected resource to people.
+We always in the CDC monitor safety, effectiveness uptake,
+and especially to ensure the second dose, but we're paying special diligence to this.
+Finally, there is a part at the end that we need to remember that vaccine needs
+to be recovered if it isn't used.
+We all utilize data to drive our decision making.
+But for this vaccine, in particular, we are doing extra efforts to make sure
+that we have the right data so that we can monitor supply
+so that we can monitor vaccine uptake use and coverage, so that that data can be used,
+make decisions about allocation, distribution, and administration, and of course data
+on adverse events and vaccine effectiveness.
+The foundation of all of this are regulatory considerations so that we can ensure
+that the vaccines are being rolled out with the best regulatory framework.
+And overarching all of this is the importance of communication and stakeholder guidance.
+And I will get back to that as well.
+Next slide.
+It's sometimes I find confusing to think about this enterprise
+because it is really complicated.
+And so this attempts to sort of simplify our thinking around the US vaccine program,
+and to point out how our planning for distribution and administration will be adjusted
+as the volume of vaccine doses increases.
+So starting at the left, the COVID vaccine program, it's a real partnership,
+under the umbrella of Operation Warp Speed between DOD and HHS.
+And our partners at Operation Warp Speed tell us that we should be planning for the first doses
+of COVID vaccine to be available this calendar year.
+And that's this column on the left.
+But in that first availability of vaccine, we actually expect
+that there will be limited doses of vaccine available.
+So in a setting of a constrained supply, we will be targeting administration
+to achieve coverage in priority populations.
+So the administrative strategy that goes along with this is tightly focused administration.
+And based on the conversations from the National Academy, and from ACIP, as well as Hopkins
+and the World Health Organization.
+At this point, we're expecting to be focused on, we think, groups at high risk
+because of their occupation, as well as specific priority populations.
+Because of the characteristics of the vaccine, we expect the vaccine
+to be administered in closed settings.
+That means that we expect the people coming to the vaccine.
+At this phase, we don't expect the vaccine to be available in every provider's office.
+I think that's important for you all to know
+that the day we announced vaccine is being rolled out,
+we don't want people calling their provider expecting to be able to get it.
+That is going to occur in the second stage.
+So again, because the vaccine is being manufactured already, we expect that next year,
+vaccine may be more rapidly available.
+And again, these are numbers from our partners inOperation Warp Speed.
+In this phase, we expect there will be sufficient to plan [inaudible] to meet demand
+and supply means we'll increase access.
+In order to really deliver on the promise of this vaccine we need
+to have a broad administration network to include this surge capacity
+so that we can get vaccine out to everybody who wants it.
+So we'll be expanding quickly beyond our initial populations.
+We'll be administering through commercial and private sector partners.
+That means pharmacies, doctors offices and clinics, and everybody's mobilizing to be able
+to do that in a much more efficient and stood up way.
+And we also expect to be administered to public health sites, like mobile clinics,
+FQHCs and that the public health responsibility will really be to target communities that are
+at higher risk or that we think we may have concerns about in terms of access.
+Finally, at some point, I know we're all looking forward to getting to this third column,
+which is where at some point, we are going to move into a more routine strategy.
+If the risk of COVID continues in the United States, and the immunity induced
+by vaccine wanes, we'll expect to have to do routine vaccination,
+and at this phase we'll likely have excess supply,
+would likely be using a broad administration network with open vaccination, commercial
+and private partners and maintaining public health sites
+where it's required to ensure access.
+Next slide.
+So our planning for distribution could be quite complicated.
+I've tried to simplify it on this slide.
+So for those of you who were in these -- in these roles in H1N1 or who do immunizations
+as part of your routine work, you should recognize this model,
+which is a centralized distribution.
+So the idea is that, in routine immunizations vaccine goes from the manufacturer
+through a distributor to private providers.
+But in order to assure that we are as efficient and effective as possible in targeting vaccine
+and ensuring sufficient supply, especially in that early phase, where we have limited supply,
+we're planning for centralized distributor.
+Vaccine would flow from the manufacturer, to a distributor, to the administration site,
+there may be some allocation into depots or jurisdictions with additional direct allocations
+to selected private partners to expand access.
+For one of the specific vaccines, they may be using a different distributor,
+but it'll still be centralized ordering.
+And that means that we will be able to manage supply much more tightly and again,
+very important in this early stage where we have limited supply, and we need to make sure
+that the vaccine is really targeted on those priority populations.
+And also to ensure that for those vaccines that require two doses, we're getting --
+we're being sure that providers and patients have access to a second dose.
+Part of the reason we're doing this also is that we think it provides a way
+to actually manage this much more closely.
+And so matching with the movement of the vaccine through this system,
+we also have data system set up to be able to facilitate it, where we'll be able
+to monitor the supply levels more closely.
+But we're also putting in systems that will allow dose level accountability, which again,
+would be really important as we control this system, but also for local
+and state health departments and policymakers
+to understand the impact of the vaccine in their area.
+Now at the bottom of this, you'll see some light blue boxes,
+who show some of the administration sites, it's not meant to be inclusive.
+But the idea here is that especially in that second phase, we're going to have to go outside
+of our traditional sites to really ensure rapid access to the vaccine,
+when it becomes more widely available.
+Next slide.
+One of the things that we're planning for is to ensure
+that select critical populations have planning in advance
+for the most efficient way to reach them.
+So this is not meant to be an all inclusive list.
+But just to show you that for patients in this --
+or for the population of critical infrastructure and essential workers, people at increased risk
+for illness, people at increased risk for COVID-19 with limited access to vaccination,
+we're planning in advance saying, okay, what's the most efficient way
+that we can reach these populations.
+And we're then providing that information to state and local health departments,
+who are incorporating it into their plans in a much more detailed planning process
+than we typically do for the vaccines, or, frankly,
+that we did for planning for pandemic flu.
+So the idea is, for example, for long term care facility residents just to make an example,
+we don't think every state and local health department should have to figure
+out themselves what an efficient way to reach those populations are.
+But we all recognize that those populations are really important
+because they're at high risk for severe illness.
+So we're going to be providing answers con ops, for those populations to the states again,
+so that that can get incorporated into the state's planning.
+The planning for any of these populations will be iterative.
+We do have planning in place now with the states.
+But as we move forward, and as more information becomes available about the specific vaccines,
+as well as the quantity of vaccine that will be available,
+all of our plans will be tightening up.
+Next slide.
+This slide is just a summary slide to talk a little bit about communication.
+As you I'm sure all know during health crises, communication, community engagement,
+and cultural competency are critical.
+And there's lots of research into this.
+The research says an effort to prioritize targeted messaging, community engagement
+and support, and culturally competent interventions to promote equitable acceptance
+and uptake in this case, it was specifically about adult immunization,
+since at least that is the first target group for the available COVID vaccines.
+You look at the references for this data, and it's from 2009, H1N1 2015.
+And they really tell us that we need to start now planning for targeted messaging,
+we need to start now planning and starting launching community engagement.
+And that we really need to be aware of the importance
+of cultural competency as we plan for these messages.
+It's not just about the message, it is about the messenger.
+Next slide.
+One of the misconceptions I think, about vaccines is the monitoring for vaccine safety.
+And so I put this slide up, because I really want to make the point
+that vaccine safety is something that we take incredibly seriously during every phase
+of the lifecycle of a vaccine.
+So if you start on the left here, safety is a priority during vaccine development
+at every phase.
+It's certainly incredibly important to the FDA review process.
+But our CDCs Advisory Committee on Immunization Practices is also looking closely
+at that safety data before they make a recommendation for vaccine.
+And then what people -- I think public doesn't fully understand is the purple bar
+on the far right, which is that post licensure,
+post authorization safety monitoring is an established part of the vaccine lifecycle.
+Essentially, what I mean is that we never stop evaluating the safety of a vaccine,
+even if the vaccine has been around for years.
+In the beginning, after COVID vaccines are launched
+in the United States we'll be having additional concerted coordinated efforts
+by multiple federal agencies to evaluate that vaccine.
+But we'll also be relying on the systems that we use every day to evaluate any vaccine.
+Next slide.
+So the vaccine safety COVID-19 strategy is to use established systems
+to implement heightened safety monitoring, but also to develop new platforms
+and leverage other federal data sources to complement the existing systems.
+And we need to be communicating clearly, not only on the data,
+but we need to be communicating now on the vaccine safety process and the systems
+so that we can really, hopefully put to rest myths and misconceptions that somehow
+by moving quickly through the development process, vaccine safety is being given --
+we're cutting corners in terms of evaluating safety.
+That is certainly not something that is intended or planned.
+In fact, our planning at CDC and our commitment is to do our always rigorous job
+to evaluate the COVID vaccine safety and to be able to make
+that data publicly available as well as reviewed by experts.
+Next slide.
+So, a couple years ago, we in the United States suffered through a series of measles outbreaks.
+And it really caused us to think about our approach to vaccine hesitancy.
+Vaccine hesitancy has been around since the very first vaccine to [inaudible].
+You can find evidence of it around smallpox vaccine.
+But we also realized, in the past few years, that something had changed.
+And we really thought that the best way to surmount this was not to keep talking
+about hesitancy around individual vaccines,
+but instead to really develop this platform called vaccine -- Vaccinate with Confidence,
+which is a strategic framework for strengthening vaccine confidence
+and preventing outbreaks of vaccine preventable diseases.
+And the idea here is that while the specific causes are different, in general,
+the same underlying issues always cause vaccine -- people to lose confidence in vaccines,
+and that we really need to be getting to the root of the problem.
+I don't want to be scaring people into getting a measles vaccine or a COVID vaccine.
+I want to be providing information that bolsters their confidence
+in our overall immunization program.
+So I look at this now and I feel like the principles that we espoused
+when we first put this platform together, are really the same things
+that we'll be talking about with COVID vaccines.
+For example, to protect communities at risk we need to ensure
+that vaccines are easily available in every community and work
+with local trusted partners to reach at risk communities.
+We need to get providers and parents effective information resources
+and we've been doing outreach to get baseline information to understand who people trust
+to give them information about vaccines.
+Providers need to have that information at hand.
+And it's going to be complicated because these vaccines are different than other vaccines
+that we are using routinely in the United States.
+But patients will expect their providers to be able to answer questions.
+And finally, we need to start working now to stop the spreading of myths
+and misinformation that erode public trust.
+This is a space where I really think about not just the messages, but the importance
+of stakeholder engagement at every level of our community.
+Next slide.
+So one of the things that we're really doing now is trying to be more proactive
+about stakeholder engagement and strategies.
+So in the setting of vaccines, we're talking about stakeholder engagement
+as being the complex network necessary for successful implementation
+of a national COVID-19 vaccine distribution program.
+This engagement needs to support local, state and regional planning, to promote vaccine
+to the general public and special populations.
+And to ensure vaccine equity and access.
+Our strategies are to provide routine and timely updates on vaccine planning,
+like I'm doing to you -- with you today, to build the national network
+to amplify the messages and outreach to increase trust, acceptance, and uptake of vaccine.
+I think this is both at a national level, but really importantly, at a state and local level,
+where we're asking our state health departments to really step up their efforts
+to engage their stakeholders now, to engage in dialogue with new and existing partners
+to understand key considerations and needs for special populations.
+And to stand up specific stakeholder groups now, for communities of color so that we can ensure
+that those communities are getting reliable,
+scientifically valid information from people that they trust.
+Next slide.
+So what our partners need to know boiled down into one slide, it is a really complicated time,
+and a complicated vaccine landscape with many types of vaccines in development
+that could possibly be authorized by FDA.
+No matter how quickly vaccines are developed, CDC and FDA will deploy their routine procedures
+and systems to ensure vaccines are safe and effective, who is recommended
+to get vaccinated will evolve over time, our partners in OWS,
+a limited doses of vaccine will be available in 2020.
+But that supply will increase over time, and it may increase quite rapidly.
+Initially, vaccines will only be authorized and recommended for adults.
+And the COVID-19 vaccine planning is changing rapidly.
+New information will be available soon.
+And really new information will be available in an iterative way up until the time
+when we're actually rolling out vaccines.
+And please stay tuned for that information.
+What can you do now?
+Next slide.
+I think that there's a lot that partners can do.
+And if we're really going to be able to fulfill the promise of these vaccines,
+we need all our partners on board and engaged.
+So state partners can lay the groundwork for vaccinating every community
+through community engagement, including a workgroup and stakeholder groups,
+I think it's important to try to establish those networks now.
+You don't want to be doing it only at the moment when the vaccines become available.
+For partners that have healthcare personnel or essential personnel, you should know where to go
+for the latest accurate information on the COVID-19 vaccines.
+Because we believe that it's highly likely that health care personnel
+and essential personnel will be among those priority groups.
+So it's really important that you stay up to date with that information,
+and you should understand your facilities plan for vaccination because what we're saying
+for healthcare personnel and essential personnel is there should be a plan now,
+put together with the state and local health department's,
+plan now for how you're going to vaccinate.
+Again, that's not something you want to be scrambling with the day
+that the vaccines start rolling out.
+Finally, all partners, we hope that you'll help carry these messages.
+Partners are a trusted source of information who understands their audiences,
+their constituencies and their stakeholders best.
+I think that as we think about the trust that is needed to roll up your sleeve
+and get that vaccine really is partners who have access
+to the scientifically accurate information who can curate that information and you can talk --
+before you're even talking about the specifics of the vaccine, you can talk about the systems
+that we have in place, the way that we're rolling this vaccine out.
+I hope that demystifying this process, both in terms of how the vaccine will be delivered
+and distributed, but also in terms of how these vaccines are being developed,
+I hope that it will really reassure the public that these systems are robust and our evaluation
+of these vaccines will be transparent.
+If a vaccine is licensed or authorized and then recommended,
+it is because the best science says those vaccines are ready for use broadly.
+I thank you for your time.
+Next slide.
+I do think we have some time for questions.
+And again, think of this from me as the starting point for a series
+of conversations we'll come back and have as more information
+on these vaccines become available.
+Thank you.
+>> Thank you so much, Dr. Brooks and Dr. Messonnier, those updates were very helpful.
+And Dr. Messonnier, I'm glad you ended letting people know that this is the first
+of many conversations we will be having.
+So please make sure everyone that you are subscribed to updates,
+we do plan on providing those regularly as we learn more
+about vaccine development and distribution.
+So just one of the questions.
+There are a lot of things coming in the Q&A.
+So Dr. Messonnier, can you talk a little bit about timing,
+when the vaccine is expected to be available?
+There were some questions when you had your slide up with the different phases.
+And people were wondering what the timing of that would be?
+>> Yeah, so that phase slide was not on purpose.
+on the x axis, there were no timeline.
+So that was really a cartoon meant to illustrate the phases.
+So I'm glad you asked, because I don't want that to be read
+in as being a promise of vaccine on a certain time.
+What I can say is that the information I have about vaccine available comes
+from our partners in Operation Warp Speed.
+And they have told me that we should be ready
+for the first available vaccine this year, that's this calendar year.
+So that's what we're preparing for, the first available vaccine this calendar year.
+As anybody who works in vaccine development knows,
+you know, you can't get ahead of the data.
+And you know, things do happen.
+But we're working really hard with all of our partners to be ready
+for those first vaccines this year.
+Again, from our partners at Operation Warp Speed, they believe that much larger quantities
+of vaccine will be available early next calendar year.
+And that's why we're really preparing next year to roll out vaccine,
+much wider swath of the population, which really means we need
+to have much robust systems in place for administration.
+>> Thank you.
+There were also some questions -- I think there might be a little bit of confusion
+about how vaccines can be in a testing phase while also being manufactured.
+Can you speak a little bit about that?
+>> I think that is a question probably, that would be better going
+to the partners in Operation Warp Speed.
+But what I would say is that typically it is perhaps done more sequentially.
+But the US government is investing in manufacturing the vaccine now.
+Sorry, manufacturing the vaccine now, even before the phase three studies are done,
+based on their assessment of the --
+of these vaccines so that when the vaccines are authorized,
+we don't have to wait for manufacturing to scale up.
+>> Thank you.
+So essentially, that is making sure that we don't have a lag
+between when the data are available and when manufacturing starts.
+We also have quite a few questions about vaccine hesitancy which you mentioned and CDCs plans
+for media campaigns or education initiatives.
+Can you speak a little bit about that?
+>> Sure, I am, you know, HHS is the lead for the media.
+And I think that that's really going to be an important component.
+What we're really working on, though, is going back to those principles of vaccine confidence.
+We're really working on stakeholder engagement at a local level.
+So I think that, for me, part of what CDCs role is to develop materials
+and to engage those stakeholders and help those stakeholders have access to the information
+that they need to engage their communities.
+I think based on what I know from other vaccines that --
+other vaccines that we routinely give in the United States.
+Some of the vaccine hesitancy or the questions about vaccines can be actually really localized
+and you know, it really takes those one to one conversations with someone you trust,
+who listens to your questions and is able to respond
+to make someone feel comforted getting vaccinated.
+And I feel like it's those conversations all over the country, that we need to start now
+so that people are ready to receive a vaccine when it becomes available.
+>> Thank you, Dr. Messonnier.
+And that's clearly where partners play a key role.
+And as you stated, it's not just the message.
+It's also the trusted messenger.
+Could you speak a little bit more about anything you know right now about storage considerations?
+That seems to be a question that's coming up a lot.
+>> Yeah, I think that -- I think probably what people are asking about when they're asking
+about that is the cold chain requirements.
+And if you look at these vaccines, and you had all the time in the world, because you weren't
+in the middle of a pandemic, you might say, well, gee,
+that particular vaccine is not optimized for delivery.
+I mean, an optimal vaccine for delivery is one that basically could be
+at room temperature for long periods of time.
+And if you don't mind, I'd rather have my vaccine given orally,
+because I don't like shots, right?
+But right now, you're in the setting of a pandemic, things are moving ahead quickly
+on purpose, because the goal is to get a vaccine quickly.
+And that means that we need to adapt to the conditions of the vaccine.
+We can't always wait for the vaccine to adapt to us.
+So for example, one of the early vaccine candidates is a vaccine
+that is transported at ultra low cold chain.
+That means to me, that it won't be given in a lot of provider offices,
+because providers generally don't -- don't have ultra low cold chain freezers in their office.
+And so for vaccines like that people may actually be coming to the vaccine.
+For each of these vaccines, as we're moving forward, we're using the information provided
+by Operation Warp Speed, and looking at the specific characteristics of the vaccine,
+trying -- and designing a plan for distribution that is sort of workable based on that vaccine.
+But one thing we're not asking, for people to go out by minus 80 freezers.
+I mean, that is just not feasible.
+And frankly, not the -- not the best operations.
+And so the vaccines that are being provided, ultra low cold chain,
+we within our vaccine planning are coming up with options
+for how that vaccine can be delivered.
+Again, we're not expecting state and local health departments or healthcare providers to go
+out and buy ultra local chain, we're going to be providing that when it's needed.
+Finding alternatives.
+Again, we need to adapt these vaccines in the beginning, make the best use of them possible.
+>> Thank you, Dr. Messonnier.
+I think you covered several questions there with your response.
+That was very helpful.
+Can you speak a little bit about priority populations and how that will be determined?
+>> Right. So there are multiple groups that have looked at priorities,
+and certainly the National Academy has just released its preliminary report on --
+and we'll have a final report soon.
+For CDC, we look to our Advisory Committee on Immunization Practices,
+to look at all the available data on the disease.
+We look at the data on the vaccines, and to look at the advice and frameworks provided
+by these other groups and make recommendations to us about how to prioritize vaccine.
+Those conversations go on in plain air.
+That is they're -- they're transmitted, people --
+we used to have an in person meeting we certainly haven't been having that right now.
+But lots of people can tune in.
+I think it's really important, again, as we go back to vaccine confidence for people
+to see the ACIP discussing those issues, and looking at those factors
+and how it's impacting their thinking.
+Most of the groups so far have said that they believe that the first group
+for prioritization will likely revolve around health care workers, and essential workers.
+But again, ACIP hasn't made its final recommendations yet.
+And you know, we really do need to wait to have all the data they need about the vaccines.
+>> Great, thank you.
+Can you speak a little bit about what CDC is doing to engage people from racial
+and ethnic minority groups in terms of a vaccine?
+>> Yeah, so thank you for asking this question.
+It is a hugely important issue.
+We want to make sure that everybody has easy access, both to the vaccine
+and to the information that they need to make a decision about getting vaccinated.
+For those of you who are familiar and work on vaccines regularly,
+one statistic you might know is that there are racial/ethnic disparities
+in influenza vaccine coverage for adults, that is African Americans
+and Hispanics have lower flu vaccination coverage for adults.
+This has persisted for a number of years and is a frustration to me.
+We just this summer actually had an advisory group come in and give us --
+sorry, a consultation with a number of advisors who came in
+and gave us advice about this problem.
+And one of the things that they pointed out is that working nationally is important and fine,
+but really, change is going to come at a local and community level.
+And that that's where we can make the biggest impact.
+So we've taken that lesson to heart and are specifically working right now
+with this year's flu vaccination campaign, to really make sure that we're engaged
+at a community level where it possible to try to make sure
+that we're getting the messages correct.
+For me, when you ask what we're doing, we are definitely doing things at a national level.
+We're really also asking our state and local health departments to do that kind
+of engagement now, at a local level, because I think that is really where change will come.
+I think that's where the trust and the trusted messengers will come.
+I think we need to get those messages out there now about our systems, we need to have the --
+the pathways ready so that when we have specific information about the vaccines,
+we know who it's going to and how it's going to get there.
+>> Thank you, Dr. Messonnier.
+We also received some questions asking about weather -- and you may not know this yet,
+since information is changing so quickly.
+But do we think that this would be a once in a lifetime vaccination?
+Or do we think this would be more like a flu vaccine
+that you would need to have more frequently?
+>> Yeah, I think what I would say is, we don't know that yet.
+I certainly think based on the pathogen so far, we don't think you know,
+annual vaccines because the strain is changing.
+Doesn't, you know, it doesn't seem like that's what the data --
+lab data and epidemiology data are, are showing us.
+But again, that's why I put that third column,
+that routine phase in there, I think we don't know.
+And we need to be prepared for everything and anything.
+And that also points to the importance of continuing
+to monitor vaccine effectiveness over time.
+We are putting those networks in place so that we can monitor vaccine effectiveness,
+to see how long effectiveness lasts, whether effectiveness wanes.
+Hopefully there'll be more data available too soon on correlates of protection,
+which also would help with that evaluation.
+>> Thank you.
+Dr. Messonnier, I know you have another call.
+So I have one more question for you.
+I mentioned at the top of the call that you are the director for CDCs vaccine task force
+that is part of our COVID-19 response.
+Could you speak a little bit about what the task force is doing?
+>> Oh, gosh, I didn't expect that.
+So in the spring, as we looked forward, around what was coming,
+we stood up a vaccine planning unit, as part of the response
+that has frankly grown and grown since that time.
+The vaccine task force is doing three things.
+One of them is -- is responding to the decrease in childhood vaccine coverage
+that came as a result of the pandemic.
+A second thing is planning for flu vaccination for this fall
+for all the reasons that Dr. Brooks talked about.
+And the third is planning for the vaccine implementation, the COVID vaccine program.
+And that involves a huge number of things.
+And I'll just maybe do three or four major groups.
+One set of activities is around distribution and data.
+So we're putting together and enhancing our existing data systems to really be able
+to get end to end data, where as we show
+on that distribution slide, I simplified that dramatically.
+But underneath that simple slide are a huge number of complex questions partly engendered
+by this, for example, the questions that came up around the cold chain,
+but also we're really working to simplify and build on the existing partners.
+In that second -- another part is planning for implementation.
+A huge part of that planning is working with state, local health departments, jurisdictions,
+territories, tribes, federal partners, really everybody else who is going
+to be implementing vaccination so that they have a plan in place in advance.
+Those plans need to be as firm as possible, but they also need to be flexible.
+We want that in place before the vaccine is available.
+And that group is also looking at some of these special populations that I talked about.
+We have a third group that's really focused on evaluation.
+That is, for example, the evaluation of the vaccine safety,
+evaluation of the vaccine effectiveness.
+And then of course, we have our typical CDC groups, policy and communication.
+But again, that is of utmost importance with this vaccine.
+And of course, our Advisory Committee on Immunization Practices.
+I think at last count, I heard this morning that we were up to 370 people.
+This group is planning now, but this is the same group that as vaccine becomes available,
+we will be moving over to actually work on vaccine implementation seamlessly.
+I will also point out that we have multiple of our DOD partners actually here as part
+of our group, we work with them under Operation Warp Speed, but they are also here in Atlanta
+in the building next to mine, working with our team sort of so that we have
+as much enhanced capacity and we benefit from all the resources we can.
+I think you're right, I have another call.
+I really appreciate you all listening to me.
+I know you have lots of questions, and I'm sorry that we couldn't get to them all.
+Part of this is really that for a lot of things, you know,
+we're not completely done with the planning yet.
+But at the same time, we need to start moving forward.
+And your engagement is really crucial as we start planning
+for the availability of the first vaccines.
+Thank you.
+>> Thank you.
+Thank you, Dr. Messonnier.
+We really appreciate it.
+Dr. Brooks, I do have a question for you.
+Could you speak to when someone should get tested for SARS-CoV-2?
+>> Sure, I guess -- a little more context or is just that --
+is that just the question, when should you get tested?
+>> Well, there's a question about if you're not showing symptoms and when you should be tested.
+And then there's a really interesting question about if you're tested for both flu
+and SARS-CoV-2 and test positive for flu,
+but not SARS-CoV-2 what should somebody do in that situation?
+>> Great. Yeah.
+Interesting.
+So in terms of when somebody should be tested, I think one of the messages we've been trying
+to communicate -- and thanks for asking this question --
+is that we want people to be tested when they think they've had an exposure.
+That's the primary group you want to see get tested.
+So if you've had close contact with someone,
+whether you have symptoms or not, you need to be tested.
+Now, what constitutes close exposure?
+We generally say it's if you had direct contact with someone who was known to be infected,
+you have kissed them, they coughed on you, sneezed on you, something like that,
+you shared utensils or when eating with them.
+Or if you have spent 15 minutes or more, within six feet of them.
+Even if it was just sitting there, reading quietly, reading a book.
+Those are people who you really recommend testing for.
+If you don't know that you've had a contact, but you develop symptoms
+that you're worried could be COVID-19.
+And these are all -- these -- a lot of these symptoms are just like you might see
+with the flu and other flu like illnesses, that merits a test as well.
+And that's when you need to call your provider will go and seek out testing.
+What if you go and get the testing, and they test you for both influenza and COVID,
+which we hope to be more of the case in the future as we develop these sorts of PCR tests
+and other tests that can test all two or three at once.
+So it comes back and maybe says you have flu, but it was negative for COVID.
+What should you do?
+I think my general rule of thumb from a clinical perspective is that you manage the person first
+and foremost if they have influenza.
+The only thing that would alter my immediate thinking around that, two things,
+and all again, relates to exposure.
+Has that person had -- had that person also had a close exposure
+with someone who was known to have COVID.
+So he could be have sort of that unfortunate double whammy, right?
+You both get influenza, and you just recently had a close exposure.
+Or the prevalence of infection starts to really step up in your community.
+So that you know we're looking for that -- we want to see it going down,
+we want to see the number of cases going down, we want to see the percentage of tests
+that are done that are positive going down.
+But if that starts to take a different trend, and is really starting to jump up,
+I might be a little more predisposed to saying listen, while you're taking a couple of days off
+for flu, see if you can take 14 days off or more --
+14 days off or so rather to quarantine against the possibility you might also have COVID.
+There have been co infections reported.
+It's in -- I've seen some from other locations so we know it can occur.
+So yeah. I hope that's helpful.
+>> Yes, thank you, Dr. Brooks.
+Any closing remarks or additional thoughts you'd like to share before we wrap up [inaudible]?
+>> You know, just I want to really first of all thank you all for listening.
+As Nancy Messonnier pointed out your partnership in this is critical.
+We -- this is a book that we're just all starting to write together.
+And, you know, we're going to get more clarity, as we go on.
+This is the beginning of an ongoing conversation.
+I want to assure people that the name of the effort nationally,
+although it's called Operation Warp Speed, that doesn't mean we're rushing ahead heedlessly or,
+you know, without -- without being careful.
+And the one thing I hope everyone walks away from this call today is the real value all of us
+who are engaged in this [inaudible] safety aspect of vaccination.
+And I just want to thank you again for participating and your patience.
+Look forward to speaking with you next week.
+>> Thank you, Dr. Brooks.
+So I just wanted to let everyone know,
+this is actually the last call that I will be moderating.
+I have really enjoyed my time working on the response and working with the policy unit folks
+that are part of the response, and I'm pleased to announce
+that Lieutenant Commander Samantha Morgan will be taking over as deputy
+for that group, and will be with you next time.
+Just a reminder, we did record today's call and it will be posted on CDCs COVID-19 web page.
+It will also be available from CDCs YouTube channel page.
+And we did put the subscription link to receive future updates in the chat box.
+We will not have a call next week because of Yom Kippur.
+So please tune in to our call Monday, October 5, when experts from CDCs National Institute
+for Occupational Safety and Health or NIOSH will join us and share information on wearing masks.
+Thank you for joining us today.
+We appreciate your time.

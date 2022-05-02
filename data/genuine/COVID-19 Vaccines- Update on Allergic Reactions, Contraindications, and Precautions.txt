@@ -1,0 +1,965 @@
+Good afternoon, I'm Commander Ibad Khan and I am representing the Clinician Outreach and Communication Activity (COCA)
+with the Emergency Risk Communication Branch at the Centers for Disease Control and Prevention.
+I would like to welcome you to today's call.
+COVID-19 vaccines update on allergic reactions,
+contraindications and precautions.
+Continuing education is not offered for this COCA call.
+All participants joining today are in listen only mode.
+After the presentation, there will be Q&A.
+Using webinar systems you may submit questions by
+clicking the Q&A button at the bottom of your screen,
+typing questions in the Q&A box and submitting
+questions.
+Video recording of this COCA call will be posted on the
+page and available to view a few hours after the call
+ends.
+If you are a patient, refer questions to healthcare
+providers.
+For those who may have questions, please contact media
+relations at 404, 639 32 86 or send an email to
+media@cdc.
+gov.
+I would now like to introduce presenters for today's
+COCA Call.
+Our
+First presenter is Dr.
+Tom Shimabukuro.
+Dr.
+Tom Shimabukuro is a medical Officer and
+serves as vaccine safety team lead for CDC COVID-19
+response.
+Our second presenter is Dr.
+Sarah Mbaeyi.
+Dr.
+Sarah Mbaeyi is a medical Officer in the A COVID-19
+response.
+Please proceed.
+>> DR.
+SHIMABUKURO: Thank you.
+I want to make sure you can hear me before I can start?
+>>:: Yes.
+>> DR.
+SHIMABUKURO: Good afternoon and thank you for having me
+today.
+It's a pleasure to present to the group.
+I will be talking about anaphylaxis following COVID-19
+vaccination.
+Some slides presenting are adapted from presentation at
+ACIP on December 19, by doctor Tom Clark.
+The first concern for anaphylaxis following COVID-19
+vaccination occurred in the United Kingdom which
+initiated their vaccination program just prior to the
+U.
+S.
+initiating its vaccination program.
+On December 8, the UK started vaccinating with the
+Pfizer-BioNTech COVID-19 vaccine.
+On December 9, the UK authorities confirmed two cases
+of anaphylaxis after vaccination and prompted issued
+this press release from the NHRA.
+The confirmation to guidance to vaccination centers on
+managing allergic reactions following COVID-19
+vaccination with the Pfizer bio and tech vaccine.
+As far as the U.
+S.
+program, ACIP considered anaphylaxis risk during
+deliberations on the Pfizer biotech COVID-19 vaccine
+during December 11 and 12 meeting.
+It issued interim recommendations for the use of the
+Pfizer-BioNTech COVID-19 vaccine and shortly thereafter,
+CDC issued interim consideration preparing for the
+potential management of anaphylaxis at COVID-19 sites.
+At a ACIP meeting on December 19 and 20, CDC gave
+updates on anaphylaxis in the U.
+S.
+following COVID-19 vaccination.
+In this presentation, CDC identified six case reports
+of anaphylaxis following the Pfizer-BioNTech vaccine
+that met the Brighton Collaboration criteria through
+anaphylaxis.
+All cases occurred within the recommended observation
+window and promptly treated.
+All suspected cases were notified through VAERS or CDC
+notification processes.
+At that time, December 19, 272,001 process of Pfizer
+BioNTech were administered and currently over 2 million doses of
+the Pfizer vaccine have been administered.
+CDC actions to address these reports of anaphylaxis
+include close coordination with FDA on safety
+monitoring.
+ConContinued enhanced monitoring for anaphylaxis cases
+through the vaccine adverse event reporting system and
+involes rapid identification and follow-up on suspected
+anaphylaxis cases.
+Also, case reviews and consultation with allergy,
+immunology experts to provide guidance for persons
+following anaphylaxis to COVID-19 vaccine.
+I will say since the December 19 presentation, CDC and
+FDA through monitoring and VARES have continued to
+identify additional cases of anaphylaxis occurring
+following Pfizer-BioNTech vaccination.
+I want to emphasize the role of healthcare providers
+and safety monitoring, specifically for monitoring for
+anaphylaxis.
+That primarily involves recognizing, responding, and reporting
+anaphylaxis cases following COVID-19 vaccination to VA
+RES and reporting reporting adverse events to VAERS in accordance with the FDA Emergency Use Authorization reporting requirements and CDC guidance. I will also mention participation in CDC’s v-safe program both for yourself
+when you get vaccinated and encouraging patients to
+participate and communicating with patients on vaccine
+safety.
+VAERS is the nation's early warning system for vaccine safety
+and provides the quickest information on adverse events
+and quickest information to allow us to characterize
+the safety profile of newly authorized vaccines when
+they are recommended in the population.
+It is co-managed by CDC and FDA and spontaneous report
+or passive surveillance system.
+It depends on individuals to send reports to VAERS.
+Anyone can send reports to VAERS, but healthcare
+provider reports are particularly valuable because we
+believe the level of detail in the clinical information
+provided from healthcare providers in these reports is
+particular useful for CDC and FDA.
+The process for reporting adverse events to VAERS is an
+online process.
+Go to the VAERS website at VAERS.HHS.
+gov and on the page you see here, there are links on
+the left-hand corner.
+Click on the link and it takes you to the electronic or
+online reporting form, and you can fill out the report,
+click submit, and you get notifications that you
+successfully completed the report.
+For help, there is an 800-number and also an
+information email.
+If you want to watch video instructions on submitting
+VAERS reports, you can go to the YouTube link and view
+videos that have been created by CDC and FDA.
+I mentioned V safe and I will mention again.
+V safe is a active monitoring system that was stood up
+by CDC just for COVID-19 vaccination.
+These are some resources on the program.
+Right now, v-save involves manual registration process
+that patients have to register.
+What I show on the right-hand side is a screenshot of
+the v-safe information sheet.
+The full sheet has a URL and a QR code you can scan to
+take you to the registration site.
+Patients have to enter a few data elements and
+register.
+Once you are in the system, CDC begins sending text
+messages that involve health chickens.
+These messages have links to web surveys where you can
+report on post vaccination experiences.
+We ask that healthcare providers help us get as many
+people to use v-safe as possible and that involves
+giving one page information sheet to patients at the
+time of vaccination, or posting information in the
+clinic area, or area where individuals get vaccination
+posting that so individuals have access to the URL code
+and scannable QR code.
+Also, counseling patients on the importance of
+enrolling in v-safe can be quick in saying this is what
+the program is and we encourage you to participate.
+We created this electronic version of the information
+sheet, as well as promotional material for distribution
+to the public health and partners.
+I just want to wrap up with reference slide on
+information on how to report to VAERS.
+The most important thing that healthcare providers can
+do both to help us monitor for anaphylaxis and allergic
+reactions, and help us monitor vaccine safety in
+general, is to report adverse events to VAERS and
+report them as quickly after they happen as possible,
+and be as complete on the VAERS report as possible.
+I have some resources in general CDC vaccine safety
+information.
+Thank you.
+>>:: Thank you.
+This is Dr.
+Sarah Mbaeyi and I will go through updates to CDC's
+guidance around contraindications and precautions to mRNA
+COVID-19 vaccines.
+>> DR.
+MBAEYI: Although the investigation into these reports
+are ongoing, persons with history of immediate allergic
+reaction of any severity to previous dose of mRNA
+COVID-19 vaccine might be at greater risk for
+anaphylaxis upon re-exposure to either of the current
+authorized vaccines.
+CDC updated guidance around contraindications and
+precautions to mRNA COVID-19 vaccination.
+This guidance was developed in consultation with
+external experts and allergy immunology and vaccine
+safety CDC clinical immunization safety assessment
+project, as well as American Academy of Allergy, Asthma,
+and Immunology.
+These updated recommendations are included in the CDC
+interim clinical consideration for use of mRNA COVID-19
+vaccines currently authorized in the United States.
+This can be accessed in the link at the bottom of the
+slide.
+I will mention the updated version will be going live
+right after this call.
+The current version in the link now will be updated by
+about 3 PM.
+These updated recommendations apply to both Pfizer and
+Moderna COVID-19 vaccines.
+This guidance may change as further information becomes
+available.
+For the purpose of this guidance, reaction to vaccine
+or medication is defined as any hypersensitivity
+related signs or symptoms such as urticaria,
+angioedema, respiratory distress such as wheezing or stridor, or
+anaphylaxis that occurs within four hours following
+administration.
+CDC considers history of the following to be
+contraindication too vaccination with both Pfizer-BioNTech
+and Moderna COVID-19 vaccines.
+Severe's allergic reaction such as anaphylaxis after
+previous dose of mRNA COVID-19 vaccine or any
+component, immediate allergic reaction of any severity
+to previous dose of mRNA COVID-19 vaccine, or any
+component including polyethylene glycol or PEG and
+immediate allergic reaction of any severity to
+polysorbate due to cross reaction hypersensitivity
+between the vaccine PEG and polysorbate.
+Persons with immediate allergic reaction to the first
+dose of mRNA COVID-19 vaccine should not receive
+additional doses of either of the mRNA COVID-19
+vaccines because the two authorized vaccines contain
+ingredients in common.
+I will also mentioned that these persons should not
+receive mRNA COVID-19 vaccination at this time unless
+they have been evaluated by an allergist immunologist
+and determined the person can safely receive the
+vaccine such as vaccination under observation or
+settings with advanced medical care available.
+Let's review the ingredients included in these
+vaccines.
+Both vaccines consist of nucleoside modified mRNA
+encoding viral spike of SARS CoV-2.
+In addition, both contain four different lipids, some
+of which are in common between the two vaccines as well
+as salt, sugars and buffers.
+I just wanted to highlight that polyethylene glycol or
+PEG is component of both vaccines.
+PEG is primary ingredient in osmotic laxatives and oral
+bowel preparations for colonoscopy procedures and an
+active ingredient or excipient in many medications and
+use in process called pegylation to improve therapeutic
+activity of some including certain chemotherapy.
+Additionally as I mentioned before, cross-reactive
+hypersensitivity between PEG and polysorbate which are
+included as recipient in some vaccines and other
+therapeutic agents can occur.
+Resources for determining whether medications contains
+PEG, e.
+g.
+Derivative or polysorbate are included on the footnote
+on the slide.
+As mentioned, persons with immediate allergic reaction
+to the first dose of mRNA COVID-19 vaccine should not
+receive additional doses of either of the mRNA COVID-19
+vaccines.
+It is important for providers to determine whether
+reactions reported following vaccination are consistent
+with immediate allergic reactions which would indicate
+contraindication to additional vaccine doses, versus
+other reactions commonly observed following vaccination
+such as as a vasovagal reaction or post-vaccination
+side effects which are not contraindications to the
+second dose.
+The following table of signs and symptoms is meant to
+serve as resource for clinicians but may not be
+exhaustive and patients may not have all signs or
+symptoms.
+Providers should use clinical judgment when assessing
+patients to determine diagnosis and management.
+I will go through each category in the next slide.
+I will start with immediate allergic reactions
+including anaphylaxis.
+Most immediate allergic reactions occur within 15 to 30
+minutes of vaccination although some may be delayed.
+Patients with anaphylaxis may report feelings of
+impending doom and approximately 90% of patients
+present with skin findings such as proritus, urticaria, flushing
+or angioedema which can be helpful from allergic to
+other reactions.
+Patients mat have confusion, disorientation, dizziness,
+weakness or loss of consciousness.
+They may also explains respiratory symptoms such as
+shortness of breath, wheezing, bronchospasm stridor or
+hypoxia and may have gastrointestinal such as nausea,
+vomiting, abdominal cramps, or diarrhea.
+These people should not receive the second dose of mRNA
+COVID-19 vaccine at this time.
+We will get into this in later slides but anaphylaxis
+is medical emergency that requires prompt treatment
+with epinephrine.
+In terms of vasovagal reaction, most occur within 15
+minutes of vaccination.
+Patients may report feeling warm or cold, have pallor,
+diaphoresis, clammy skin, or sensation of facial warmth.
+They may have dizziness, lightheadedness, syncope after prodromal
+symptoms, weakness, changes in vision and hearing.
+They may had elevated respiratory rate especially if
+symptoms are accompanied by anxiety.
+They may have hypertension or bradycardia during
+syncope event.
+They may have nausea or vomiting.
+Persons with vasovagal reaction to the first dose
+should receive the second dose, the provider should
+take appropriate measures in these patients to prevent
+injuries if patients become weak busy or lose
+consciousness.
+They should be seated or lying down during vaccination.
+We will get into this but they will be monitored for 15
+minutes after vaccination which will help decrease
+injury if they faint.
+Finally, I will go through vaccine side effects both local and
+systemic.
+Local and systemic side effects following vaccination
+are common and expected.
+Most patients will have them.
+Onset of symptoms occur a median of 1 to 3 days after vaccination,
+with most occurring the day after vaccination, which
+helps distinguish reactions from allergic and vasovagal
+reactions which have rapid onset following vaccination.
+Vaccinated persons may develop fever, chills or fatigue
+as well as pain, erythema or swelling at injection site, and lymphadenopathy.
+They may develop headaches.
+Vomiting and diarrhea may occur but not very
+frequently.
+In addition, vaccinated persons may develop myalgia and
+arthralgia.
+These symptoms generally resolved within 1 to 2 days with an
+onset.
+People with systemic side effects following the first
+dose should receive the second dose.
+They can be counseled to take acetaminophen or
+nonsteroidal anti-inflammatory drugs in the event
+symptoms develop after vaccination.
+I will review precautions to mRNA vaccinations.
+CDC considers history of reaction to any vaccine or
+injectable therapy that is intramuscular, intravenous
+or subcutaneous vaccines or therapies not related to component of mRNA COVID-19
+vaccines or polysorbate as precaution but not
+contraindication to vaccination for both Pfizer-BioNTech
+and Moderna vaccines.
+These persons should be counseled about unknown risk of
+developing severe allergic reaction and balance risks
+against benefit of vaccination.
+Deferral vaccination and/or consultation with allergist
+immunologist may be considered until further
+information on the risk of anaphylaxis is available.
+The following considerations can be used to help
+providers conduct risk assessment for mRNA COVID-19
+vaccination in these individuals.
+Risk of exposure to SARS CoV-2, for example because of
+residence in congregate setting such as long-term care
+facility or occupation, risk of severe disease or death
+due to COVID-19 because of age, underlying medical
+conditions.
+Whether the patient has previously been infected with
+SARS CoV-2 and if so, how long ago?
+And of note, vaccinations are recommended for persons with
+history of COVID-19.
+However, because reinfection is uncommon in the 90 days
+following infection, persons with precaution to
+vaccination and recent SARS CoV-2 infection, may choose
+to defer vaccination until further information is known
+about the risk of anaphylaxis following vaccination.
+The unknown risk of anaphylaxis following
+mRNA COVID-19 vaccination in persons with history of
+immediate allergic reaction to other vaccines or
+injectable therapies and
+finally, ability of patient to be vaccinated in
+settings where appropriate medical care is immediately
+available for anaphylaxis.
+Allergic reactions including severe allergic reactions
+that are not related to vaccines injectable therapies,
+components of mRNA COVID-19 vaccines, or polysorbate
+such as food, pet, venom, environment allergies, or
+allergies to medications including oral equivalent of
+injectable medications are not contraindication or
+precaution to vaccination with either mRNA COVID-19
+vaccine.
+The vile stoppers of these mRNA vaccines are not made
+with natural rubber latex.
+There is no contraindication or precaution to vaccination for
+persons with latex allergy.
+In addition, as the mRNA COVID-19 vaccines do not contain eggs or
+gelatin, persons with allergies to the substances do
+not have contraindication or precaution to vaccination.
+CDC recommends that vaccine providers observe all
+persons after vaccination regardless of allergic
+history.
+Those with precaution to vaccination or history of
+anaphylaxis due to any cause should be observed for 30
+minutes.
+All other persons should be observed for at least 15
+minutes after vaccination to monitor for immediate
+adverse reactions.
+To put it all together, there are three categories of
+persons with history of allergic reactions that may
+present for mRNA COVID-19 vaccination.
+Those who may proceed with vaccination are included in
+the green box.
+These are persons with histories of allergies unrelated
+to component of mRNA COVID-19 vaccine.
+Other vaccines or injectable therapies.
+Persons with these allergies who have history of
+anaphylaxis to due to any cause, should be observed for
+30 minutes, and all other persons should be observed
+for 15 minutes.
+Persons with history of any immediate allergic reaction
+to vaccines or injectable therapies except those
+related to component of mRNA COVID-19 vaccine or
+polysorbate have precaution -- precaution shown in the
+yellow box.
+Risk assessment should be conducted in these persons.
+Deferral of vaccination and/or referral to allergist
+immunologist may be considered.
+If these persons are vaccinated, they should be
+observed for 30 minutes.
+In the red box are persons whom vaccination is
+contraindication.
+This includes persons with history of severe allergic
+reaction after previous dose of mRNA COVID-19 vaccine
+or any component, immediate allergic reaction of any
+severity to previous dose of mRNA COVID-19 vaccine or
+any component.
+Or immediate allergic reaction of any severity --
+immediate reaction to polysorbate.
+They should not receive mRNA vaccination at this time
+unless they have been evaluated by allergist
+immunologist and determined the person can safely
+receive the vaccine for example under observation or
+setting with advanced medical care available.
+CDC developed additional tools that providers can use
+at the vaccination site to help identify persons with
+contraindications or precautions to vaccination
+including pre-vaccination checklist and further
+additional information in the form of facts sheet.
+CDC also developed interim considerations for preparing
+potential management of anaphylaxis at COVID-19
+vaccination sites.
+These considerations include information on early
+recognition of anaphylaxis, medications and supplies
+needed for the assessment and management of
+anaphylaxis, how to manage anaphylaxis at the
+vaccination site, patient counseling and reporting of
+anaphylaxis.
+The key take-home messages from these guidances are
+early recognition of anaphylaxis symptoms, prompt
+treatment with epinephrine, and activation of emergency
+medical services.
+COVID-19 vaccines will likely be administered in wide
+variety of clinical settings including hospitals,
+long-term care facilities, outpatient medical offices,
+pharmacies, mass vaccination sites and curbside or drive-thru
+sites.
+These settings differ in terms of usual on hand human
+and material resources to manage anaphylaxis.
+In the guidance we have included a list of medication supplies
+that are important for evaluating and managing
+anaphylaxis and recommended for COVID-19 vaccination
+sites.
+We divided them into supplies that should be available
+at all sites at the minimum requirements to assess and
+manage anaphylaxis as well as other medications and
+supplies helpful to include where feasible.
+All sites should have epinephrine and H1 antihistamines,
+a blood pressure cuff, stethoscope, and timing
+device to assess pulse.
+Finally, clinical immunization safety assessment
+COVIDvax project is an additional resource.
+Healthcare personnel or health departments in the
+United States can request consultation are complex
+COVID-19 vaccine safety question about an individual
+patient residing in the United States that is not
+readily addressed by CDC guidance.
+Information on how to request consultation can be found
+at the link level.
+That concludes my portion of the talk.
+Thank you.
+>>:: Presenters, thank you for providing our audience
+with such critical information.
+We will now go into the Q&A session.
+You may submit questions to Zoom by clicking the Q&A
+button at the bottom of your screen and then type in
+your question.
+The first question asks can people feel confident that
+the COVID-19 vaccines are safe?
+>> DR.
+MBAEYI: Tom, do you want me to take that?
+>> DR.
+SHIMABUKURO: Yes, that would be great.
+>> DR.
+MBAEYI: Sure.
+Yes, people can be assured that the COVID-19 vaccines
+are safe.
+Safety has been a number one priority in the
+development and approval of these vaccines and have
+gone through all the same safety tests and meet all
+safety standards as other vaccines.
+The U.
+S.
+Food and Drug Administration has issued an emergency
+use authorization for these vaccines as everyone on
+this call is aware.
+In order for that to be issued, there has to be
+adequate information on not only safety and
+effectiveness of vaccine, but manufacturing, quality
+and consistency, as well as making determination that
+the known and potential benefits outweigh the risk of
+the vaccine.
+As Tom alluded to in his talk, there are a whole host
+of safety monitoring systems in the United States that
+will be used to rigorously continue to assess the
+safety of the vaccines.
+>>:: Thank you.
+Our next question asks how come there were no cases of
+severe allergic reactions like anaphylaxis reported in
+the clinical trials of these vaccines?
+>> DR.
+MBAEYI: I can start.
+I think there are a couple reasons.
+One thing is to recognize in the clinical trials were
+large Phase 3 trials, but depending on how rare the
+rate of anaphylaxis is after the people in the general
+population, it may be too rare of an outcome to be
+observed in the clinical trial.
+I think that is one reason.
+Another reason is people were not eligible for the
+clinical trials if they had previous history of
+anaphylaxis to vaccines.
+If there are people out there more prone to having
+anaphylaxis to vaccines, they may not have been
+eligible.
+The third potential reason and again, speculation, is
+people who have history of allergic reactions or
+history of anaphylaxis to other medications or
+vaccines, they may not be the type of people willing to
+participate in clinical trials.
+Because they have those medical underlying histories.
+They make self-selected themselves out of
+participation.
+Those are potential reasons.
+>> DR.
+SHIMABUKURO: Even though there has been quite awareness
+of the cases of anaphylaxis reported, after vaccination
+these are still very rare events.
+Even in large clinical trials where 15 or 20,000
+individuals are getting vaccinated, that is still
+relatively small number of individuals to pick up very
+rare event like anaphylaxis following immunization.
+>>:: Thank you.
+The next question asks what do you mean by immediate
+allergic reaction?
+>> DR.
+MBAEYI: I will take this question.
+Immediate allergic reaction, we are defining this for
+the purposes of our guidance.
+We are defining this as a hypersensitivity type
+reaction such as development of hives, itching, or mouth
+swelling, facial swelling.
+And guidance we call that cardio, anaphylaxis and those
+types of hypersensitivity symptoms that develop within
+four hours of administration of vaccine.
+The goal is to distinguish these types of people who are likely to
+truly be having an allergic reaction following
+vaccination based on temporal association as well as
+signs and symptoms.
+From those people that might develop rash for some
+reason one week later or days later and putting those
+boundaries on the definitions so clinicians who are
+evaluating patients who come in and say I developed a
+rash after vaccination so they can help determine the
+likelihood that those patients had of signs and
+symptoms due to allergic reaction and not something
+else.
+That is the definition we are using.
+>>:: Thank you.
+The next question asks why was the guidance about who
+should not get the Pfizer or Moderna vaccination
+change?
+>> DR.
+MBAEYI: Great question.
+This guidance has been updated primarily because
+starting in a few days, people who got the first dose
+will be eligible to receive the second dose.
+We felt that providers really needed more guidance on
+how to address patients who may have had an allergic
+reaction after the first dose, and how to manage for
+the second dose.
+I think we have continued the reports of anaphylaxis
+are under investigation as has been described, but we
+are continuing to learn more about how frequently this
+may be happening.
+I think we wanted to make sure we are continuously
+revaluing guidance to make sure it's based on the best
+available evidence and felt this was the right time to do it so
+providers had more information once people started to
+come in for the second dose of vaccines.
+>>:: Thank you.
+What steps will CDC take if you find potential safety
+issues with the vaccines?
+>> DR.
+MBAEYI: This is Tom.
+If we do detect potential safety issue, one of the
+first things we will do is working with partners to
+include the Food and Drug Administration, and other
+partners to collaborate and work on rapidly assessing
+the potential safety issue.
+There are many safety monitoring systems that CDC and
+FDA and other partners use.
+We can look in other systems and do other methods, and
+do additional analysis in the system that detected
+potential safety problem.
+We also have groups at CDC that to you reviews of
+individual cases, and clinical research as well.
+Lastly, I will mention we will work with our Federal
+Advisory Committee on Immunization Practices to present
+the data and communicate to the public in a timely and c
+transparent manner.
+>>:: Thank you.
+How does risk of severe allergic reaction after getting
+a Pfizer vaccine versus Moderna vaccine compare to the risk of a severe
+reaction after other recommended vaccines?
+>> DR.
+SHIMABUKURO: This is Tom and I will take this question.
+I think it's early right now.
+We have only have been vaccinated for a few weeks and
+still in the process of assessing the situation and
+analyzing the data.
+What I can say is based on the information we have
+right now, severe allergic reaction after COVID-19 is a
+rare event.
+COVID-19 can be a very serious disease in some segments
+of the population.
+Vaccination is an important tool that we can use to get
+the pandemic under control.
+I think the message is our safety systems rapidly
+detected these reports of anaphylaxis, and CDC and FDA
+are in the process of rapidly assessing this.
+It is early and we will continue to communicate with
+the public and with healthcare providers and keep them
+informed in Hamlet -- timely manner.
+>>:: Thank you.
+Can you please reiterate who should not get the Pfizer
+or Moderna vaccines?
+>> DR.
+MBAEYI: This is Sarah and I can take that one.
+The people who should not get either of the COVID-19
+vaccines are those people that have had severe allergic
+reaction such as anaphylaxis after previous dose of
+mRNA COVID-19 vaccine or any component.
+Those people that have had immediate allergic reaction
+of any severity to previous dose in the vaccine or any
+component, and those who have had immediate allergic
+reaction of any severity to polysorbate.
+Polysorbate is not an ingredient in the vaccine, but
+cross-reactive hypersensitivity between these
+polysorbate and polyethylene glycol which is component
+has been observed.
+Until we know more and the investigation reveals more,
+that is also contraindication to vaccination.
+>>:: Thank you.
+What can you tell about the safety of vaccinating
+people with prior history of COVID-19 infection with
+COVID-19 vaccines?
+>> DR.
+SHIMABUKURO: This is Tom.
+I can take a crack at that I may ask Sara to step in if
+she has better information on the clinical trial.
+I do not believe prior history of COVID-19 infection
+was an exclusion criteria for the clinical trial.
+There were individuals who had prior history of
+infection included in the trials and they did not
+observe any safety signals in those individuals.
+>>:: --
+>> DR.
+MBAEYI: I was going to say the same thing; there was
+testing done to look for evidence of prior infection in
+people enrolled in the clinical trial.
+There were people in the clinical trials that have
+evidence that they had previous infection as Tom said,
+there was not any safety concerns identified.
+>>:: Thank you.
+What about people with allergies to other things like
+pets, food, can they get COVID-19 vaccines?
+>> DR.
+MBAEYI: This is Sarah and I can take that.
+Yes, they can get vaccinations.
+Those people are included in that green box that I
+showed who can proceed with vaccination.
+That includes food, environmental allergies, pet
+allergies, insect or bee sting allergies.
+They can all get the vaccination and have no
+precautions or contraindications.
+The only thing we say about this group of people with
+those allergies is if they have had anaphylaxis due to
+those pet food allergies, they should be observed for
+30 minutes instead of 15.
+--
+>>:: For those looking for the slides material, we
+will share the web link where you can find both slides
+as well as archived materials towards the end of the
+call.
+What are the possible side effects of these vaccines?
+>> DR.
+MBAEYI: I can take that one.
+In terms of normal typical vaccine side effects, for
+both vaccines, people can have things like sore arm or
+redness around injection site, swelling around site and
+these are common.
+The majority of people have those types of symptoms.
+They last typically one day or two.
+They are pretty minor and for most people it doesn't
+cause any issues at all in terms of being able to do
+what they need to during the day.
+Some people will have those local symptoms.
+Some people will have things like fever, chills, muscle
+ache, headache, those systemic symptoms following
+vaccination.
+In most people, it's pretty mild.
+They last one day or two and go away.
+>>:: Thank you.
+We have questions about VAERS.
+Who can report reactions to VAERS and who should report
+reactions to VAERS?
+>> DR.
+SHIMABUKURO: This is Tom.
+Anyone can report suspected adverse reaction to VAERS.
+That includes patients, parents, healthcare providers,
+caregivers.
+Anyone can report suspected adverse reaction to VAERS.
+We accept all reports without making any judgments on
+whether it is biologically plausible if the vaccine
+could have caused the adverse reaction, or clinically
+serious.
+We accept reports without judging and they will get
+into the database and analyzed.
+We specifically depend on healthcare providers to
+report to VAERS.
+We think healthcare providers are uniquely positioned
+to support and help us monitor vaccine safety and have
+access to information that will make the reports both
+timely and complete.
+I think anyone who experiences an adverse event
+following immunization, should report, even if it's not
+completely clear as the vaccine caused the adverse
+event.
+That includes all members of the public, but especially
+healthcare providers who are partners and safety
+monitoring.
+>>:: Are there reactions that healthcare providers are
+required to report to VAERS?
+>> DR.
+SHIMABUKURO: Currently under the FDA emergency use
+authorization, healthcare providers are required to
+report certain adverse events after COVID-19
+vaccination.
+Under the EUA, those include administration errors,
+whether associated with adverse events or not, severe
+COVID-19 illness and that is defined as COVID-19
+illness resulting in hospitalization.
+Serious adverse events regardless of causality.
+The serious adverse event -- events follow the
+regulatory definition.
+That is death, life-threatening adverse event and
+inpatient hospitalization or prolongation of
+hospitalization.
+Speech of significant or persistent incapacity, general
+anomaly or birth defect and also cases of multisystem
+inflammatory syndrome.
+In addition to reporting requirements under the
+emergency use authorization, CDC encourages healthcare
+providers to report any clinically significantly
+adverse event following vaccination to VAERS, even if
+they are unsure if the vaccination caused the adverse event, and
+clinically significant is subjective.
+We are relying on healthcare providers to use clinical
+judgment on what they think is an important adverse
+event to report.
+>>:: Thank you.
+The next question asks if I had an allergic reaction to
+my vaccine, should I get a different COVID-19 vaccine
+for my second dose?
+>> DR.
+MBAEYI: I can take that question.
+If somebody had an allergic reaction to the first dose
+of the mRNA vaccine either Pfizer or Moderna, we
+recommend they do not get a second dose of either of
+those two vaccines.
+If additional vaccine products become available in the
+United States that are different or we don't have the
+same concerns for, you will have to assess guidance at
+future times.
+In terms of the two vaccines currently authorized in
+the united states, if you have an allergic reaction to
+one, we are saying you should not get the second dose
+of the other vaccine.
+>>:: Thank you.
+Which other vaccines include polyethylene glycol or
+other shared components of the COVID-19 vaccines?
+>> DR.
+MBAEYI: I can take that.
+There are no other vaccines that contain polyethylene
+glycol.
+The other shared components of these two vaccines,
+there are other debates like things like cholesterol,
+other salts and sugars that are not thought to be large
+concern as being -- causing allergic reaction.
+There are no other vaccines in particular that have
+PEG.
+>>:: Thank you.
+Another question about VAERS.
+How do I report to VAERS?
+>> DR.
+SHIMABUKURO: I had quite a bit of
+information in my presentation on how to report to
+VAERS with links and instructional material.
+VAERS is a fully online electronic reporting process.
+If you feel like your patient had an adverse event
+following unitization, you want to report and you
+simply go to the website,
+VAERS.hhs.gov
+and click on the link to report adverse events.
+It will take you to an online reporting form which you
+can fill in.
+You have to fill that in one sitting and hit submit.
+If you cannot do it all in one sitting, you can
+download fillable PDF and fill out the PDF and upload
+later at your convenience.
+All reporting is done online on the VAERS website.
+>>:: Thank you.
+Can you please repeat the components of the Pfizer and
+Moderna COVID-19 vaccines?
+>> DR.
+MBAEYI: Both vaccines contain mRNA that is encoding for
+the spike protein of SARS CoV-2.
+Both contain four different lipids that forms the lipid
+nano particle or nano layer which helps protect the
+mRNA from degrading too quickly once it enters the
+body.
+Both contain the four different lipids.
+One of them as I mentioned before, is PEG.
+They do contain other lipids in common as well.
+The rest of ingredients are salts, sugars, buffers.
+There are tables in the guidance were you can see the
+details, but those are the components.
+MRNA, lipids, salts, sugars and buffers.
+Neither vaccines contain preservatives, eggs, or
+anything like that.
+>>:: Thank you.
+For the audience looking for information on things like
+components of the vaccines that were shared in the
+table, as well as more information on VAERS, we will
+have that information in the slides posted on this COCA
+webpage which we will share the link after this Q&A
+session.
+The next question asks why is polyethylene glycol a
+concern in these vaccines?
+>> DR.
+MBAEYI: I will take that.
+I just want to preface by saying no one really knows if
+polyethylene glycol is the culprit.
+It has not been determined.
+Everything is still under investigation.
+The reason why polyethylene glycol has been singled
+out, I think is because most of the other vaccine
+ingredients are not thought to be of concern.
+These are things that are in our bodies and a lot of
+other things.
+The other ingredients just the possibility is low that
+they could be causing something like this.
+Polyethylene glycol is in a lot of medications.
+It's not just used in medications in either but used
+for a lot of other purposes.
+It is thought that severe allergic reaction to
+polyethylene glycol is rare.
+There is not many reported in literature, but it is
+something that experts feel it might be
+underrecognized.
+It is a topic of interest that people are
+looking into more.
+>>:: Thank you.
+How long should people wait after getting their
+COVID-19 vaccine for they leave the location of
+vaccination?
+>> DR.
+MBAEYI: It really depends on that person's history.
+I will start by saying that our guidance recommends
+that all persons have an observation period regardless
+of whether that person has any history of allergies.
+There is an observation period for all people.
+For people who have had anaphylaxis due to any recent,
+it's recommended they wait 30 minutes.
+For people in that precaution category of vaccines,
+people that have had immediate allergic reaction of any
+severity to vaccines or injectable therapy, those
+people are recommended to be observed for 30 minutes.
+For all other persons, it's recommended that they have
+15 minute observation period.
+We do state and guidance that if somebody feels they
+are developing symptoms of allergic reaction after they
+have done the 15 or 30 minutes and have left
+vaccination site, if they feel like they are developing
+signs of allergic reaction, they should seek immediate
+medical care.
+>>:: Thank you.
+What are other ways CDC is monitoring safety of these
+COVID-19 vaccines?
+>> DR.
+SHIMABUKURO: This is Tom.
+. I mentioned two systems, the Vaccine Adverse Event Reporting System (VAERS) that anyone can participate in and the v-safe which is more patient-centered. CDC also has a system called the Vaccine Safety Data Link which uses electronic health record data and health record data form large health plans
+to do surveillance and safety monitoring in a covered population of insurers and this is different than the VAERS in that we have near-complete information on all individuals compared to partial information on VAERS and it allows us to assess risk and monitor safety in real-time weekly, as the data comes in. Our colleagues at the Food and Drug Administration also use the Medicare data to do a similar type of analysis where they do a real-time analysis, safety monitoring as the data comes in and have additional systems that they work with and they have other federal partners that have systems that are spontaneous reporting like VAERS and electronic health record-based systems that they do monitoring in. This is important because if you detect a safety problem in one system it is often helpful to validate it in another system. It is important to have multiple complementary safety systems that work together that allow us to rapidly detect possible safety problems.
+COMMANDER KHAN: Thank you. Our last question asks, how do I find out what adverse vaccine events have been reported to VAERS?
+The best way to get information on adverse and safety in general is to tune into the
+advisory committee on immunization practices meetings
+when there is safety data presented.
+The immunization safety officer routinely presents
+safety data at these ACIPmeetings in public forums and
+safety is discussed.
+Specifically for VAERS, there is public data available.
+This is data stripped of personally identifying
+information and other information, sensitive
+information that allows traced back to individual
+patients.
+That is available both on the VAERS website, and what
+our research database, large excel files.
+There is also search tool on the CDC website called
+Wonder, that allows individuals, anyone can go in there
+and access the VAERS data through the CDC wonder
+platform.
+>>:: Thank you.
+I want to thank both presenters today for sharing such
+critical information.
+Today's COCA
+call will be available on demand a few
+hours after the call.
+You can find the recording of today's COCA
+call emergency.cdc.gov/coca
+emergency.cdc.gov/coca
+
+
+COCA announcements for upcoming calls and other
+COCA products are available via email.
+In addition to the webpage, remember to subscribe to
+COCA to receive notifications about upcoming COCA calls
+or services.
+Be sure to subscribe to receive notifications by going
+to emergency.cdc.gov/coca/subscribe.asp
+
+Please share call announcements with colleagues.
+You can also join the COCA mailing list by visiting the
+COCA webpage at
+emergency.cdc.giv/coca and click on get email update
+link and entering email address.
+To stay connected be sure to like and follow on
+Facebook at
+facebook.com/cdcclinicianoutreach andcommunicationactivity
+Thank you for joining us for today's call and have a
+great day.

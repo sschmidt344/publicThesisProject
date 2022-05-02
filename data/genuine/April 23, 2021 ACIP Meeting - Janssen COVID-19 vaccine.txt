@@ -1,0 +1,3485 @@
+We're going to move on to our next presentation,
+which is an update on Janssen COVID-19 vaccine
+by doctors Mammen and Waldstreicher.
+And please forgive me if I've mispronounced your names.
+Are you ready to proceed?
+>> We are.
+>> Yes.
+>> Thank you, very much.
+Please go forward.
+>> So thanks, very much, to all of you, for the committee,
+for the opportunity to meet with you today.
+My name's Mathai Mammen.
+I'm the global head of R and D for Janssen.
+We believe the Janssen COVID-19 vaccine, which I'll refer
+to as the J and J vaccine, has important
+and even unique benefits in our global effort to end COVID-19.
+In the weeks since our vaccine was authorized for use
+in the United States,
+7.9 million people have received the J and J COVID-19 vaccine.
+During that time, we've seen this vaccine is not only a vital
+and important option across a wide range of people,
+but that it may be uniquely good,
+and in some cases really the only practical option
+for some people.
+For example, for those who face barriers to healthcare services.
+The vaccine's proven highly protective,
+single dose efficacy also against concerning variants
+of SARS-CoV-2 that are merging as viral replication
+and in selective pressures continue at a global scale,
+and that can benefit us all.
+And as a real credit to the U.S., and European,
+and our own safety surveillance systems, we've worked
+in closer collaboration with the U.S., Canadian
+and European health authorities to identify a very rare,
+but very serious side effect of thrombosis with thrombocytopenia
+that appears at a higher rate
+than the background rate in the population.
+We recognize that it is a very rare
+and very important serious risk,
+and Janssen fully supports awareness, education, labeling.
+With these efforts, our goal is earlier recognition,
+making this event more identifiable, diagnosable,
+treatable, and with improved chance
+of the successful outcomes.
+Our priority since the discovery of these events has been
+to work very closely with health authorities
+to increase awareness among the general public
+and healthcare professionals.
+We fully support the important information addressing this
+event in the vaccine fact sheet and prescribing information.
+I'll begin, today, with a few relevant features
+of the current COVID-19 pandemic and move into a description
+of the benefits of the J and J vaccine.
+I'll highlight efficacy and other key attributes relative
+to the current COVID environment.
+Then my colleague, Joanne Waldstreicher,
+our chief medical officer, will take you
+through the safety vaccine with a focus on the characterization
+of this very rare, but very serious event of thrombosis
+with thrombocytopenia, then conclude with our framework
+for how we think of harnessing the benefits of this vaccine
+to the U.S. and the globe, while responsibly managing its risks.
+Just this past week, there have been nearly 40,000
+hospitalizations and over 4,700 deaths in the United States,
+and around 10x or more of that number globally.
+The pandemic continues to rage in the face
+of the vaccine roll out.
+And importantly, many people face obstacles
+to accessing a vaccine, and we know that the J
+and J vaccine has been particularly important to people
+who live in rural or remote areas.
+For example, and who lack the type
+of healthcare infrastructure required for other options.
+I want to review a particularly important feature that the J
+and J COVID-19 vaccine measures in our phase 3 trial.
+We demonstrated strong protections offered
+after severe disease after day 28 of a single shot,
+with 100% protection against hospitalization
+and 100% protection against death.
+And what's most notable is that this pattern
+of protection was true, also, in regions such as South Africa
+and Brazil where the 484K containing mutations
+are dominant.
+In South Africa, for example, we saw equal efficacy
+to that measured globally, including 85% protection
+against severe COVID, 100% protection
+against hospitalizations, and 100% protection against death.
+These results are supported from an ongoing study
+in South Africa, where we have now
+over 280,000 healthcare workers vaccinated,
+and these healthcare workers have significant,
+and sometimes repeated, exposure to B1351,
+the South African variant.
+Of note, the participants are primarily women
+and primarily under the age of 50.
+As with our phase 3 study, there have been no hospitalizations
+or deaths after day 28, and only 3 breakthroughs after day 28
+of the 280,000 vaccinated people.
+The B1351 variant contains 3 mutations and 1 deletion
+on the tip of the spike protein,
+rendering the neutralization antibodies induced
+by all the vaccine about 80 to 90% less effective than they are
+against neutralizing the original strain of the virus.
+This goes for our vaccine, too.
+We believe that the excellent efficacy we nevertheless
+maintain against the variants is, in part,
+due to the T cell immunity that recognizes so many epitopes
+of the site protein that's very challenging for the virus
+to circumvent the vaccine.
+And our vaccine, in particular,
+has excellent T cell immunity and has so by design.
+It's quite important to monitor these variants,
+as a particularly infectious and resistant one can take
+over very quickly, especially now
+that we're effectively applying selective pressure
+through natural infection and vaccination.
+The B1351, as you see from the yellow area in this graph,
+went from nonexistent to becoming the dominant variant
+in South Africa in a matter of 8 weeks.
+Now it's generally the only circulating variant
+in that country.
+And disturbingly, B1351 has been found circulating in 36
+of 50 U.S. states and territories and across Europe.
+Several variants containing, also, the key mutation
+of position, at position 44 have also been reported
+in the United States, starting in New York City.
+Beyond this important high level protection of the vaccine
+against variants, the J and J vaccine has other features
+that allow it to play a central role in the effort
+to contain COVID-19, both in the United States and globally.
+Our vaccine is the only authorized vaccine to use
+as a single dose regiment.
+The benefits of this dosing cannot be overstated,
+considering the urgent mass vaccination campaign we're
+in the midst of.
+Whether it's in rural communities that lack access
+to healthcare, or transient populations
+like farming communities that may not be in the same location
+for a second dose, the one shot benefit is critical.
+The vaccine also has a relatively quick onset
+with vaccine efficacy against severe disease seen
+as a base stat in the pivotal trial.
+Available immunogenicity data from the phase 1 study,
+up to date 115, are in line with the historical platform data,
+and that's very promising with regards to durability
+of protection, also in the elderly.
+And last, but certainly not least, the vaccine is compatible
+with existing vaccine distribution channels
+and can be stored for 3 months
+at normal refrigerator temperatures.
+What this means for achieving vaccine goals should not
+be underestimated.
+We have the ability to reach locations in the United States
+that other vaccines may not.
+These features of the vaccine allow vaccination of people
+that might otherwise not be able to,
+or choose not to, get a shot.
+That is, they remain part
+of an unvaccinated segment of the population.
+All in all, the J and J vaccine plays a critical
+and complimentary role to other vaccines.
+To be explicit, one concerns is that absent or a restricted J
+and J vaccine does not just delay the full vaccination
+of the U.S. population,
+but potentially leaves unvaccinated a proportion
+of the U.S. population.
+And if the unvaccinated population is large enough,
+we put at risk reaching herd immunity in the U.S.
+And the global context is also critical here.
+As global mobility resumes, there's no question
+that U.S. residents remain vulnerable so large
+as large swaths of the globe remain unvaccinated
+and variants, therefore, continue to emerge.
+And for many parts of the globe, the single dose,
+and easy transport and storage features
+of the vaccine are absolutely critical.
+A restriction use, here, could have a negative impact
+on the success of achieving global herd immunity.
+The pandemic in the U.S. will not truly end
+until the world has indeed achieved herd immunity.
+So we believe this perspective is critical
+for today's discussion.
+Let me now hand over to Joanne Waldstreicher.
+>> Thank you for the opportunity to meet today.
+Safety is our highest priority and we've been laser focused
+on identifying and understanding the very rare occurrence
+of CVST, and other thromboses, together with thrombocytopenia,
+as well as working with FDA and other regulators
+on appropriate labeling to ensure awareness and guidance
+on diagnosis and treatment.
+There's been extensive outreach and communication of this event
+over the past week, which has stimulated a number
+of additional reports on this important and serious event.
+As we saw in Dr. Shimabukuro's presentation,
+there are 15 post-authorization cases of thrombosis
+with thrombocytopenia, all in women, most under 50 years old.
+Most of these cases were CVST
+and some also had thromboses at other sites.
+I want to say that I use the word cases,
+but these cases are not just numbers to any of us
+and we take them very seriously.
+These are people.
+And we need to understand and characterize their risks.
+In exploring the context, we will show the rates and relation
+to other background rates.
+This is meant to be a general comparison of orders
+of magnitude of risk, not a direct comparison.
+So let me now place this into context.
+When we look at the cases reported post-authorization,
+there have been 15 cases reported among nearly 8 million
+people vaccinated.
+That gives a reporting proportion
+of 1.9 cases per million people.
+To compare this to the background rate,
+we did an initial focus of CVST with thrombocytopenia.
+Our analysis of 5 large observational U.S. healthcare
+databases, that included over 60 million people,
+estimated the background rate of thrombosis CVST
+with thrombocytopenia
+to be approximately 0.1 cases per million.
+The evaluation of other thromboses
+with thrombocytopenia is ongoing.
+But many of those cases are confounded by other diagnoses
+such as cancer and other illnesses.
+In reviewing the interim Brighton criteria, and speaking
+with experts, as well as evaluating the data thus far
+that we see in healthy people.
+We recognize that this is likely extremely rare.
+Here we show the observed cases of thrombosis
+with thrombocytopenia per million people on the bottom,
+in comparison to other vaccine related adverse events
+on the top of the line.
+By no means do we mean to equate all these events
+with the seriousness of thrombosis
+with thrombocytopenia, but we felt it is important
+to note the frequency of these events, such as intussusception
+for rotavirus vaccine, immune thrombocytopenia associated
+with MMR, Guillane-Barre for H1N1 vaccine, and anaphylaxis
+in the pre-COVID era from vaccines, all of which range
+from approximately 1 to 70 cases per million people.
+The fact sheet agreed upon with FDA describes
+that the clinical course of thrombosis with thrombocytopenia
+after our vaccine shares features
+with autoimmune heparin induced thrombocytopenia.
+This is estimated to occur between 1,000
+and 50,000 cases per million heparin users,
+which is a different patient population
+than the vaccinated population.
+Heparin induced thrombocytopenia,
+as you herd earlier today, can be associated
+with life threatening thrombosis
+and it also requires proper diagnosis and, importantly,
+consideration of alternatives to heparin, as with thrombosis
+with thrombocytopenia.
+Let me now turn out focus to women under age 50.
+Amongst the 1.9 million women in this group, there were 13 cases,
+which is a recording proportion of 7 cases per million women.
+To contextualize the risks for women under age 50 further,
+we look to consideration of the labeling
+and known label association of oral contraceptives
+and thromboemolic events, including stroke,
+myocardial infarction and CVST.
+Again, I want to emphasize
+that by no means are we equating these types
+of events with one another.
+However, I use this as an example
+of where there are options for healthy, younger women,
+each product with its own benefit risk
+and product profile among a variety of other options,
+each with unique characteristics,
+such as long acting injections, transdermal,
+different hormonal generations, and even non-hormonal methods,
+and each with risks that are addressed with warnings
+and product labeling, and clear information
+in the patient information leaflet.
+Ultimately, the risk of thrombosis
+with thrombocytopenia should be put into context
+with the benefits of vaccination.
+This slide is a benefit risk assessment
+in adults 18 years of age and older.
+Based on the efficacy data from the randomized pivotal trial,
+and the reporting rate from spontaneous reporting,
+we could expect that if 1 million people
+in the United States were vaccinated with the J
+and J single shot vaccine, there would be over 2,000 fewer deaths
+and 6,000 fewer COVID related hospitalizations,
+on the benefit side, and at the same time approximately 2
+additional cases of thrombosis with thrombocytopenia.
+When we look at the benefit risk assessment in women
+under 50 years of age, if 1 million women
+in the U.S. were vaccinated there would be 2600 fewer COVID
+related hospitalizations, and 116 fewer deaths
+on the benefit side, and approximately 7 more thromboses
+with thrombocytopenia cases.
+Janssen fully supports the public health recommendations
+from regulatory agencies and medical societies
+to create general public awareness,
+as well as to provide specific guidance
+for medical professionals regarding this very rare
+but serious event following vaccination.
+We are committed to active follow up to identify
+and investigate all cases, and have an ongoing effort
+to fully understand the path of physiology.
+Our observational study protocols are designed,
+and we are examining the feasibility
+of multiple databases, not only from the U.S.,
+but also from the rest of the world.
+We fully support the guidance from the CDC
+and professional societies that outline awareness, education,
+diagnosis and treatment.
+In addition, Janssen is implementing several
+initiatives, including healthcare, professional
+and consumer support, professional education,
+posting fact sheets on our website,
+and a 24 hour global hotline.
+We absolutely agree with the FDA on the implementation
+of a warning within our label and patient
+and physician fact sheets describing this very rare event,
+including how it can be identified early
+and diagnosed and treated.
+To that end, here is the language from our label
+that we have agreed upon with the FDA regarding thrombosis
+with thrombocytopenia.
+In addition to the description of the events,
+healthcare professionals are alerted in the fact sheet
+to the sings and symptoms of thrombosis with thrombocytopenia
+in individuals who receive the COVID vaccine from Janssen.
+It also states that symptoms began approximately 1
+to 2 weeks following vaccination
+and that most people were females age 18 through 49,
+and that some cases have been fatal.
+Healthcare professionals are also directed
+to the published American Society
+of Hematology considerations relative
+to the diagnosis and treatment.
+In addition, the patient fact sheet contains a clear warning
+and instruction.
+J and J strong supports this enhanced labeling.
+In conclusion, the benefits of Janssen's effective single dose
+and easy to use COVID vaccine continue to outweigh its risks.
+We continue to face a deadly pandemic and existing
+and emerging variants are making containment even more
+challenging globally.
+Every day matters in our campaign to control the virus
+and we need all options available
+as the effective COVID infection can be both serious
+and long term.
+The Janssen vaccine offers many benefits in this context,
+including early efficacy and including demonstrated efficacy
+in South Africa with the B1351 variant predominating,
+and simplicity in terms of its single dose administration,
+shipping, storage and handling.
+As such, the vaccine provides access to people who are
+under served, as well as certain populations
+that typically face barriers to healthcare services.
+As Doctor Mammen mentioned, our concern is
+that with the restriction, it's not just
+about delaying vaccinations,
+but potentially leaving unvaccinated a portion
+of the United States.
+And if the unvaccinated population is large enough,
+we put at risk reaching herd immunity.
+It's also important to recognize that decisions
+in the U.S. have an impact globally,
+and with delayed vaccination
+and potential increased vaccination hesitancy,
+variants that emerge globally also will impact the U.S.,
+especially as global mobility resumes.
+A restriction in use here could have a negative impact
+on the success of achieving global herd immunity,
+both here in the U.S. and globally.
+The pandemic will not be over until a large segment
+of the global population is vaccinated.
+We recognize that there is a very rare, but important
+and serious risk, and J
+and J fully supports increased awareness, education,
+and enhanced labeling.
+With these efforts, we aim for earlier recognition
+in making this event more identifiable, diagnosable,
+treatable, and with improved chances for successful outcomes.
+In summary, we believe the J and J COVID vaccine is central
+to the effort to end the pandemic.
+Thank you.
+And we look forward to answering your questions now,
+as well as any questions you may have during the discussion.
+>> Thank you, very much, for those presentations.
+We'll now open this up to questions
+with the voting members of priority, initially.
+I'm not seeing any hands.
+Liaisons, do you have any questions?
+Again, I'm not seeing any hands.
+All right.
+So they will, the speakers will be on the call,
+and if there are any, oh, Dr. Shah, I'm sorry.
+Go ahead, please.
+>> Thank you, Dr. Romero.
+Just a brief question for our colleagues.
+Given our experience with other adenovirus vectors,
+and other adenovirus vaccine vectors, have we seen cases
+of similar thrombosis with thrombocytopenia?
+>> This is Mathai Mammen, and I'd like to ask my colleague,
+Johann [inaudible] to comment on your question, Dr. Shah.
+>> Good, thanks, it's [inaudible].
+There are similarities between the other vaccine,
+which is called the [inaudible] vaccine in cows.
+It is important, also, to note
+that there are quite some important differences
+between the vaccines.
+[Inaudible] both through the [inaudible] issues,
+that is the one [inaudible] vectors,
+the other is human adeno vector, and we do know that they belong
+to different species, and most have been demonstrated
+that there are differences in both cell receptors,
+and [inaudible] reactions with other host factors,
+which could lead to potentially [inaudible] human responses.
+There's also differences in the dose key that has been used.
+We do have the [inaudible] that is stabilized
+with the [inaudible] of the S protein, [inaudible],
+and also we have stabilized [inaudible] infections,
+which is not the case [inaudible].
+So at this stage why indeed there are [inaudible],
+and then certainly the [inaudible] picture is
+very similar.
+At present there seem to be some differences also
+in the reported frequency,
+although we realize it's [inaudible].
+And so we think it is somewhat premature, today,
+to conclude that we can [inaudible] extrapolate all the
+findings from AstraZeneca toward the Janssen vaccine.
+But we do recognize that the [inaudible] picture is that,
+so there might be a difference in frequency,
+or potentially like a loop.
+>> And sir, I apologize for the lack
+of specificity in my question.
+That's my fault.
+I was thinking of other COVID vaccines
+that utilize an annual virus vector,
+such as the Sputnik vaccine, and then other non-COVID vaccines
+that may also utilize an adenovirus vector.
+>> We do have, we can look a minute
+on the Sputnik vaccine.
+We don't know exactly what's happened,
+of course, with that one.
+With regards to other adeno based vaccines, there are not
+that many licensed at the moment, we do have one vaccine,
+an Ebola vaccine, that also used the same adeno vector.
+We have looked in detail
+to the databases we have for this vaccine.
+Of course, we don't have the [inaudible]
+that have been vaccinated.
+Today, we have more than 200,000 people vaccinated
+with the Ebola vaccine and we have not observed any
+of these phenomenon in that particular [inaudible] setting.
+We also have other vectors
+in [inaudible] development using the same vector,
+specifically an HIV vaccine,
+to which we have several thousand women are
+vaccinated today.
+Because of the data and numbers are limited, it's also important
+to note that we have not seen any signs
+of a similar phenomenon in those times.
+>> Thank you.
+Dr. Alt.
+>> I was actually going to ask the very same question
+that Dr. Shaw asked, so I'll put my hand down.
+>> Thank you all.
+All right.
+We'll ask doctors Mammen and Waldstreicher to still be
+on the call, and if there are any other questions,
+we'll ask them to come forward.
+Thank you, again, for that presentation
+and answering those questions.
+So now we'll move on to the next presentation,
+the VaST assessment by Dr. Grace Lee,
+who is the ACIP VaST co-chair and vice chair of the ACIP.
+Dr. Lee, please.
+>> Thank you, very much, Dr. Romero.
+You can move to the next slide.
+Thank you.
+I wanted to take a moment to place the events
+of the last week in context,
+particularly given the multiple work groups involved.
+The ACIP vaccine safety technical subgroup, or VaST,
+reviews vaccine safety data on a weekly basis.
+Risk assessment is a dynamic process
+and we are constantly reviewing new data
+from all available vaccine safety surveillance systems
+in the U.S., and have been
+since the first vaccine was administered.
+The ACIP COVID vaccine work group focuses
+on benefit risk assessment, placing the information
+about benefits and risks in the context of the ongoing pandemic
+in the U.S. And benefit risk assessment is also a dynamic
+process that is continually updated
+as new information emerges.
+Finally, the ACIP committee, today,
+deliberates on all available information in order
+to make recommendations for you.
+As we're doing today, we will revisit recommendations
+as new information emerges.
+Next slide.
+The VaST work group specifically reviews, evaluates
+and interprets post-authorization COVID-19
+vaccine safety data, serves as a central hub
+for technical expertise from federal agencies participating
+in vaccine safety surveillance,
+advises on analyses interpretation
+and data presentation, and provides updates
+to the ACIP COVID vaccine's work group and the ACIP
+on COVID-19 vaccine safety.
+But more importantly, the reason we have such a focus
+on vaccine safety is to ensure that the public has confidence
+in vaccines and in the U.S. vaccination program.
+Next slide.
+To date, VaST has had 17 independent meetings to review
+and discuss post-authorization vaccine safety data.
+In addition, VaST members have joined additional meetings
+of the COVID-19 vaccine work group for specific review
+and updates of safety data presented on those calls.
+Next slide.
+So I'll focus in on VaST's role in risk assessment
+and the thought process of the VaST work group.
+On April 12th 6 cases of CVST
+with thrombocytopenia were identified as a rare,
+but serious, potential adverse event following the
+Janssen vaccine.
+We noted that risk factors for CVST
+with thrombocytopenia were not well understood,
+and the work group felt strongly that timely
+and transparent communication with healthcare providers
+and the public would be crucial to maintain confidence
+in the vaccination program.
+Next slide.
+Within 24 hours CDC and FDA colleagues released a
+communication along with a safety clause to ensure
+that there was immediate awareness by clinicians,
+public health colleagues, and the public
+of this potential adverse event.
+Next slide.
+On April 14th, ACIP convened an open meeting to discuss CVST
+with thrombocytopenia to ensure transparency
+and public awareness.
+At that time we reviewed reported cases of CVST
+with thrombocytopenia after COVID-19 vaccines,
+and we discussed the need for additional information
+to support evidence based decision making, including age
+and gender specific risk estimated, and an evaluation
+of the benefit risk balance of using the Janssen vaccine
+in specific subgroups.
+Next slide.
+At the VaST meeting on April 19th,
+we reviewed the new Brighton Collaboration definition
+of thrombosis with thrombocytopenia syndrome,
+or TTS, which you've heard about today from Dr. Shimabukuro,
+that is the broader definition in use now,
+but having the standardized definition is critical
+to facilitate investigations across surveillance systems
+in the U.S. and globally.
+So I just want to take a moment to recognize
+and thank the Brighton Collaboration team
+for their quick work on this definition.
+VaST noted that the Health Alert Network, the HAN,
+was extremely useful for supporting enhanced case finding
+in the U.S. And at that meeting,
+VaST requested additional information on the age
+and gender specific rates of TTS following the Janssen vaccine
+for further risk assessment.
+Data from the VSD and the VA rapid cycle analyses were
+reviewed, and no safety signals were identified for CVST,
+other thromboembolic disease,
+or thrombocytopenia following the Janssen vaccine
+with over 200,000 doses administered
+at that time across the 2 systems.
+We also received an update from the
+WHO global advisory committee on vaccine safety
+on TTS cases following the AstraZeneca vaccine.
+This included a better contextual understanding
+of the country specific approaches to use
+of the AstraZeneca vaccine that are driven
+by those country's specific benefit risk assessments.
+Next slide.
+So at yesterday's joint VaST
+and COVID vaccines work group meetings,
+additional safety data were presented,
+and we discussed the risk
+for TTS following the Janssen vaccine was 7 per million doses
+in females less than 50 years of age, but the highest rate noted
+in women 30 to 39 years of age.
+In contrast, the risk for TTS was less than 1 per million
+in females 50 and older and males of any age.
+Other potential risk factors included obesity,
+oral contraceptive use, hypothyroidism and hypertension,
+but we really don't have enough information
+to make a determination
+about whether there are true risk factors or associations.
+There were 3 deaths, 7 remain hospitalized,
+and 5 have been discharged home.
+And the group also discussed benefit risk assessment
+and the evidence
+to recommendations framework during that meeting.
+Next slide.
+So in summary, where we are today, we recognize
+that TTS is a rare potential complication potentially
+associated with the Janssen vaccine,
+and that the risks should be balanced against the benefits
+of preventing death, hospitalization,
+and thromboembolic disease associated
+with COVID-19 injection.
+VaST notes that the risk of TTS appears highest in females less
+than 50 years of age and other risk factors
+for TTS are not yet well established.
+Risk mitigation strategies may include the following.
+Number 1, minimizing exposure in high risk populations.
+Number 2, increasing awareness and ensuring timely diagnosis
+and management of TTS.
+And number 3, educating patients and the public
+about the benefits and risks of available vaccines.
+VaST will continue to monitor TTS, thromboembolic disease
+and thrombocytopenia
+in all available vaccine safety surveillance systems.
+And we will continue to update the ACIP COVID-19 vaccines work
+group, the ACIP secretary,
+and the full ACIP committee on a regular basis.
+Next slide.
+I just want to take a moment to thank our VaST members
+for their continued public service and dedication
+to ensuring vaccine confidence in the U.S. And I also wanted
+to thank our intrepid CDC co-leads, Lauri Markowitz
+and Melinda Wharton, and our ex-Officio and liaison
+representative and our administrative support team.
+I also wanted to personally thank all
+of our vaccine safety colleagues
+in the immunization safety office,
+and the vaccine safety investigators in VAERS, VSD,
+C-sub, V-safe, VA, FDA, CMS and DOD
+for their round the clock work on vaccine safety
+since that first dose was administered
+in the U.S. on December 14th.
+Thank you.
+>> Thank you.
+We'll now go on to presentation of thrombosis
+and thrombocytopenic syndrome, TTS, after COVID vaccines,
+applying the evidence to recommendation framework.
+Presenting will be Dr. Sara Oliver, who is the CDC lead
+for the COVID-19 work group.
+And before she begins, I want to thank her and her group
+for all the work they've done on this issue,
+and on all the other issues that have come before us beforehand.
+So thank you, very much, and please, go for it.
+>> Thank you, Dr. Romero.
+It has absolutely been a group effort over this last bit.
+So good afternoon.
+Next slide.
+Next slide.
+So for previous votes for the use of COVID-19 vaccines,
+we've considered, we've used the evidence
+to recommendation framework.
+It's a structure used to provide,
+to describe information considered in moving
+from the evidence to the ACIP vaccine recommendations.
+It provides transparency around the impact of additional factors
+on deliberations when considering a recommendation.
+Next slide.
+As a reminder, this is the policy question
+that was originally voted on for the Janssen vaccine,
+should vaccination with the Janssen COVID-19 vaccine,
+one dose, be recommended for persons 18 years of age
+and older under an EUA?
+Next slide.
+This is the traditional evidence to recommendation framework used
+for previous recommendations.
+While it's helpful, it doesn't necessarily fit the type
+of questions facing ACIP today.
+Next slide.
+So we've adapted the evidence to recommendation framework
+to a risk benefit assessment
+for the Janssen vaccine recommendations.
+We'll be using many of the same domains to lay
+out the information that we have available.
+First for the public health problem,
+we'll be describing recent COVID Epi,
+as this is what is most relevant to policy decisions made today.
+Then we'll provide a high level review of other information
+that may inform the discussion, including thrombosis seen
+after COVID, an overview of CVST, the epidemiology of HIT,
+or heparin induced thrombocytopenia,
+and what it currently known from the AstraZeneca vaccine.
+Then under benefits and harms, we'll discuss the benefits
+of the Janssen vaccine, harms associated
+with the Janssen vaccine, and our data
+on the benefit risk assessment of COVID vaccines.
+Next slide.
+Then we'll discuss values and acceptability,
+including the intent to receive a 1 dose vaccine and how
+that has evolved over time.
+For feasibility, we have rapid recent surveys
+of the jurisdictions over their use of the Janssen vaccine
+and the possible impact of Janssen vaccine policy options.
+And finally, we will highlight the possible impact the Janssen
+policy options may have
+on disproportionately affected populations.
+There are no data for resource use available
+to inform these discussions.
+And before we go in detail,
+now that we've highlighted what we're about to lay out,
+I just personally want to take a moment to thank the team
+of people who have done about 6 months worth of work
+in this last week to pull it together, our data team,
+which conducted the risk benefit assessment,
+and the modeling team, which helped provide the models
+to inform this assessment.
+So next slide.
+So first describing the public health problem.
+Next slide.
+Again, this is what we'll be reviewing.
+Next slide.
+So this slide shows the trend in number of COVID-19 cases
+in the U.S. through April 17th.
+We've had around 31 million cases.
+We had a rapid decline in cases since the winter,
+though it's a stable to slight increase in recent weeks.
+Next slide.
+This is the daily death curve
+with over 560,000 deaths throughout this pandemic.
+Next slide.
+So this is a map of the U.S. where each state is shaded
+by the most recent 7 day case rate,
+where the darker colors represent a higher incidence.
+Next slide.
+This slide highlights the Epi Curve from 2 states,
+one with a high incidence currently, and rising,
+the other with a lower, stable incidence.
+This is more to highlight that in a country this large,
+the Epi of COVID is not the same everywhere.
+The pandemic is dynamic and states can experience highs
+and lows at different times.
+Next slide.
+We also can't talk about recent Epi
+without acknowledging the SARS-COV-2 variants
+in the U.S. This slide shows circulating proportions overall,
+and then the proportion of cases from variants of concern,
+or variants of interest, has increased.
+And you can see here in recent weeks,
+nearly half of the cases are the B117 variant.
+Next slide.
+We also have to acknowledge what is happening in the U.S.
+with COVID is only a proportion of the picture, as well.
+This map shows a recent global incidence rates
+with a darker blue representing a higher rate
+in the last 7 days.
+Next slide.
+So again, the recent COVID-19 epidemiology will be the most
+informative for policy decisions made now and moving forward.
+So we're going to focus in on the Epi since March 1st.
+Next slide.
+This slide shows the incidence by age and by sex.
+The highest incidence for new cases recently,
+sexually females 18 to 29 years of age.
+Among adults less than 50 years of age,
+females have a slightly higher incidence compared to males.
+And this is reversed in the older populations.
+Next slide.
+This slide shows recent hospitalizations
+by age and by sex.
+Older adults have much higher rates of hospitalizations,
+with older males as the highest rate.
+Next slide.
+And finally, this slide shows mortality rates by age and sex,
+where older males have the highest rates
+and all younger adults have a lower mortality rate.
+Next slide.
+This slide shows the recent incidence by race and ethnicity.
+Disparities and incidence by race and ethnicity are noted.
+Next slide.
+This slide shows mortality by race and ethnicity,
+and again you can see disparities
+by race and ethnicity noted.
+Next slide.
+So to summarize our COVID Epi data since March 1st,
+for incidence the cumulative rate is just over 700
+for 100,000 population,
+where younger females have the highest incidence
+of new infections.
+For hospitalization, the cumulative rate
+since March 1st is 20 per 100,000.
+Most hospitalizations still incur in persons 65 and older.
+But it's worth noting that the proportion
+of hospitalizations occurring in this population is declining.
+For mortality, the cumulative rate
+since March 1st is 3 per 100,000.
+Again, where most COVID deaths are occurring
+in older populations, but the proportion occurring
+in this population is declining, as well.
+Next slide.
+So next we'll briefly cover the Epi
+of several other relevant conditions.
+We've heard throughout today about CVST,
+as well as splanchnic vein thrombosis, or SVT.
+The overall incidence of CVST is around 14 to 28 per million.
+There is a wide range.
+And many of the differences in incidence
+that you may have heard from last week
+and across presentations this week is accounted
+for by this next fact, that the incidence has been steadily
+increasing in recent years.
+It's thought that this could be related to better detection
+by wider use of more advanced neuroimaging.
+CVST rates are higher in young women,
+and in traditional CVST risk factors are identified
+in most cases.
+The mortality rate is 5%.
+Splanchnic vein thrombosis incidence is higher,
+with around 80 to 180 per million,
+with a higher incidence among men.
+And it's worth noting that the incidence with thrombocytopenia
+of either of these conditions is much lower than the incidence
+without thrombocytopenia.
+Recent estimates for CVST with thrombocytopenia are
+around .7 to 1.6 per million.
+But again, estimates for this condition are impacted by time
+and overall increases in CVST.
+Next slide.
+So heparin induced thrombocytopenia, or HIT,
+occurs in .5 to 1% of patients exposed to heparin.
+This translates to somewhere around 20 to 45 per million
+in the U.S. population.
+Of patients with HIP, thrombosis occurs in 20 to 64%.
+As we heard described earlier today,
+it's an immune mediated event with antibodies directed
+against platelet factor 4.
+There are risk factors for transitioning from HIT to HIT
+with thrombosis, which includes genetic factors,
+a lower platelet count, higher tigers
+of PF4 antibodies, and prior surgery.
+Next slide.
+So CVST can occur after COVID-19,
+although it is very rare and less than .1%
+of hospitalized COVID-19 patients.
+Translating this to overall numbers, it could be estimated
+to be around 5 to 6 cases
+of CVST per million SARS-COV-2 infections.
+CVST plus thrombocytopenia
+in COVID patients appears to be extremely rare.
+Any clots with COVID appear to be pathologically different
+than TTS after COVID vaccines.
+There was a pre-print study that looked at PF4 antibodies
+in a history of patients with confirmed COVID,
+overall 90% of those were negative for PF4 antibodies
+and all were negative on functional last phase.
+This included patients who had thromboembolic events
+with their COVID infection.
+Next slide.
+There was one study described, or mentioned, earlier today,
+to look at electronic health records to look at CVST
+and portal vein thrombosis in COVID patients.
+They showed a low incidence of CVST in any 2 week period,
+but 2 weeks after COVID estimated incidence
+at 39 per million hospitalized COVID patients.
+Cases of CVST were rarely seen after receipt of mRNA vaccines
+in this administrative data.
+However there are limitations to interpretations
+of this administrative data.
+They were unable to assess the incidence of CVST
+after either ad vector vaccine, either the Janssen
+or the AstraZeneca vaccine, and did not provide rates
+of CVST plus thrombocytopenia so it limits the direct ability
+to compare rates of CVST plus thrombocytopenia seen
+after COVID vaccines in the U.S. or Europe.
+Next slide.
+So then briefly walking through what we know about thrombosis
+with thrombocytopenia after the AstraZeneca vaccine in Europe,
+around 160 cases of CVST,
+53 cases of splanchnic vein thrombosis were reported
+through early April in Europe.
+The EU estimates this to be around 10 cases per million,
+but acknowledges a higher incidence in younger adults.
+Their cases, again, were mostly in women less than 60,
+and within 2 weeks of receiving the first AstraZeneca
+vaccine dose.
+The EMA concluded that the benefit risk was still favorable
+to use the vaccine and a causal association was likely.
+No specific risk factors to date, but they acknowledge
+that the Epi may be related to vaccine delivery across Europe.
+They also added a warning for unusual blood clots
+and low platelets to the label as a side effect.
+Next slide.
+The U.K. recently provided updated number through mid April
+with 168 reports of blood clots
+with low platelets, 72 cases of CVST.
+The male female split seen as slightly more,
+as slightly more even, with a broader age range has been,
+was discussed in our first presentation today.
+They note a rate of 7.9 per million doses.
+And the U.K. has also decided that the benefits continue
+to outweigh the risk, but JVCI, or the U.K.'s version of ACIP,
+recommended that persons between 18 to 29 years of age,
+at low risk of infection, be offered other vaccines.
+Next slide.
+Earlier this week, the EMA also met to review 8 of the cases
+of TTS after the Janssen vaccine reported in the U.S. They felt
+that the cases were very similar to cases occurring
+after the AstraZeneca vaccine.
+Similar to AstraZeneca, they concluded
+that a warning should be added to the product label.
+However, they also emphasized that it was a rare event,
+the benefits outweighed the risks,
+and emphasized the importance of healthcare provider awareness.
+Next slide.
+So this slide just pulls together what we've presented
+over the past several slides into a single slide,
+with the COVID outcomes in blue on the left, HIT, CVST,
+and CVST with thrombocytopenia rates across the top,
+and then the rates of TTS
+after AstraZeneca vaccine are shown in the box.
+Next slide.
+So now moving to benefits and harms.
+Next slide.
+So again, we'll highlight the benefits of the vaccine, harms,
+and our overall risk benefit summary.
+Next slide.
+The phase 3 trial of the Janssen vaccine demonstrated efficacy
+against symptomatic lab confirmed cases of COVID
+with an overall estimate of 66.3%.
+Efficacy against hospitalization was 93%.
+And higher efficacy against severe outcomes was noted.
+Efficacy against severe disease remained high
+in various world regions suggesting protection
+against severe disease with variant strains.
+Next slide.
+This was the slide shown from our former ETR presentation
+with a plot showing similar efficacy across age, sex,
+race and ethnicity categories, and among those with
+and without underlying medical conditions
+at least 14 days after vaccination.
+Next slide.
+There are also benefits beyond efficacy.
+This vaccine is able to be shipped and stored
+at refrigerator temperatures and is a single dose series,
+which may make it easier
+to reach some disproportionately affected groups.
+Next slide.
+Regarding possible harms of the Janssen vaccine,
+Dr. Shimabukuro described this in detail,
+so I won't go through it all again.
+But highlighting the findings here nearly 8 million vaccines
+administered with 15 confirmed cases of TTS with a rate
+of 7 per million in women 18 to 49 years of age,
+almost 1 per million in women 50 years of age and older,
+and none in men noted in post-authorization surveillance.
+Although we do acknowledge that 1 case occurred in a man
+in the clinical trial.
+Next slide.
+So now I'm going to walk through our formal risk
+benefit analysis.
+We're going to show this from 2 different perspectives.
+As ACIP thinks through these policy decisions,
+you'll need to think through the population level risk benefit
+and an individual level risk benefit.
+Therefore, we'll be presenting results
+from 2 different analyses that look at each
+of these perspectives.
+First for the population level, we'll quantify COVID infections,
+hospitalizations, and deaths averted
+over different assumptions about resuming the Janssen COVID,
+the COVID vaccines over a 6 month period.
+Then we'll use that data to quantify population level,
+age specific benefits and harms of resuming vaccination
+with Janssen COVID vaccine.
+Then for the individual level risk benefit analysis,
+this was more direct patient level evaluation,
+looking at a 1 month period, to quantify the direct age
+and sex specific benefits
+and harms per million Janssen vaccine doses.
+Next slide.
+So first, for the population level,
+objective of the modeling was to quantify COVID-19 infections,
+hospitalizations and deaths under different assumptions
+about resumption of the Janssen vaccination.
+In all scenarios, we assumed continued use of mRNA vaccines.
+There were 5 scenarios evaluated,
+that the Janssen vaccine was not resumed,
+that it was resumed starting tomorrow for all adults 18 years
+of age and older, this was then at 50%
+of a prepause administration rate,
+or 100% of a prepause administration rate,
+then that the Janssen vaccine resumes tomorrow
+in adults 50 years of age and over only,
+again at a 50% prepause administration rate
+or 100% prepause administration rate.
+Next slide.
+Our modeling team developed a compartmental model used
+to simulate incident infections, hospitalizations and deaths,
+over the course of the epidemic
+in the U.S. This is an updated version of the model,
+which has previously been shared with ACIP and is stratified
+by age, essential worker status, and underlying conditions.
+The model was re-calibrated with incidence data through spring
+of 2021, to be consistent with the ensemble from round 4
+of the multiple model scenario hub.
+We modeled age group specific vaccination coverage
+through April 2021, then also accounted
+for age group specific vaccine hesitancy
+when calibrating anticipated coverage.
+We modeled two types of vaccines,
+mRNA and Janssen vaccines with VE estimates informed
+by the clinical trials and assumed
+to develop 14 days after administration.
+We assumed no loss to follow up with mRNA second doses,
+no delays in administration,
+and we also assumed no waning immunity
+over the future 6 month time horizon.
+Next slide.
+So this slide looks at time to complete vaccination
+for all intending adults.
+During and after the vaccine pause administration
+of mRNA vaccines continues at the same rate
+as the week before the pause began until demand is fully met.
+If use of the J and J vaccine, of the Janssen vaccine,
+is not resumed for any ages,
+then it takes approximately 14 days longer
+to meet all vaccine demand.
+However, in practice, the pace of administration may slow
+as those experience barriers to access and,
+or greater hesitancy may comprise a greater share
+of those unvaccinated.
+Next slide.
+So this graph illustrated how the results
+of varying the resumption strategy might be influenced
+by the population vaccinated.
+And, hold on, I may have skipped.
+Yes, sorry.
+This model was calibrated to be consistent with the ensemble
+from round 4 of the multiple model scenario hub.
+We modeled those low transmission scenarios shown
+in blue with a higher and longer sustained compliance
+with non-pharmaceutical interventions,
+and a moderate transmission scenario shown in black
+with non-pharmaceutical interventions easing more
+quickly over time.
+Next slide.
+So then this graph illustrates the results
+of varying the resumption strategy may be influenced
+by the population vaccinated and administration rate
+under this moderate transmission scenario.
+So the blue bars show the percent reductions
+in infections, hospitalizations
+and deaths assuming resuming vaccination
+in persons 18 years of age and older.
+And the green bars show a much lower percent reduction
+in those outcomes when limiting Janssen vaccine
+to person 50 years of age and older.
+Additionally, the lighter and darker bars show the difference
+in model results, depending on administration rate,
+with 100% administration rate resulting in greater reduction
+than the 50% administration rate.
+Next slide.
+So now this graph on the right shows the model results
+under a low transmission scenario
+with a slightly lower percent reduction.
+And the outputs from the model on this side were used
+in the population risk benefit calculations that follow.
+Next slide.
+So again, we used the outputs of that model,
+just shown to quantify the age specific risks and benefits
+of resuming vaccination with Janssen COVID-19 vaccines,
+including the risks of TTS and the benefits,
+including prevention of COVID-19 related hospitalizations,
+deaths, and ICU admissions.
+Next slide.
+From the model, we use the numbers of hospitalizations
+and deaths due to COVID-19, the number of persons estimated
+to receive the Janssen vaccine after the pause based
+on a variety of conditions, including again low
+and moderate transmission,
+50 and 100% of the vaccination pause,
+and then the resuming vaccination in over 18
+and over 50%, or I mean over 50 years compared
+with no resumption.
+The estimates are modeled for a 6 month time horizon.
+And additionally, data from the CDC pandemic planning scenarios
+on age specific proportions of hospitalized cases admitted
+to the ICU, CDC counts of the observed TTS by age,
+and numbers already vaccinated
+with the Janssen COVID-19 vaccine data before the pause
+were used.
+Next slide.
+So here we show the scenario where vaccination is resumed
+in persons 18 and older using the conditions
+of moderate transmission and vaccination
+of the Janssen vaccine
+at 50% administration rate before the pause.
+These are the number of additional benefits
+for the entire population, and harms compared
+to not resuming vaccination with the Janssen COVID-19 vaccine.
+In the scenario of resuming vaccination
+for all persons 18 years of age and older,
+we expect 2 TTS cases among 50 to 64 year olds,
+and 24 cases among 18 to 49 years
+and a many times greater reduction
+in death and ICU admissions.
+Overall, if vaccination
+with Janssen COVID-19 vaccine were resumed in all adults,
+the model predicts that 26 cases
+of TTS will occur among the 9.8 million persons vaccinated,
+and that about 2200 deaths,
+and 1400 ICU admissions would be prevented.
+Next slide.
+So now on the right, the scenario
+of resuming vaccination only for persons aged 50 and over,
+there are 2 cases of TTS predicted,
+again only among 50 to 64 year olds.
+The number of deaths and ICU admissions prevented are much
+smaller then the scenario of resuming vaccination
+for all adults, but the benefits still outweigh the
+smaller risks.
+The model predicts 2 TTS cases in 3.6 million vaccinations,
+which would prevent around 250 deaths and 800 ICU admissions.
+Next slide.
+So summarizing the risks and the benefits
+for all the scenarios included in the model,
+considered suggesting upper and lower bounds
+of population effects
+for resuming Janssen COVID-19 vaccines.
+When resuming vaccination among all persons at least 18 years,
+we expect 26 to 45 TTS cases, depending on vaccine uptake,
+and expect between 800 and 2500 fewer admissions,
+and between 600 and 1400 fewer deaths compared
+to not resuming vaccination with the Janssen vaccine.
+When resuming vaccination among only person 50 years of age
+and older, we anticipate 2 to 3 TTS cases, and between 300
+and 1,000 fewer ICU admissions,
+and between 40 and 250 fewer deaths.
+While this, with this approach to assessing the risks
+and the benefits, we know that the benefits
+of vaccination apply to the whole population
+over a six month period and result from both direct
+and indirect effects whereas the risks only pertain
+to the vaccinated persons.
+Next slide.
+So now we're going to move to the second level
+that we talked about considering.
+We just showed the population level benefits and risks.
+And next we're going to move
+to the individual level benefits and risks.
+The population model did not inform the direct individual
+benefits and harms for vaccination of that individual
+and was not able to look at spec specific effects.
+So we used a simpler direct explanation approach
+to explore risks and benefits for females and males
+in different age groups per million Janssen vaccine doses.
+The calculations were based on recent age specific incidence
+for hospitalizations for COVID,
+VE Against hospitalization observed in the trials,
+total Janssen vaccines to date,
+the number of persons already vaccinated,
+and are calculated assuming a 30 day period
+of not being vaccinated.
+Next slide.
+For females aged 18 to 49 we estimate
+that for every million doses
+of Janssen COVID-19 vaccine administered,
+we would expect 13 cases of TTS and would expect
+to prevent 12 deaths, 127 ICU admissions,
+and 657 hospitalizations due to COVID in 1 month.
+Next slide.
+On the right we see the estimation for person 50 years,
+for females 50 years of age or older.
+There are only 2 cases of TTS per million vaccination doses.
+But we would expect to prevent nearly 600 deaths
+and over 1,000 ICU admissions
+and nearly 5,000 hospitalizations due to COVID.
+Next slide.
+In males aged 18 to 49, we incorporated the 1 TTS case
+that was observed in the Phase 3 trial in this estimate.
+Per 1 million vaccination we might expect a small number
+of TTS cases and would expect to prevent 11 deaths,
+over 100 ICU admissions, and 600 hospitalizations due to COVID.
+Next slide.
+So then in males 50 years of age and older, we expect 0 cases
+of TTS and could avert around 700 deaths,
+1,500 ICU admissions, and 5,000 hospitalizations due to COVID.
+Next slide.
+So the population and individual approaches
+to the risk benefit analysis are for complementary information
+on the risks and benefits of resuming vaccination
+and within which age groups.
+The population approach takes into account both direct
+and indirect or heard effects of vaccination.
+It incorporates the availability of different vaccines,
+simulates, simulates incidence, hospitalizations,
+and deaths over the course of the pandemic,
+and makes estimates on all outcomes
+over a sixth month time horizon.
+This approach shows a large population benefit
+of vaccination relative to a rare occurrence of TTS.
+Next the direct individual level approach estimates the benefits
+and risks to vaccinated individuals
+and only considers getting a Janssen vaccine
+versus not getting any vaccine
+over a short one month time horizon.
+The analysis shows a positive balance of benefits and risks
+for all ages and sex groups.
+However, the stratified results suggests
+that the relative balance and risks
+for individuals varies by age and sex.
+Next slide.
+So now moving to values and acceptability.
+Next slide.
+We'll present intent to receive a one dose COVID vaccine
+and intent to receive a Janssen vaccine over time and effect
+on overall confidence.
+Next slide.
+So prior to authorization of the Janssen vaccine,
+we conducted a survey that asked if there was a two dose
+or a one dose COVID vaccine available
+which would you choose?
+The survey was conducted in February
+of 2021 prior to the pause.
+Overall results were presented back in March 31st
+when ACIP voted on the use of the Janssen vaccine.
+However we now examined to this data by age, sex,
+race and ethnicity, and income.
+Overall most responders said that they would be willing
+to take either vaccine offered to them.
+However, 6% of individuals had said
+that they exclusively preferred a 1 dose vaccine.
+There were no differences in the proportion
+that preferred a 1 dose vaccine by age, sex, or income.
+But there were significantly more Hispanic than White
+that exclusively preferred a 1 dose vaccine.
+There have been several other surveys conducted
+over the past 1 to 2 weeks.
+At the time of the last survey only 37%
+of Janssen respondents called the Janssen COVID vaccine unsafe
+that was announced.
+And this was after the pause was announced.
+This represents of a drop of about 15% over 2 to 3 days.
+Another survey found that Americans are less likely
+to prefer Janssen vaccine with 13% decline in preference
+for the vaccine which ranged from 9% to 25%
+across age and race categories.
+Nice slide.
+This slide shows a figure from one
+of the surveys demonstrating a willingness
+to get each vaccine over time.
+You can see in recent weeks the willingness
+to receive a Janssen vaccine has declined substantially.
+Next slide.
+So when trying to look at overall vaccine confidence,
+one survey found that the drop in vaccine confidence
+to not appear to extend to the Pfizer or Moderna vaccines
+where most felt that they were safe.
+A recent poll did not suggest reduction in the intents
+to be vaccinated and instead found
+that people were 40% more likely
+to receive a vaccine compared to 1 month ago.
+One survey did find a proportion of those
+who remain unvaccinated may be less inclined
+to receive a COVID vaccine
+after the pause regardless of the brand.
+Next slide.
+So moving to feasibility.
+Next slide.
+We were able to conduct a rapid survey of each U.S. jurisdiction
+for the use of the Janssen vaccine and the impact
+of the Janssen, and the impact of the Janssen vaccine pause
+and potential recommendations.
+The figure on the left shows
+where jurisdictions had been using the Janssen vaccine.
+You can see that many jurisdictions were using this
+vaccine in specific populations including persons experiencing
+homelessness, home bound populations
+and incarcerated individuals.
+The figure on the right show settings
+where jurisdictions were using the Janssen vaccine
+which included mobile vaccination clinics,
+emergency departments, and student health center.
+Next slide.
+We then asked jurisdictions for the impact
+if the Janssen vaccine were only recommended
+for specific populations.
+Summaries of responses are presented here.
+Jurisdictions felt that they may need to reconfigure some
+of their vaccination sites, update scheduling tools
+and may have difficulty serving disproportionately
+effected populations.
+Many say that providers may need to carry multiple vaccines.
+Health departments also expressed concerns
+about communicating changes to the public
+and again highlighted the difficulties serving
+disproportionately effect population or populations
+who are at risk for not returning for a second dose,
+race and ethnic minorities through mobile vaccination,
+and then rural and hard to reach areas.
+Next slide.
+So this slide shows jurisdictional thoughts
+for an impact if the Janssen vaccine was no
+longer recommended.
+Jurisdictions were primarily concerned
+around second dose management
+if only 2 dose vaccines were available and equity concerns.
+Janssen vaccines provided flexibility for jurisdictions
+to avoid second dose management, run mobile clinics,
+and fully vaccinate people who may need
+to complete a series quickly.
+Jurisdictions noted many individuals
+or some individuals expressed a preference for a Janssen vaccine
+and increasing challenges to reach home bound,
+transient, or rural populations.
+Next slide.
+So finally for equity.
+Next slide.
+This is from the same jurisdictional survey
+and most was highlighted before.
+But we're highlighting here again raising concerns
+from the jurisdictions around equity.
+Jurisdictions continue to mention four populations at risk
+for disproportionate impact,
+persons experiencing homelessness,
+home bound populations, incarcerated individuals,
+and migrant or seasonal populations.
+It was felt that if the Janssen vaccine were no longer available
+these populations may be disproportionately impacted.
+I won't go through and read the quotes, but they're here,
+and highlight the concerns and disparities
+from various jurisdictions.
+Next slide.
+So now we'll talk about the policy options for the use
+of the Janssen COVID-19 vaccine.
+Next slide.
+This slid will show that the ACIP meeting last week,
+there's a spectrum of options for the Janssen vaccine.
+First ACIP could decide that the risks outweigh the benefits
+and vote to not recommend use of the Janssen vaccine due
+to these safety concerns.
+ACIP could decide that the benefits outweigh the risks
+overall and recommend use of the vaccine
+in all adults 18 years of age and older.
+There's also an option in the middle
+of the spectrum recommending use
+of the Janssen vaccine in some populations.
+Next slide.
+So these were the four policy options discussed
+by the work group.
+First recommending against use for all persons.
+Next reaffirm recommendations for all ages and sex
+in the content of the FDA warning statement within the EUA
+that was mentioned earlier.
+Next recommend vaccination
+for only adults 50 years of age and older.
+And finally reaffirm recommendation for use
+but women less than age 50 should be aware
+of the increased risk for TTS
+and may choose another COVID-19 vaccine
+such as the mNRA vaccines.
+Next slide.
+I'll walk through some highlighted pros and cons
+for each of the four options that were discussed.
+First to recommend against use in all persons.
+A pro would be that there would be no further development of TTS
+after the Janssen vaccine.
+However the cons would be
+that it would remove choice from individuals.
+It could lead to excess COVID-19 cases and deaths
+and could disproportionately impact at risk populations
+who have barriers to access
+or difficulty returning for a second dose.
+Next the population to reaffirm for all ages and sex
+in the setting of the FDA warning.
+This would allow for flexibility and choice and allow for the use
+of the vaccine in harder to reach populations.
+However it would place the burden on the individual
+to understand the risks and on health departments
+and providers to convey this risk.
+It may lead to more cases of TTS.
+And it's worth noting that at risk populations
+for COVID-19 are likely at risk for barriers to identification
+and prompt treatment for TTS
+if it should occur after the vaccine.
+Next slide.
+So next to recommend vaccination
+for adults 50 years of age and older.
+This would remove a vaccine from the most at risk population
+and thus sharply reduce expected TTS cases.
+In addition a single age cut off is easy to communicate.
+However it would likely be able to implement
+where vaccination sites could need
+to stock two different vaccines.
+It would remove an option in a population that's actually
+at lower risk, men less than 50 years of age,
+and could disproportionately impact at risk populations.
+And finally the fourth policy option
+to reaffirm recommendations for use but recommends
+that women less than 50 should be aware of the increased risk
+and may choose another COVID vaccine.
+This would allow for flexibility and choice and would allow
+for use of the vaccine in hard
+to reach populations while still acknowledging the risk
+in young women.
+However, it could still be difficult to implement again
+with sites possibly needing to stock two vaccines
+and could be difficult to communicate.
+Next slide.
+So next I'll highlight quickly a summary
+of the work group discussion that occurred yesterday.
+There was concern by many
+that a detailed personal level discussion
+of the risk benefit balance is difficult in many
+of our current vaccination settings
+such as mass vaccination clinics.
+Recommendations that may require vaccination sites
+to require two types of vaccines is difficult to implement.
+Access to vaccines for hard
+to reach populations remains important.
+And that the risk benefit balance may change
+as the pandemic evolves and the risk of COVID-19 changes.
+Next slide.
+So again the work group discussed benefits and concerns
+with all policy options.
+There was no single policy option
+as a clear choice from the work group.
+However many on the work group appreciated the flexibility
+with broader recommendations for use.
+But acknowledgment of the elevated risk in women less
+than 50 years of age as the fourth option
+that was previously shown.
+Next slide.
+As a reminder, this is the previous vote.
+The Janssen COVID-19 vaccine is recommended for persons 18 years
+of age and older in the U.S. population
+under the FDA's Emergency Authorization.
+So our question proposed to ACIP.
+Given the review of the benefits and risks presented here,
+what recommendation does ACIP feel is appropriate for the use
+of the Janssen COVID-19 vaccine?
+Next slide.
+And I'll leave these up for discussion, turn it back
+over to you Dr. Romero.
+>> As always, thank you for a wonderful detailed
+and lucid presentation.
+So this is now open for discussion.
+We'll begin with the voting members.
+Let me pull up my screen here.
+Are there any comments or questions?
+Dr. Bernstein.
+>> Spectacular presentation.
+Thank you, Sarah.
+The question that I have,
+oh I'm sorry I don't know why I'm echoing.
+>> We hear you well.
+>> Okay. Good.
+I was interested with the fourth option
+that says we affirm recommendations
+for use women aged less than 50 years should be aware
+of the increased risk of TTS
+and may choose another COVID-19 vaccine that is mRNA vaccines.
+I was interested to know some more detail on how
+that women aged less than 50 years would become aware
+of the increased risk of TTS?
+I asked at last week's meeting adding a warning
+to the EUA that's already six or eight pages long.
+I was concerned that such a warning would be overlooked
+or missed.
+And I was wondering what's being proposed to convey
+that important information?
+>> Dr. Bernstein, this is Amanda.
+I can respond to that.
+Yes we, awaiting ACIP's recommendation we will have
+prepared, if this is the direction ACIP goes in,
+we will have tools both for providers as well
+as public education to inform women and providers
+about not only the risks but what signs and symptoms
+to be aware of if you do choose to get the COVID vaccine.
+And we'll do this through high, you know,
+high level infographics and other ways
+to convey this information in a much simpler way
+than will be communicated in the very comprehensive
+and complete FAQ patient FAG form in the EUA.
+>> Thank you.
+>> Dr. Sanchez.
+>> Thank you.
+Sarah that was wonderful as always.
+And thank you.
+I understand the complexity a lot.
+I understand the having a permissive acceptance
+of the vaccine would be as a shared decision making
+which we have been doing for other vaccines.
+I actually was very interested and was going to ask even the,
+you know, the Johnson
+and Johnson officer Dr. Waldstreicher
+if they had information on the acceptance of the vaccine
+after all these cases have been reported
+in the media in the literature.
+I see that it's down to 19% so thank you for that information.
+My concern is that currently most, I think very few places,
+at least that I'm aware of, have options for different vaccines.
+And we, and if we only have the Janssen vaccine available
+there'll be a lot of people who may, if that 19% is true,
+they will not, they will choose not to take that one.
+So I think that we're going to end up having
+to have other vaccines.
+And, which, and other vaccines are available as we all know.
+I also understand the rationale for comparing this vaccine
+to an unvaccinated population and the risk benefits with that.
+But the fact is that we do have other vaccines that,
+at least at this time, don't have this,
+we have not seen the TTS.
+So I remain concerned.
+I understand the shared decision making and having
+that option for individuals.
+But I also find that it'll be very interesting
+to see how many, after we actually inform them
+of this potential risk, if that number 19% might even go
+down further.
+And so I think it's a very difficult decision.
+But I also think that if we, if it is approved
+and we recommend I guess, you know, in the use of any
+of these, I think that we really will need
+to have choice available at different jurisdictions.
+Thank you.
+>> Thank you Dr. Sanchez.
+Dr. Long.
+>> Yes. First for that I understand the very
+fantastic modeling.
+First on the population level, it was quite compelling.
+Is that all based on your assumption
+that it would take 14 days longer
+to immunize the population
+than if you had this vaccine available for all?
+Like I just missed that part of it.
+And similarly, as Dr. Sanchez asked, the decision
+to compare individual direct benefits of the vaccine
+versus none, is that because you wanted us
+to understand what would happen
+if the individual refused other vaccines?
+>> So let me, I'll take the second question first.
+I want to highlight the population level model included
+mRNA vaccines are current and projected supply
+over the next six months.
+So the population level really kind of was the situation
+as it is in the U.S.
+That individual patient level model really tried to take
+into account that the thought
+that there might be a time period weighing the risk
+and the benefits if that individual is unable
+to get access to another vaccine in a short period of time.
+So I'll say that the population level looked over time
+with mRNA vaccines,
+that individual level that's the reason
+that it was a short time horizon because we assumed
+that the delay would be low.
+Then back to your first question that two week, there was kind
+of a two to four week.
+That was actually and output
+from the first model assuming kind
+of the current situation right now in the U.S.
+So the time delay was an output
+of the model not an input to the model.
+And Rachel is on our fantastic modeler.
+And did I say it correctly?
+And do you have anything else to add?
+>> That's a great response Sarah.
+>> Thanks.
+>> This is Amanda.
+>> Can I ask one more question along with my.
+>> You have the floor.
+>> Why did you, thank you.
+Why did you just not at all think about giving this just
+to male under who are younger?
+That was about three double negatives.
+>> I think I understand.
+When we had to choose the scenarios for the modelers
+to put in, that was based on the initial discussions
+from the work group last week,
+that an age based recommendation is something
+that jurisdictions felt, you know,
+could potentially be communicated and discussed.
+But having a sex based recommendation would be both
+incredibly difficult to communicate
+and really difficult to implement.
+So when kind of push came to shove, that is why we chose
+to not, to go with the age based as opposed to the gender based.
+>> Could you just enlighten me a little bit
+about how someone declaring whether they're male
+or female would be so much more difficult to implement
+than declaring their age?
+>> Dr. Long, this is Amanda.
+I think that some of the challenges,
+for example if a family came,
+it's not around somebody declaring their gender
+in as much as it is where different groups
+of people access vaccines and the different types of places
+that would have to potentially carry multiple types.
+I think that the work group recognized the same challenges
+with the age restriction as well as with the gender restriction.
+And I think that, you know, there was also over the course
+of the week there was, you know, there have been reports
+of male cases that have, that are under,
+that some of which may have been moved out or whatnot.
+But I think that the risk in males is still not completely,
+while appears to be very low, there is still likely some risk.
+>> I want to say that I've been getting some reports of some
+of the listeners have been having trouble hearing some
+of the ACIP members.
+So please just speak closely to your, to your mic.
+Thanks. Sorry.
+>> Next Ms. Bahta.
+>> Thank you.
+And thank you Dr. Oliver for the incredible presentation.
+One of the things that I've been hearing
+since the process started has come from several
+of our BIPOC communities, our black, indigenous,
+and people of color communities in that they perceive
+that the vaccine has been targeted to,
+the Janssen vaccine has been targeted to them.
+And we're already concerned abut the number, the efficacy number.
+But they're also concerned
+that this could be a subpar vaccine in terms of safety.
+And so I think that's a piece that needs
+to be thoughtfully considered
+and it may be somewhat irrelevant.
+But I didn't see the race,
+I know that we had race down last week.
+But do we have any additional knowledge
+about the impact on race ethnicity.
+>> This is Sarah.
+We I am not aware, and again can deffer to Rachel,
+of any kind of specific model outputs from risk and benefit
+that we were able to obtain from kind of the population level
+at a race and ethnicity level.
+What I will say is it felt like that many of those concerns came
+out in the jurisdictional surveys as well
+which I think communicate many of the concerns that you raised.
+Rachel, do you, I'll go to you quickly, do you know of any race
+and ethnicity output that you guys were able
+to get from the model?
+>> No. The model look at persons within an age group
+and they do not distinguish between different races
+and ethnicity what their contact patterns would look
+like nor the risk of severe outcomes.
+So unfortunately that's not an output of the model shown here.
+>> Okay. Thank you.
+And then what is the feasibility of vaccinated being able
+to have two vaccine products?
+And I'm thinking in terms
+of the upcoming availability of vaccines.
+In the past we really haven't had much of a choice
+of what vaccine we're going to get.
+And can we accommodate that flexibility so that
+if we would do something like a reclamation
+of the recommendation that notification to women under 50,
+could we have an option for them based on supply?
+>> Ms. Bahta, I can start and then Dr. Romero can also join.
+But the distribution
+at the national level would continue to be the same.
+And it would be local decisions about where vaccines
+when to different sites.
+Dr. Romero.
+>> So if you'll permit me I'll throw my Secretary of Health hat
+on for the State of Arkansas.
+So this would be an implementation issue
+that would be dealt with at a local statewide level.
+And we would have to adjust to that.
+And understanding that, that is the case we would probably have
+the flex to do so.
+Again this is speaking only for my state.
+And if the representative from ASTHO would like to come
+and say anything, that would be appreciated also.
+But I think we can honestly accommodate a recommendation
+of that nature.
+So Dr. Shah if you wish, you feel free to make a comment.
+>> Thank you Dr. Romero, again this is Nirav Shah,
+speaking on behalf of ASTHO.
+It is feasible to accommodate multiple vaccines as well
+as prescribe different recommendations for individuals.
+But as Dr. Oliver noted
+in her exceedingly fantastic presentation it does introduce
+logistic challenges of two natures.
+One is that it requires an adjudication of some decision.
+And at a time when we're trying to vaccinate as many folks
+as possible in any given period of ours,
+it might slow things down.
+Even a couple of percentage points may have an impact.
+Second though, and what I've heard from pharmacists
+across state is that carrying multiple vaccine does introduce
+the possibility, small though it may be,
+but real about the possibility of errors
+of different sorts happening.
+>> And this is [inaudible].
+I just had one additional comment.
+And this is just in the context
+that we are looking at a very rare risk.
+And the high benefit and the need
+to make all vaccine available to all of us
+and that we need that flexibility.
+And so I would tend to look for the decision
+with the fourth consideration.
+>> Thank you for those comments.
+Dr. Poehling.
+>> Yes. Thank you.
+First, Dr. Oliver thank you for this presentation.
+I want to thank you and all of your colleagues
+for this great presentation and the amount, huge volume of work
+that you have presented.
+I particularly am focused on recognizing that we are
+in the midst of an ongoing pandemic.
+And that, in the population level,
+the benefits are far greater than the cases of TTS.
+And I also very much appreciate the many hard
+to list populations as well as the many very important points
+that Ms. Bahta shared about making sure we communicate
+and don't make people feel
+like that vaccine is targeted to any one group.
+The second point is I wanted to say thank you
+for the individual assessment
+because that provides a very important component
+as I'm thinking about it.
+And when you look at the individual
+for all groups presented the benefits clearly outweigh the
+risk, though there are differences in age groups,
+and particularly for women less than 50 years of age.
+And for all of those reasons,
+I am leaning towards the fourth choice as well.
+Thank you.
+>> Dr. Frey go ahead, sorry.
+>> Well thank you.
+I was going to ask two question.
+Well first of all, Dr. Oliver, thank you and your team
+for just a really great terrific presentation.
+I was going to ask a question
+that Ms. Bahta has posed very nicely
+and was responded to again very nicely.
+And that was one that had to do
+with resource poor areas and race.
+So I'm just going to skip to my second question
+which I don't expect an answer to.
+I asked this question at our last meeting.
+So I'll just pose it and you can reflect on it later.
+But I, we have a lot of time on this particular question of what
+to do about these very rare events
+with CVST and Thrombocytopenia.
+And I'm just curious, again, at what point,
+what would trigger us revisiting this question?
+In other words, I know
+that everyone is following these cases very closely,
+they're being reviewed on a weekly basis,
+and in some cases a daily basis,
+but at what point would we come back to this?
+And, I'm only posing this because I'm trying
+to think forward about how many times we might change
+a recommendation.
+Do we revisit it when we only see two times the amount
+of cases that we're seeing now?
+Do we revisit it when we cross the baseline number of cases?
+And again I don't expect an answer.
+I just want to put that out there for food for thought.
+Thank you.
+>> Dr. Frey, this is Dr. Oliver.
+I'm happy to, so I will say we planned on revisiting all
+of the recommendations.
+So that, you know, everything was voted on under the EUA.
+So as we transition to BLA, we can reassess a larger amount
+of data in the setting of the pandemic then.
+So there is a time to kind of reassess at that point.
+With regards to a specific safety signal or safety issue,
+I would say we do the exact same thing we did this time
+which is very closely monitor.
+We've got the VaST, the safety group meeting weekly,
+the work group that meets weekly.
+And so if there's anything that raises concern, that would go
+through those channels through VaST, through the Work group
+and come to ACIP as soon as possible.
+Hopefully we don't have to do this again.
+But I think we have shown
+with this really exactly how the system would work
+and how we would, if there's anything concerning how we would
+kind of immediately bring it to ACIP.
+>> Thank you.
+>> This is Jose again.
+So let me make a comment for the general public and for anybody
+who is not aware of this.
+I'm sure that all the members on the ACIP
+and the liaisons understand.
+But it is not uncommon for the ACIP
+to modify their recommendations.
+And that's been done before.
+And most salient in this is the use
+of the IPV OPV recommendations that were undertaken
+for pediatrics where they were completely modified over time
+as the risk benefit ratio for the use of a vaccine
+like IPV went, became higher and higher.
+So again this is not something that we are,
+we have not done normally.
+So did you have any other comments?
+>> No. Thank you.
+>> Very good.
+Dr. Talbot.
+Dr. Kotton.
+>> Thanks for the excellent data and modeling
+which has been really helpful to review.
+In addition to all the factors you considered,
+we should also consider the impact
+on immunocompromised patients.
+It's estimated that approximately 2% to 4%
+of the U.S. population is immunocompromised.
+And what we're seeing
+across numerous trials is a markedly decreased level
+of protection from the COVID-19 vaccine.
+Clinically we're also seeing many patients infected well
+after two doses of the mRNA vaccine many
+of whom have severe disease.
+And we are very concerned
+that with ongoing viral replications the risk
+of producing novel variants is significant.
+They may be more pathogenic, they may be more transmissible,
+or they may even have resistance due to vaccine produced immunity
+which could then have an impact of the entire community
+and our ability to treat this pandemic.
+So in my field there's a lot of interest
+in providing either booster doses
+or alternative vaccine administration.
+I've heard that this is being done in other countries
+such as France and Israel or at least is being considered.
+Although, for now in the United States,
+for equity until everyone
+who wants a vaccine has gotten their vaccine, we've put a pause
+on our ability to give additional doses of vaccine
+for this vulnerable population.
+So in order to best protect this population as well
+as the general population I would consider the impact
+of moving forward with vaccination as rapidly
+as possible so that we could then reach the point
+where we could provide additional vaccines
+for this vulnerable immunocompromised population.
+I'd just like the committee to think about that and take
+that into the equation.
+>> Thank you very much.
+Dr. Talbot.
+>> Thank you.
+Sorry about that.
+I lowered my hand instead of hitting unmute.
+So I have a few things but I'll try to be very direct.
+My major concern about talking about risk is
+that people are confusing the risk of this adverse event
+to those of oral contraceptives.
+It's not the same risk because it's not necessarily the same
+type of clot and it's not the same type of treatment.
+When women present in an emergency department
+with a clot all of the protocols in all of the nation and all
+of the hospitals say start Heparin.
+And that will put these patients at increased risk.
+And so I don't think they are the same risk.
+And it shouldn't be compared to OCP.
+So that's one thing if you're going to advise about risk
+but make sure we make it very clear
+that this is not a leg clot that we treat with Heparin.
+Too I think we don't have individual risk factors.
+What we have is A and effects.
+So I think it's really important that when we talk about risk
+that we do include gender in addition
+to A. I don't think we can ignore the fact
+that the majority of the cases have happened in women.
+And I also want to reiterate that women often present
+[inaudible] of symptoms like headaches
+or nausea and vomiting get sent home
+and are not taken seriously.
+And I think that also needs to be remembered when we talk
+about the risk of this.
+And to Dr. Kotton's comment and the comments
+about those that are home bound.
+We have seen in a recent nursing home outbreak
+that it is incredibly important to vaccinate those
+around the immunocompromised and those that are home bound.
+Everyone is worried that if we don't have a wonder vaccine
+to take into the home we leave those patients at risk.
+But I do think we need to really educate the public
+so if they are in contact with somebody who is home bound
+or immunocompromised that they themselves need to be vaccinated
+to prevent the risk of spread and an infection.
+And then lastly I believe it's Indian Health Service
+that has managed to keep, and I could be wrong,
+but I would like to hear them comment, they have managed
+to keep all three vaccines at the same clinic
+and have done just fine.
+And we are Americans and we have a whole lot of ingenuity,
+I think we can have multiple vaccines in one place,
+I think we can operationalize this.
+And I would hate to think that,
+that would become an insurmountable obstacle.
+I think it is more difficult
+but I don't think it's insurmountable.
+And I think we can overcome this
+and we can have multiple vaccines
+and we can operationalize it.
+What I worry we can't do is educate the entire medical force
+and every American about the risks of this with enough detail
+and enough understanding so that a person can determine the risk
+then for themselves.
+Thank you.
+>> Thank you.
+Dr. Daley.
+>> Yeah. Thanks so much.
+So.
+>> Dr. Daley are you speaking?
+>> Yep. Sorry.
+Can you hear me now?
+>> Now we can hear you.
+>> All right.
+Sorry about that.
+So I think it is possible
+that we're underestimating the benefits of vaccination here.
+And I just want to highlight that.
+There's at least two factors and there's probably others
+that may lead to an underestimation.
+One is the spread of variants
+that are more easily transmissible
+and possibly more severe.
+You know, that would just only increase the likelihood
+of disease in the unvaccinated.
+And then a second is that the models
+that Dr. Oliver presented don't account
+for longer term morbidity and mortality rate from COVID.
+There was a report out this morning, I think from the VA,
+that showed that those who had COVID even
+who weren't hospitalized had increased risk of mortality
+in the six months following their COVID infection.
+So I think we just need to factor that in.
+And then I also think that, if vaccine sites are able
+to publicize which vaccines they have available,
+then the public may be able to choose where to vaccinate.
+I realize that's a challenge because then the public's going
+to need to be aware of what the recommendations are.
+But I think that's another potential solution
+to in contrast to having two vaccines onsite
+at a given clinic.
+So with all those considerations,
+I would savor the fourth recommendation here.
+Thank you.
+>> Thank you, Dr. Daley.
+Let me go on to Ms. McNally.
+>> Thank you.
+I'm in favor, at this point, of option four.
+I agree that there are important benefits to the J and J vaccine
+and I also think that it's very important
+that people have the right to choose.
+What I am concerned about is that there is a very rare risk.
+And we would be warning for those people
+who may have this outcome.
+I, as I look at the DUA of Medical Products
+and Related Authorities Guidance Document dated January
+of 2017 I note that there is a section of this document
+that talks about information for recipients.
+And it obviously talks about the importance for people
+to receive a fact sheet.
+And I'm trying to balance that against our charter at the ACIP
+and our description of duties wherein it indicates
+that for each vaccine the committee advises
+on population group center circumstances in which a vaccine
+or related agent is recommended
+and the committee also provides recommendations
+on the counter indications and precautions for use
+of the vaccine and related agents and provides information
+on recognized adverse for them.
+And I, that's why, I think
+that this option four really accomplishes that need for us
+and it balances the role of FDA and the role of CDC.
+And I'm curious about my colleagues comments
+on my comment.
+Thank you.
+>> This is Amanda.
+While we're waiting for comments,
+and thank you Ms. McNally, I do just want
+to let just acknowledge that people can sign up,
+for individuals who do sign up online for vaccination,
+in many places including at vaccinefinder.org,
+you can actually put in the vaccine that you're looking for.
+So we do have tools available online and can insure that,
+at leas on the government websites
+where we have those tools, the information
+about this risk is clear [inaudible] on those web pages.
+That does not obviously account for individuals who we are,
+who do not have that technology or ability to see that.
+But there is an ability to identify
+which vaccine a person would like to choose.
+>> Thank you.
+So I see Dr. Long's hand is up
+and Dr. Sanchez's hand is also up.
+In an attempt to give everyone a chance to say what they need
+to say, I'm not ignoring you,
+I'll just come back to you at the end.
+But I want to make sure
+that everybody has a chance to speak here.
+Before we leave the voting members,
+are there any voting members that want to make a comment?
+Just state so.
+Okay. Let me just add my comments
+to what has already been said.
+And I won't repeat a lot of this.
+But I'll take it, I'll tell you what things
+that I've thought about.
+And this is a very rare event or very rare events.
+And taking in the context of all the other issues
+that have been discussed, other factors that are weighing
+in my decision is the issues that, and as Dr. Daley began
+to touch upon, these other risk factors that we've
+yet have well to understand.
+Things such as neurosychiatric problems associated
+with our infection, the long hauler syndrome,
+those issues are also important and we don't have data on that.
+And so limiting the vaccine
+to a great population certainly would have impact on that.
+The issue of individuals returning
+for a second dose is one that's important to me.
+In a recent MMWR that looked at doses given between the start
+of an immunization drive into the middle of January 3.4%
+of the population surveyed did not return during the window.
+I can tell you the data from my state, as of yesterday,
+was 11.1%, 3 times that.
+So clearly removing a vaccine that can be given
+as a single dose and as a preference among Latinos
+in our communities would be a detriment.
+And so I think that, you know, this, these weigh heavily
+on my decision, and as had been said before,
+I am leaning towards the number four, the option number four.
+So let me open it up now to the liaison members.
+And I see Dr. Duchin is top on the list.
+>> Thank you Dr. Romero and to everyone who has contributed
+to these fantastic analyses and presentations.
+My question is about the model.
+And I think it's clear that both on the population health level
+and the individual health level the benefits
+of this vaccine justifies the risk.
+And this is an incredibly important vaccine that we need
+in our armamentarium as Dr. Romero just described.
+My question is if the risk benefit calculation is based
+on the current U.S. exposure risk?
+And over time, I believe,
+with these effective vaccines the risk will recede.
+And I'm wondering what type of information we can get
+that will help us better understand
+where the disease incidence, at what level of disease,
+at what risk level this risk benefit equation will change
+significantly to help guide our future use of the product?
+Thank you.
+>> Rachel do you want to comment on future use of the models?
+>> Sure. So the models have been used
+in previous ACIP decision making and has been updated
+as additional data become available.
+That's a process that we're happy to continue
+as we learn more about what future incidence will be.
+It's also why we included two scenarios so that low
+and that moderate scenario that were included
+in the population level models.
+And so I think that we're happy to continue reassessing
+and providing that evidence for ACIP.
+>> Thank you.
+I think that would be incredible useful
+as the risk of COVID-19 recedes.
+>> Thank you.
+Dr. Gluckman please.
+>> Thank you very much.
+And I appreciate Dr. Oliver's thorough presentation.
+I would just refer folks to slide 51
+of Dr. Oliver's presentation where it puts the,
+puts excellent perspective on the risk of TTS
+versus the potential benefits.
+I think that option four, while it's important
+to make people aware of the risks of TTS,
+while that information is being provided it is essential
+that people are also provided with the overwhelming benefit.
+For every case of TTS
+that occurs there are also 12 deaths prevented,
+127 ICU admissions, 657 hospitalizations prevented.
+And then as people have already commented on, the potential risk
+for long term sequelae of COVID as we're learning more,
+I'm concerned that without a stronger statement from ACIP
+that a decision could contribute to vaccine efficacy
+and that any contribution
+to vaccine efficacy is far more likely
+to cause real harm to people.
+So while yes information is important,
+we should make a very strong and unequivocal statement
+about the overwhelming benefits and recognize
+that there is some issues around feasibility
+in certain populations.
+Of course when people have the opportunity
+to have choice they should have choice.
+But I think the overwhelming push benefit analysis here is
+get the vaccine you can get.
+Thank you.
+>> Dr. Shah.
+>> Thank you, Dr. Romero.
+I'd like to begin by thanking Dr. Oliver.
+Dr. Oliver you gave a clinic today on the optimum way
+to analyze and communicate
+about a difficult health public policy question.
+And I commend you for your clarity
+of thought and communication.
+It was outstanding.
+I'd like to address or think
+about what has already been noted which are some strands
+between the differences between Dr. Oliver your option two
+and option four.
+Even option four, well there are two observations
+that I'd like to make.
+Both options, as your slide 71 notes, provide flexibility
+of choice as well as allowing the receipt
+of this vaccine among hard to reach populations.
+I also, I think it's important to note that and believe
+that both options, even though it's only noted exclusively
+in option two, both options would entail an official
+recommendation being appended to the EUA,
+as our colleague from Janssen noted.
+And so with that, I suggest or I'm positive there's not so much
+of a difference between option two and option four,
+it many come down to our understanding collectively
+of the language of may choose.
+So long as we understand that may choose is
+at the population level, as some commenters have noted,
+it may entail choosing when a,
+when someone is making their appointment
+or at the time they decide to go get vaccine,
+I think at the practical level, most sites will not be able
+to offer two vaccines.
+In our state here in Maine I'm not aware
+of a single vaccination site
+that simultaneously is running two vaccines at once.
+When we adjust for that understanding, I don't know
+that there's much of a difference
+between option two and option four.
+The choice here, which I believe in retaining, comes at the time
+that someone decides to seek a vaccine rather than at the point
+of care or point of service.
+That's my understanding though, Dr. Oliver,
+and I'd love your perspective on that.
+>> First of all thank you.
+That was very nice.
+I actually agree and first of all want to reiterate
+that your first point, absolutely,
+all of the recommendations are in the context
+of FDA warning statements.
+So we were highlighting it for that second one
+but it's not necessarily going back
+to what we had before is with the setting.
+But yes any kind of future recommendation for use will be
+in the setting of FDA's warning statement.
+I agree that in many instances it will be, you know,
+up to the jurisdiction exactly how that kind
+of may choose another vaccine gets implemented.
+But, very likely, in many instances would be, you know,
+an individual person signing up for
+which vaccine appointment they're going to take
+which just reinforces the importance of the, you know,
+the public clear communication that we've said
+if this is the choice ACIP will choose, you know,
+that ACIP will work with colleagues that disseminating.
+>> And sorry, apologies for butting in one more time.
+But that option of choice already exists and is baked
+into option two as well.
+>> Yes. Correct.
+I think it's, my interpretation from the work groups discussion,
+and I'm happy to after this kind of deffer to Dr. Bell,
+she wants to comment again.
+My interpretation was it's really option four is ACIP
+reinforcing the risk in this specific population.
+But that, you know, in many situations the benefit may
+outweigh that risk.
+Dr. Bell did you have anything else that you would like to add
+for kind of work group summary?
+>> Yeah. So thanks.
+I guess I would say to reflect the, to the extent
+that I can reflect the work group's sense
+and my own opinion, I think that the issue is
+that we think it's important to reflect bot truths,
+both the fact that the benefit risk is, you know,
+in favor of a large benefit,
+but also that there is a very small risk
+of a serious adverse event which people have the,
+you know, should be aware of.
+So I think the idea's to reflect both truths and then,
+which is the recommendation, and then to fully acknowledge both
+of them within the risk.
+And I think that is a little bit different than option two
+which doesn't clearly, doesn't, wouldn't reflect I don't think
+in the same kind of way the ACIP's recognition of both
+and the opportunity for people to make an informed choice.
+So that I think is point.
+Perhaps it's a small point when you come right down to it.
+But I think that's essentially where it was coming from.
+>> Thank you very much.
+>> Dr. Bell, since you have the floor,
+I see that you also had your hand up to make a comment.
+Would you like to continue with your comment?
+>> Well yeah, I was going to just, you know,
+sort of provide my own perspective on kind
+of where I've come down in terms of how
+to approach the situation here.
+So I'll just make a couple of points
+and try not to be too verbose.
+I think first I think it's very important to recognize
+that this is a recommendation and a policy for now
+and for the current situation which includes, you know,
+which is not at the moment with the COVID-19 at bay
+and things quiet and all those lovely things
+that we can hope for in the future.
+So this is a time where we need options and we need flexibility.
+And I very much, that's very much part of my thinking.
+I think the second point is
+that the benefits do clearly outweigh the risk
+from a population perspective and an individual perspective.
+And I think it's reassuring, to me anyway,
+that while we don't have all the information I think we do have
+enough information to move forward.
+But at the same time I think that there is a real risk.
+It's admittedly an extremely small risk and smaller
+than many other risks that we choose to take every day.
+But nonetheless there are alternatives at least, you know,
+for us in the United States.
+And for that reason, as is I just mentioned why I personally
+do prefer wording
+which explicitly recognizes the ACIP's recognition
+of both the risks and the benefits.
+Now you know it's a little bit of a paradox that here,
+you know, there's been a lot of discussion
+about vaccine hesitancy and what do we do about that.
+And my own feeling is that that's just an unknown
+and we do the best we can.
+It's a paradox that by recognizing and detecting
+and acting on a very rare risk, which should
+in fact inspire vaccine confidence,
+perhaps it has the opposite effect.
+But in any case I think that going forward this is something
+that a couple of people have already raised.
+I think that the success of this policy recommendation,
+whatever it is that we end up, but especially
+if we choose this last option is,
+and also to support public confidence, really rests
+on education and communication.
+And it's really critical that CDC, that the state
+and local Health Departments that are partners really step up
+and take this task at hand and really work
+to make people understand what the choices are here.
+Thanks.
+>> Thank you.
+Let me apologize, Dr. Goldman, I jumped you
+to go to somebody else.
+Please if you have questions or comments?
+>> Thank you.
+I appreciate it sir.
+I'll make my comments brief so as
+to not reiterate everything that's already been said.
+But a firm believer that the perfect should never be the
+enemy of the good.
+I think the risks and benefits of this vaccine clearly show
+that we're preventing tremendous disease and that we need
+to be cognitive to that fact.
+Because to not to continue the use
+of the vaccine would be detrimental
+to the overall vaccine program in preventing tremendous amounts
+of death, hospitalization, ICU care.
+But I did want to point out just a few concerns
+of the private practice and primary care perspective.
+Certainly you would think we would be able
+to at least stock one vaccine let alone two.
+But what is happening on the ground floor is that many
+of us cannot even get any vaccine given
+out to any of our patients.
+So if we do not even have the option
+of the single dose vaccine it is going
+to tremendously effect the ability of vaccine distribution
+to many in private practice and primary care, number one.
+Number two, many of my patients are expressing a preference
+for the vaccine for a single dose
+because they cannot take off for work for two visits,
+they do not have the access to the care.
+There's certainly that health equity piece
+that we must be extremely aware of.
+So I'm greatly concerned that if we do not continue
+with the vaccine it's going to dramatically reduce the ability
+of many patients to get vaccinated.
+So I also firmly believe in patient choice
+and that I do think option two keeps it as simple as possible
+to make sure people can have that choice,
+they'll know what the FDA recommendations are
+and be aware of it.
+And my last point is that we need to be very careful
+in the wording that we use
+because what this pandemic has shown me is how many
+jurisdictions will misinterpret guidelines out of convenience.
+And I point to the example of when we said that the six,
+up to six weeks you can give the second dose,
+many jurisdictions split the difference
+and just did four weeks across the board for both vaccines,
+even though that's not what the recommendation said.
+So I do think we need to be very careful in the words that we use
+and how we recommend it as many jurisdictions might misconstrue
+that out of convenience as opposed to what's best
+for public safety and public health.
+Over.
+>> Thank you for those comments.
+Dr. Fryhofer.
+>> Hi Sandra Fryhofer liaison
+for the American Medical Association.
+But I'm speaking as a practicing physician.
+And as Dr. Goldman mentioned, I think it's very difficult
+for private practices to carry more
+than one vaccine at one time.
+I am very concerned about vaccinating homeless,
+home bound, incarcerated vulnerable populations.
+And we really do depend on this one dose and you're done vaccine
+with an easy storage to reach those particular populations.
+I'm very concerned about the variants and was impressed
+with the presentation by the company about coverage
+of this B1351 variant.
+I'm also concerned that a lot of these vulnerable patients
+and vulnerable populations would not be able to get a second dose
+of vaccine and might not return for that.
+So feel very strongly that we need
+to have this vaccine available.
+I also feel very strongly that patients should have a choice.
+And I was very encouraged by Dr. Cohn's statement
+that there is a way on the vaccine, you know,
+looking for a vaccine that you can determine a place
+where you can get the particular vaccine that you want
+because some people really care
+about which vaccine they're getting,
+some people may not be as interested.
+But I was wondering about, and I liked what Dr. Bell said
+about the two truths wanting to, you know,
+and the reasoning behind her choice of option four.
+But I share Dr. Shah and Dr. Goldman's concern
+that it's just a little complicated
+and the wording makes it sound a little shady
+and might be discouraging and I worry
+about increasing vaccine hesitancy.
+And I ask Dr. Cohn, if you had the recommendation,
+reaffirmed recommendations for all sex, age and sex
+and if you had that FDA warning in the EUA,
+how would that change the outreach of the CDC to make sure
+that practitioners, that clinicians,
+that the public understood the risks and the side effects?
+Because it's just a much simpler way
+of expressing the same thing.
+And I didn't see much difference when I thought about them.
+>> Dr. Fryhofer, we would, CDC would develop,
+if for either options to or for CDC would develop the same tools
+and communication and education products to help women
+and providers understand the benefits, the benefits
+as has been recommended as well as the rest.
+>> Thank you.
+>> Thank you.
+>> And thank all of you for a great presentation today.
+It's just, I'm so proud of the hard work and all the detail
+and research that has gone in to making sure
+that our vaccine basic surveillance system is looking
+after the American public.
+>> Thank you.
+Dr. Zahn.
+>> Thank you, Dr. Romero.
+And I'd like to echo those comments and appreciation of all
+of the outstanding presentation and conversation today.
+And Dr. Fryhofer actually touched on it.
+But I guess I was following up on Dr. Shah's comments
+about the difference between option two versus option four.
+You know in public health we're anticipating,
+we're all anticipating over time the mass vaccination events
+and obviously we set up where hundreds of people set up,
+those are going to go away.
+And at that wing for public health, on our side,
+we with a lot of community provider assistance really
+anticipate reaching
+out to communities reaching from where they are.
+Obviously the homeless population is, you know,
+an obvious group that will need this outreach.
+But when we're reaching out option two
+versus option four would be really quite different.
+If there are potential groups who would not be indicated
+or would not want to have the vaccine and you potentially have
+to bring two along that would be logistically difficult.
+I think more than that a lot of outreach partners
+that we're relying on that have done
+such great work have been first responders, volunteer nurses,
+people who do a great job vaccinating
+but I'm not sure are going to be tremendously comfortable talking
+through the risks and potential pluses and minuses for women
+about the issue when they may be the first person to talk to them
+or the first medical provider to talk to them
+to approach the issue that they need to be vaccinated.
+So certainly understand this is not simple.
+But if we, if you add the wrinkle of women
+under 50 be aware and they may choose then the logistics
+of those outreach, can we do it?
+Yeah absolutely.
+Does it become more complicated?
+Yeah it definitely does, so.
+>> Thank you.
+I see Dr. Lee has her hand up
+and I don't believe she's said anything in this session yet.
+So Dr. Lee.
+>> Thank you so much.
+I'm going to start with a slightly long preamble
+but I promise I'm going to get to my point.
+Which his number one, you know,
+clearly at a population level the benefit
+of balance favors vaccine use.
+Even in the last 11 day pause, what's striking to me is
+that there have been deaths and ICU admissions
+that would've been potentially preventable had we not done
+the pause.
+At the same time though I recommend that the last 11 days
+to me have been reassuring that we haven't identified, you know,
+hundreds more cases despite enhanced awareness
+in case finding across the U.S.
+which was actually my worry last week.
+We have a lot better information
+of risk estimates by age and sex.
+And I think that can inform our decision making today,
+just in some.
+Last week I would've made a different decision
+than what I would advocate for this week.
+From an access and acceptability standpoint, you know,
+I just want to state that ACIP's role, I think,
+in this instance should be to insure access to vaccine.
+Individuals should absolutely be well informed,
+as they always should be.
+And they should have the ability to make an informed choice
+and encourage to talk with their healthcare providers
+if they wish.
+But acceptability is not just a J and J issue.
+It is a much broader issue.
+So I think that we cannot do enough to support and insure
+that we are always educating the patients and the public
+and we need it on all fronts.
+So I don't actually think this is a,
+it is a very specific issue,
+but I feel like it is a much broader issue
+that we need to address.
+On the implementation side I just want to state that,
+you know, we are going to have these issues all throughout.
+Right now we have a vaccine, one vaccine available only
+for 16 to 17 year olds.
+So in order to be able to insure access we are functionally
+carrying multiple products, maybe not on the same day,
+but many sites are doing this in order to insure access to 16
+and 17 year olds because we only have one product available
+currently in the U.S. that goes down to that age group.
+And we do have vulnerable children in that age group.
+From a, finally from a communication standpoint,
+you know, I want to emphasize a point that was made earlier
+that this is not just
+with communication it is benefit risk communication.
+And similar to you know what we've done for anaphylaxis
+and making sure that people have the tools and the communication
+and the sort of training available at vaccination sites,
+you know, I just kind of think that same approach needs
+to happen here and would also just make sure that everything
+that we're doing incorporates, you know,
+health literacy principles and multiple languages to insure
+that we are truly informing everyone
+who may wish to have the vaccine.
+But I'm going to actually now take a different stand
+that I did not at all at the beginning
+of today think I was going to take this stance.
+But from a process perspective I actually think we need to be,
+to think really carefully about the implications
+of what the recommendation will be.
+So for me I'll just state at the offset that number one
+and number three are, you know, off my list.
+I've been thinking carefully looking into the arguments
+for two and four here up on the slide.
+But I, having you know spent a lot of time with that evidence
+to recommendations framework, I do not think that,
+that fourth recommendation falls
+within what we would normally consider
+as a recommendation per our usual framework.
+It really should fall under two, reaffirm recommendations
+for all age and sex with the same comment
+about the FDA warning.
+And all of the information that I think is
+in four absolutely has to happen.
+I was feeling at the beginning of today that I needed the,
+all that additional information in four to feel comfortable
+with any recommendation as a way to state sort of our concern
+about the benefit risk balance.
+But I have to say that I think it's going
+to be actually extremely confusing
+because every recommendation we make is a benefit risk balance.
+So we cannot press out every single benefit and risk
+in every single recommendation
+for every single vaccine COVID or non-COVID.
+So I actually think that we need to,
+from a procedural standpoint, go back to number two and make sure
+that all of the discussion points that were brought
+up for number four are incorporated
+in the way we implement but that the recommendation should be
+consistent with the evidence to recommendations framework.
+I would love to hear comments about that.
+>> Thank you very much.
+So to everybody who still has their hand up and to those ones
+who want to make a comment, we will get,
+we will try to get to everyone.
+I want to remind you that we're scheduled
+to end at 5pm Eastern Time.
+We could go over.
+But I really want to stay to that window.
+But we will go on to the comments.
+Let me see here.
+Dr. Grogg.
+>> Yeah, I'll keep it simple representing the American
+Osteopathic Association.
+But I have an immune deficiency
+and did not respond to the vaccine.
+I think that we have caused a lot of vaccine hesitancy
+in our pause for the Johnson and Johnson and,
+as others have stated, there's been some deaths in ICU
+and hospitalizations and the long term sequelae and things
+that have probably happened over the last week.
+I would like to see, I don't,
+I'm confused whether it should be two or four,
+but I'd like to see everybody vote forward on the J
+and J vaccine and heavily inform our healthcare providers
+about the insulin and other things and let's get this done.
+>> Thank you.
+>> Thank you.
+Dr. Hayes.
+>> Carol Hayes of the American College of Nurse Midwives.
+I've been working in a mass vaccination clinic.
+And I want to reassure you
+that we have carried all three vaccines.
+And we have little tents set up
+and our little cubicles are numbered.
+And somebody in the backroom draws up all the vaccines
+and I just sit there and jab the arms.
+And it really is possible to stock the vaccines
+and to organize the three vaccines
+and to have people choose as they walk
+in the door which one they want.
+And I also wanted to thank everyone who's presented all the
+data today, everyone did such a fabulous job.
+And I also want to reiterate what Dr. Lee just said
+that I feel as though at the beginning was going
+to be a number four girl and now I'm a number two girl.
+So thank you.
+>> So this is Amanda.
+I'd like to put some, I'm going to ask Dr. Oliver
+to put some additional language, listening to this discussion
+about two and four, for people to consider.
+We have a lot of people whose hands are raised.
+So this will just give you one more thing to comment on,
+as Dr. Romero said, very briefly.
+I'm going to hand it over to Dr. Oliver.
+Are you ready?
+[ Inaudible ]
+I don't think, yeah, just say it and then yeah.
+>> Okay. So we'll work on getting these two
+where we can project them in just a second.
+But the language that was voted on previously says the Janssen,
+which would be option two,
+the Janssen COVID-19 vaccine is recommended for persons 18 years
+of age and older in the U.S. population
+under the FDA's emergency use authorization.
+And then the proposal would be with that language
+in the recommendation we would then describe the risks
+and benefits and in the Clinical Considerations section
+but have the overall recommendation point
+to the EUA only.
+So it's essentially two with the additional language pointing
+to the FDA emergency use authorization.
+>> Yeah. Go ahead.
+>> Yeah. And so it's going
+to repeat the current language for number four.
+So number, for option number four the vote would say the
+Janssen COVID-19 vaccine is recommended for person 18 years
+of age and older in the U.S. population
+under the FDA's emergency use authorization.
+Women age less than 50 years should be aware
+of the increased risk of Thrombosis
+with Thrombocytopenia syndrome
+and may choose another COVID-19 vaccine authorized
+for use in the United States.
+>> And I think since we haven't heard anybody supporting one
+or three, we're going to send these two language options
+in a slide and we're going to put, project those
+up for people to review.
+>> So we're going to take some comments while they finish
+the slides.
+Dr. Eckert please.
+Dr. Eckert?
+We'll come back.
+Dr. Ault.
+>> I don't see a huge difference between two and four,
+depending on the way the warning statement is in the EUA.
+It looks like it would have to duplicate a lot
+of the information we already have in four.
+Does the language for the warning statement
+exist somewhere?
+Is there some way to look at it?
+Or does it need to be developed still?
+>> This is Dr. Oliver.
+It was presented at the very end of the Janssen slide.
+When we get through our slide stuff we can,
+we can show that again.
+>> Thank you.
+>> This is Dr. Eckert.
+I'm sorry.
+There was a leaf blower right outside my door right
+as you called on me.
+And I thought oh my goodness you would only hear the leaf blower.
+>> Please go ahead.
+>> But I just want to say as an individual here, not speaking
+on behalf of ACOG, this is my individual thoughts.
+But my concern is that number four does potentially enhance
+obstacles to vaccination.
+And we have definitely seen that individuals
+who are pregnant have met frequently with obstacles.
+And I question whether since the CDC will
+and has been doing a great job with information,
+information sharing, if doing that for number two
+and number four, like Dr. Ault just mentioned,
+if they're really all that different.
+So I personally would advocate for having the fewest obstacles
+as possible in the way of vaccination
+and going with number two.
+Thank you.
+>> Thank you.
+Dr. Weiser.
+>> I just wanted to comment on the fact
+that Indian Health Service arguably serves some
+of the most remote and hard
+to reach populations in the country.
+And in our jurisdiction,
+we've been receiving all three vaccines
+and providing all three vaccines.
+And some of our sites are actually handling all three
+vaccines, the Pfizer just for the 16 and 17 year olds,
+the Moderna for the majority of the adult population,
+and then the Janssen vaccine which some people were waiting
+to receive and not choosing to get the other ones.
+So as part of the health system, I think, we have proven
+that we can handle all three vaccines.
+Typically when we have a large vaccination campaign or site,
+we'll give mainly one vaccine that day if we're doing a drive
+up or a large scale vaccination event.
+But we have the ability to keep the vaccines straight
+and make sure people get the vaccine that they've asked for.
+Thank you.
+>> Thank you.
+Ms. McNally.
+>> Thank you.
+I just want to confirm that the FDA agreed warning
+and precautions regarding Thrombosis with Thrombocytopenia
+that the Johnson and Johnson presentation showed is what
+would appear in the EUA fact sheet for recipients?
+>> Would somebody from the company please respond
+on that question?
+>> Yes. This is Dr. Waldstreicher.
+That was the, that was the fact sheet
+for healthcare professional and the one
+for recipients is different.
+But it's very clear and it gives information for recipients
+about the signs and symptoms and to present if they have any
+of the following of those signs and symptoms as well
+as describing the overall events as well.
+>> I find this to be very relevant to the discussion
+and am wondering if it would be possible to see some
+of this proposed language?
+And I mention it because of the fact
+that informed consent is not required
+for a product authorized under EUA.
+>> Excuse me.
+This is Dr. Bell.
+Would it be possible for FDA to make a comment
+about what is going to be in the fact sheet?
+>> Yep I, this is Doran Fink.
+I think, I think it would be that if Johnson has the ability
+to share the language
+with a recipient fact sheet, for them to do that.
+>> Dr. Marie, you have that in front of you,
+would you be able to do that?
+>> We can also continue on with comments
+and give you guys a few minutes if you'd
+like to send something we can project it.
+>> I think that would be good so we can move through these.
+>> Thank you.
+>> Let me go back to the top of the list
+and work my way down again.
+Dr. Long, please.
+>> I agree with so many things
+that the people have said especially Dr. Bell and Dr. Lee.
+I think we shouldn't talk about this as very rare or, you know,
+you can't I take it all of a medical writing.
+Rare is rare and it's difficult to quantify.
+If we're talking about the age group of women
+that we're talking about, it's 1 in 140,000.
+Now some people would say that was rare
+and some people would say,
+I would never say it was very rare.
+The other thing is that people perceive and want
+to take risks at different levels.
+So I think we want to be sure that we do allow choice.
+The next comment is because it's difficult to do doesn't mean
+that we can aggregate our responsibility
+to protect the public as well as individuals.
+I think, if we had three vaccines,
+they were all single dose, the had the same efficacy,
+we would be preferring another, and they were all available,
+we would be preferring to other vaccines in this age group.
+I certainly would be preferring that.
+And I don't say that we should say that specifically now.
+I think we want to reaffirm
+that the vaccines themselves the benefits outweigh the risks.
+Or the next thing is that you ought
+to receive any vaccine you can get as soon as you can get it.
+And then we have to have a different way
+to say number four.
+Because number four, to me, kind of comes
+out as a petulant young woman rather than we're experts.
+We recognize this risk.
+This risk may be more important to some people
+or maybe a single injection is more important
+to that young lady who's choosing between vaccines.
+But to say may choose, I think it,
+I don't think it's saying what we recommend.
+And I'm not just leading the FDA warning
+because the FDA does the licensure
+and the legality part of it.
+We're supposed to nuance that by all of our deliberations
+to protect the populations as well as protect the individual.
+And I think that the before, the benefit outweighing the risk
+in that younger age population of women, I don't think
+that I buy that, that they won't otherwise be vaccinated.
+So I think we have to do justice to both troops.
+And so I think the way you're using the words now are good,
+I just think we need to have something better
+than may choose.
+>> Thank you.
+Dr. Sanchez.
+>> Well thanks.
+I agree with Dr. Long.
+I just, I actually had a question and then comment.
+One of the, when you look at the list of women
+and remember one was a man who had the, you know,
+the Thrombosis, one of them was 59.
+And I know that the risk benefits for
+and the risks were all greater than 50.
+But any considerations for age 60?
+>> This is Sarah.
+You know, I think the work group we tried to look at,
+what was known with the current age distribution,
+we had to make some assumptions
+when we started doing this work a couple of days ago.
+And so the work was done with the 50 year old cut off.
+I think we could we did look at information.
+So the work group saw more slides and more information
+than what was presented publicly today.
+There was some information presented for 65
+and older, so not 60 but 65.
+Ultimately the issue is the population 65
+and older that's remaining to be vaccinated is very small
+or is much smaller than the 50 to 64 year old population.
+And so some of the
+that definitely impacts the modeling results
+when it comes to that.
+But we did not specifically look at a risk benefit analysis
+with a line drawn at age 60 years.
+>> That's why we, the data as of April 14th among the cases,
+the range was 18 to 59.
+I know that's, it's you know, it's just some cases.
+But you know, I fully understand the benefits of immunization.
+There's, I mean you cannot argue with that.
+But I also understand the risk.
+And the risk is not a mild, it's not an insignificant risk.
+It makes me nervous.
+And I think that, at least with this vaccine,
+yes there's only one male during the trial that had it,
+so it doesn't seem to be zero in men,
+so yes it's quite rare or quite infrequent.
+And I just, you know, I think that the choice as one of them,
+as number four is worded it sounds
+as though the choice should only be given
+to women and not to everyone.
+And so I'm a little bit hesitant about that one as well.
+But, I'm not sure it fit the FDA [inaudible].
+>> Thank you.
+Dr. Poehling.
+Dr. Poehling?
+We'll come back.
+>> Yeah.
+>> Oh.
+>> Thank you.
+>> Go ahead.
+>> Yes I'm here.
+Thank you.
+I Ms. McNally shared her thought process of how she was thinking
+about this and put it into context
+and asked for a response.
+I wanted to respond and affirm
+that I am thinking along the same lines
+and appreciate her adding clarity to this thought process.
+I also wanted to say thank you for getting fix that wording
+for the public because that is a very important part
+of the consideration for me.
+Thank you.
+>> Thank you.
+Ms. Hayes.
+>> I apologize, I forgot to take my hand down.
+>> Thank you.
+Dr. Molly.
+Dr. Howell.
+>> Oh hi thanks.
+Molly Howell representing the Association
+of Immunization Managers.
+I just wanted to say
+that yesterday we surveyed our members
+who are the 64 awardees implementing the COVID
+vaccination programs in the United States
+and 81% were supportive
+of I would say either option two or option four.
+So I just wanted to share that
+and that we would work with either.
+Thank you.
+>> Thank you very much.
+Dr. Stinchfield.
+>> Yes. Thank you Patsy Stinchfield representing NAPNAP.
+Personal thoughts here from the State of Minnesota
+that is seen all variants and increasing numbers
+and as we speak are accepting young adults
+into our children's hospital because of very high census
+across the state with disease.
+So what makes me nervous is the inclining incidence of COVID.
+I have an urgency to move on this with option two
+which I think we'll now call the top box, I would support that.
+And I think because it's most reflective of the data
+that we've seen today and the conversation, I think it is,
+will have the least unattended consequences
+for those who are reading it.
+And I do think in a hospital that's given 20,000 doses so far
+of two products, it is very doable
+to have two different products.
+For example our Johnson and Johnson we've been very happy
+to give to 18 and over young autistic males
+who are combative while they're under a sedated procedure.
+And it's worked out really, really well.
+And RA planned procedures, we co-administered
+that vaccine very happy families at the end.
+I think that, you know we can do these on different days,
+different sites, different locations
+so that implementation I don't have any concerns about that.
+I do think that in terms of vaccine hesitancy,
+yes I think this pause has made people nervous.
+But I think in the end time will tell.
+But because of the excellent work,
+and Dr. Oliver what a master class you gave us today,
+that this will help increase the confidence
+in the United States and across the world.
+And I'll just end by saying that I do have a considerable concern
+about our global problems right now looking at India and Brazil
+and the urgency again not only in the U.S. but across the world
+to use all the tools that we have
+to get the pandemic behind us.
+So I feel very comfortable in that top phraseology
+with the details in the EUA.
+Thanks.
+>> Thank you.
+Dr. Whitley-Williams.
+>> Yes. Thank you.
+Hi Whitley-Williams representing the National Medical Association
+and I also thank you Dr. Oliver and your group
+for just outstanding presentations.
+Our preliminary considerations would be supportive
+of reaffirming the recommendation
+for use of this vaccine.
+It's well recognized that persons in the black
+and brown community have been disproportionately effected
+by this pandemic.
+So the benefit of a vaccine
+that is effective far outweighs the risk and especially in hard
+to reach vulnerable populations.
+And I also conquer with what Patsy Stinchfield just said
+in terms of the global impact.
+But also would encourage, and I know this is with the ongoing,
+to really try and get to the bottom of this underlying cause
+of the TTS and particularly as it relates to age group,
+gender, and race ethnicity.
+Thank you.
+>> Thank you.
+Dr. Arthur.
+>> Thank you.
+Phyllis Arthur on behalf of BIO.
+I actually just wanted to suggest
+that whatever this decision is
+of the ACIP voting members today,
+this is an excellent opportunity to reconnect
+to getting all vaccines to use V-safe.
+We think this is an extremely important tool
+for helping people pay attention to their side effects,
+report them, and gather the really important data
+on vaccine safety that's so important to all of our efforts.
+We've had many reports of people not being told about V-safe
+when they get vaccinated although other places are doing
+a great job.
+And this is an opportunity, given any need
+to change the daily information people get in the text
+to actually encourage more and more citizens
+to enroll and fill it out.
+So just wanted to put a word in for, as we look at V-safe,
+having another way of encouraging people to use it.
+>> Thank you.
+Dr. Bernstein I'm going to skip you
+because you've already spoken.
+I don't think we've heard from Dr. Chen.
+Dr. Chen and then I'll come back to Dr. Bernstein.
+>> Yes. Thank you.
+And so I've been really enjoying the discussion.
+And I think I agree with what Dr. Shah initially kind
+of articulated.
+Which is that, in essence, box top
+and box bottom are not significantly different
+from each other, as long as we understand
+that in implementation that we would not, you know,
+have this formal complicated consent process for the,
+the be aware or making aware statement.
+And then for the ability to choose
+that we would not make it a requirement for the, you know,
+local point of immunization clinic to be required
+to store two or more vaccines.
+So I think that as long as I understood
+that correctly there really isn't that large distinction
+between the top and the bottom box.
+And so I do wonder if that bottom box, having not much
+of a real distinction, has more of a risk for misinterpretation
+from local kind of smaller implementation chains
+and programs.
+I think we heard from other large programs
+that they have no problem with juggling, you know,
+two or three vaccines simultaneously
+on any single day.
+But I do wonder about these smaller outfits.
+Again, you know, in my State of Maryland we have, you know,
+individual medical practitioners and pharmacists
+and veterinarians that are starting to be trained
+to be able to implement these vaccines.
+And I can't imagine that they will be able
+to juggle multiple products simultaneously.
+So I think that again, as long as we saw
+that enhanced enabling information
+and we have an aggressive campaign
+for educating the public and the medical community,
+I think in essence those boxes are not really different
+from each other.
+And to make it simpler, that top box is really what I favor.
+I'll stop there.
+>> Thank you.
+Dr. Lett.
+>> Yes. Hi this is Dr. Lett from CSTE.
+We're wondering if you could tell us a little more
+about implementation, you know, will happen.
+This is, so we've never sort of has this pause before.
+And sort of sequentially, can you describe it?
+>> Dr. Lett, you're asking us to describe the pause?
+Oh the implementation of if the pause is lifted?
+>> Yeah. So there's been some questions amongst others,
+and other members that we've been talking
+about how exactly things would get reimplemented?
+So do we have to wait for certain language to be available
+for materials to be available, you know, I don't know
+about screening for standing orders?
+We're just trying to understand how that would happen.
+>> Dr. Lett, this is Amanda.
+So if there is a decision in the next half hour, hint, hint,
+sorry, then we are awaiting and anticipate
+that the FDA will be putting out a newly approved EUA language
+which we've pulled up for you to see now the language
+which we can have the companies take us through that's
+in the Patient FAQ sheet.
+And at that time, if the CDC director approves the decision
+made by CDC, we would publish that on the ACIP website
+and through other information sharing
+and people would be allowed to presume use of doses
+that they have available potentially already.
+That being said, immediately over the next 72 to 96 hours,
+so Monday, or, Monday they would like, there's going
+to be another COVID call
+that describes all of this information.
+There will be an MMWR that shares all of this information.
+And additionally we will be taking the input
+from today along with this language that FDA will publish
+and both FDA and CDC will have communication materials
+and education materials including infographics,
+patient fact sheets that are smaller
+and focused just on this issue.
+And those will be available early next week.
+>> Can.
+>> Do you want to walk through this
+and then I'll take the final questions that are here?
+So go ahead.
+Go ahead J and J.
+>> This is, yeah this is Dr. Oliver.
+>> Yeah.
+>> We just got the recipient's fact sheet.
+So if somebody from J and J wants to run us through that.
+>> Yeah. Certainly.
+This is Dr. Waldstreicher.
+So this is the Recipient Fact Sheet.
+And this is the section that's on the risk
+of the Janssen COVID vaccine.
+Prior to this it first describe the side effects reported
+like injection site reactions and general side effects.
+Now this talks about anaphylaxis and gives the symptoms of those.
+And then you're seeing a section there highlighted in yellow
+where it talks about this new Thrombosis with Thrombocytopenia
+but in language appropriate language for this fact sheet.
+So it talks about blood clots involving vessels in the brain,
+etcetera, goes through those.
+It talks about it's occurred in some people
+who have received the vaccine.
+And in people who have developed these clots, I'm not going
+to read the whole thing word for word, but it talks
+about the fact that it, they develop approximately one
+to two week following vaccination and that most people
+who develop these blood clots and low level
+of platelets were females ages 18 through 49 years.
+The chance of having this occur is remote
+and you should seek medical attention right away
+if you have any of the following symptoms.
+And then it gives the list of symptoms.
+This is consistent
+with Professional Society Guidance as well.
+And that's the end of that section.
+>> Thank you.
+>> Dr. Romero, may I ask a follow up question?
+>> Go ahead please.
+>> So does this fact sheet indicate
+that there is an alternative, that being the mRNA vaccine?
+>> What the fact sheet shows, and it's actually later
+on down there, it says other vaccines
+to prevent COVID-19 may be available
+under emergency authorization.
+And you see it's probably there if you scroll
+down under Janssen COVID, the question.
+Are other choices available for preventing COVID-19 vaccine?
+It's up a little bit, I'm sorry.
+Are other choices.
+There it is.
+Okay. Are other choices available
+for preventing COVID-19 type Janssen COVID vaccine.
+Currently there is no FDA approved alternative vaccine
+available for prevention of COVID-19.
+Other vaccines to prevent COVID-19 may be available
+under emergency authorization.
+>> And this is Amanda, I'll just add
+that in the CDC educational materials we can,
+we will describe all options available and we're able
+to speak about the all of the products
+as opposed the the EUA's which have to focus
+on the individual product that it's authorized for.
+>> Thank you.
+The information's very helpful.
+>> Dr. Romero, this is Dr. Bell.
+Can I just add one follow up question before we head
+on to the other people with questions?
+>> Of course Dr. Bell.
+>> Thank you.
+So this EUA Fact Sheet is meant to be is given to patients
+when they're getting ready to have the shot.
+Is that correct?
+In other words, they're in the clinic, they're you know,
+abut to get a shot, and it's the Janssen vaccine
+and so they get this piece of paper.
+Is that how these EUA Fact Sheets are used?
+>> Does someone from the company or FDA want to respond to that?
+>> Yes. Generally this is how the fact sheet is used.
+And we also post it on the website and I believe
+that it's posted on other website as well such as
+that would accompany the vaccine.
+>> I will tell you in practice that there are,
+that sometimes you receive this information per your
+appointment, you receive an email with the PDFs
+of this information as well.
+But it should be given at some point
+between when you make an appointment
+and you get vaccinated.
+>> Thanks.
+>> Sorry I lost my list of speakers here.
+So let me go back to Dr. Bernstein then Dr. Peohling
+and then I'm going to close it unless somebody has some very
+pressing comments.
+Dr. Bernstein.
+>> Thanks, Dr. Romero.
+It's incredibly impressive
+to me how well our nation's vaccine safety surveillance
+systems work.
+The Vaccine Adverse Events Reporting System, VAERS,
+which is not designed to assess causality identified a safety
+signal of real concern prompting further investigation.
+As Doctors Oliver, Bell, and the COVID-19 Work Group have
+presented, the ACIP closely examines disease epidemiology,
+vaccine supply, implementation concerns, public values
+and acceptance, and equity.
+Its three overarching pillars of science, implementation,
+and equity are important.
+After our emergency meeting last week, I felt implementation
+and equity favored reinstituting the J and J vaccine.
+But the science was much less clear to me.
+The brief pause measured in days appropriately continued
+to allow additional data to be collected and analyzed.
+The ACIP process works in a timely and transparent way
+which should improve the public's understanding
+of this safety signal.
+Today's presentations and discussions have convinced me
+that lifting the pause on J and J's vaccine is
+in the best public health interest of the U.S. population.
+Any vaccine may have side effects.
+And in this case the risk of blood clots and low platelets,
+even resulting in fatality in some,
+has now been extensively studied
+and will continue to be monitored.
+Plus patient education
+and provider recognition are expected
+to help improve outcomes.
+Important information also will ow be conveyed
+in the FDA's EUA Fact Sheet, the CDC's materials,
+and through local public health officials.
+The three COVID-19 vaccines currently authorized
+in the U.S. are amazingly safe and effective.
+In my mind their benefits far outweigh identified
+or perceived risks.
+We need as many people to be vaccinated as possible in order
+to reach community immunity and put the pandemic behind us.
+The J and J vaccine will help us do just that.
+So I prefer the option two or the top box and I think
+that we can include nuanced language
+in our clinical considerations
+that often accompany these recommendations.
+Thank you.
+>> Dr. Poehling.
+>> Can we pull up the FDA EUA please again, the bolded part?
+I wanted to look at that.
+And in particular my question on that for the component to the,
+I was looking at the one for patients and the public.
+And in that yellow component my question, I just wanted
+to highlight that headaches are the most common early symptom
+of these Thrombosis and Thrombocytopenia.
+And so I am concerned that, that is buried,
+I think it was the fifth one down.
+And I hope that on the CDC website we could elevate
+that location.
+And I'm happy and I would appreciate input from the FDA
+and the thought process of ordering.
+Thank you.
+>> Go ahead.
+>> This Amanda.
+We can, we will take that into account
+as we're developing our CDC materials.
+That's a great point.
+I also want to comment on something
+that Dr. Talbot said much earlier regarding emergency room
+and understanding the risk of clots,
+especially in this age group of women.
+And one of the key things that we have been communicating
+and we will continue to communicate
+in our provider education is one of the first things
+that a provider should do is check a platelet count and that,
+that should inform treatment and management.
+And so we are very grateful to our colleagues at ASH
+and other colleagues who have supported information
+around the clinical management to insure
+that patients are treated, that this is recognized
+and treated appropriately early.
+>> So before we move on to a motion,
+I think we're ready to discuss this.
+I just want to say the following.
+While I can vote for number two, I think we've already begun
+to see in the discussion that there is a bit
+of selective interpretation of that recommendation.
+You know, women are not going to be offered at that site
+across the country an option to a second vaccine.
+And that's going to place certain women at a disadvantage
+that may decide that the vaccine being offered
+at that site is not the one for them.
+And they're going to have to shop for a vaccine.
+So that is an issue, I just want to point that out.
+But as I said, I think I can live with number one
+because it does reinstate the Janssen vaccine
+which I think is essential to our vaccine efforts.
+So I think at this point we'll end discussion and see
+if anybody wishes to make a motion.
+Voting members, voting members sorry.
+Dr. Lee.
+>> I move that we recommend Janssen COVID-19 vaccine is
+recommended for persons 18 years of age and older
+in the U.S. population under the FDA's Emergency use
+authorization period.
+>> The top box to clarify, Dr. Lee?
+>> The top box yes thank you.
+>> Thank you.
+>> May I have a second please?
+Dr. Ault.
+>> This is Kevin Ault, I'll second it.
+>> Thank you very much.
+Is there any further discussion from the voting members only.
+Let me see here.
+Dr. Sanchez.
+>> Is it possible to vote between the two?
+>> Say that again.
+Say that again.
+>> Is it possible to vote one versus the other?
+>> Dr. Sanchez, so procedurally,
+the vote that has been the motion
+that has been made now needs to be voted on yes
+or no in and of itself.
+If this motion passes this motion carries.
+If this motion does not pass,
+we can put another motion on the table.
+>> Is that clear Dr. Sanchez?
+We have to vote on this motion at this time.
+>> Okay.
+>> Thank you.
+Dr. Long.
+>> I will not comment further on this motion.
+>> Thank you.
+Dr. Bernstein.
+Dr. Bernstein your hand is up.
+>> I meant to take it down.
+Thank you.
+So I'm going to ask that all
+of the voting members please turn their videos on
+and get ready to offer a vote.
+All right.
+>> So I just want to remind our members,
+we are still not doing really electronic voting.
+But as you go through your votes,
+please let everyone know again
+if you have any conflicts of interest.
+And I believe there are a couple of members
+who will be abstaining from the vote due to being involved
+in clinical trials with the COVID vaccines.
+So please indicate that.
+Additionally at the end after the vote,
+we will have an opportunity for those of you who would
+like to share and explain your yes or no vote
+so we will have the opportunity to do
+that after we go through the members.
+So Dr. Romero.
+>> Thank you.
+So the motion to be voted
+on is the Janssen COVID-19 vaccine is recommended
+for persons 18 years of age and older in the U.S. population
+under the FDA's Emergency Use Authorization.
+So I'll begin.
+Dr. Ault.
+>> Ault, yes, no conflict.
+>> Dr. Bahta.
+I'm sorry Ms. Bahta.
+>> Bahta, yes, no conflict.
+>> Dr. Bell.
+>> yes, no conflict.
+>> Dr. Bernstein.
+>> Hank Bernstein, yes, no conflict.
+>> Dr. Chen.
+>> Chen, yes, no conflicts.
+>> Dr. Daley.
+>> Daley, yes, no conflicts.
+>> Dr. Frey.
+>> Frey, abstain due to conflicts with clinical trials.
+>> Thank you.
+Dr. Kotton.
+>> Kotton, yes, no conflict.
+>> Dr. Lee.
+>> Lee, yes, no conflicts.
+>> Dr. Long.
+>> No, no conflicts.
+>> Ms. McNally.
+>> No, no conflicts.
+>> Dr. Poehling.
+>> Poehling, yes, no conflicts.
+>> Dr. Sanchez.
+>> Sanchez, no, no conflict.
+>> Dr. Talbot, no, and no conflicts.
+>> Romero, yes, no conflicts.
+Thank you Dr. Cohn.
+So the vote is 10 in favor 4 opposed and 1 abstention.
+The motion carries.
+The Janssen COVID vaccine is recommended for persons under,
+sorry, 18 years of age and older in the U.S. population
+under the FDA's Emergency Use Authorization.
+Thank you all very much.
+So are there any of the voting members that wish
+to offer comment at this time.
+>> Please raise your hand.
+>> Yeah. It is Dr. Bell, Dr. Bell.
+You can stop sharing if you wish.
+>> Yes. Thank you.
+I wanted to reiterate a theme which is the importance of CDC
+and the state and local health departments
+and the partner organizations providing clear communication
+and education on this topic.
+I voted yes.
+I can live with this recommendation.
+But I think that under Emergency Use Authorization
+where there is no signed informed consent
+that it could be that ACIP recommendations might need
+to reflect some more nuance concerns
+than under the usual procedure.
+Nonetheless, as I say I voted yes, but I am concerned
+that the consumers and women in this age group
+in particular will not be adequately informed despite the
+FDA EUA Fact Sheet.
+And so we're really depending on the public health agencies
+and the partner organizations to make sure
+that people actually are informed and are empowered
+and that they actually get a balanced perspective.
+>> Thank you, Dr. Bell.
+Dr. Ault.
+>> I was going to agree with Dr. Bell, I was thinking that way.
+>> Thank you.
+Dr. Sanchez.
+>> I agree with Dr. Bell and actually
+that is precisely the reason that I voted no.
+I have no problem with the continued availability
+of this vaccine.
+I think if someone would make some conformed consent
+after having and knowing the risks involved,
+I'm fine, let them get it.
+But I think that we just making a blanket recommendation knowing
+that the risks that seem to have biologic possibility
+and the severity, I think we have to have a stronger language
+and make sure that people have been informed appropriately.
+>> Thank you.
+Dr. Poehling.
+>> Thank you.
+The detection of Thrombosis and Thrombocytopenia after 6 cases
+and there were 7 million
+that had been administered clearly demonstrates
+that these systems, these safety systems are both sensitive
+and effective.
+The COVID-19 pandemic continues
+to cause significant morbidity and fatality.
+Not only does COVID-19 disease cause many complications
+including but not limited to increase [inaudible],
+multi inflammatory syndrome, post infections,
+neuropsychological syndrome, and long hauler syndrome.
+This pause has been effective in increasing awareness of the rare
+and series events of Thrombosis and Thrombocytopenia,
+highlighting the importance of timely diagnosis, evaluation
+and treatment, and gathering data needed
+for a risk benefit analysis.
+At the population individual level the benefits
+of reaffirming the Janssen vaccine is high
+and help lower the risk.
+For all these reasons I believe it is in the best interest
+of the public to reaffirm recommendation for this vaccine
+with a warning added to FDA EUA.
+Thank you.
+>> Thank you.
+Dr. Long.
+>> Yes I did not object to the recommendation.
+I objected to the absence of any kind of guidance from us.
+This is an age group that is most at risk
+that is getting a vaccine predominantly
+to save other people's lives and morbidity not their own.
+And I think we have a responsibility
+to be certain that they know this.
+And if they choose to be vaccinated with this anyhow,
+we want to respect that choice.
+But I'm very sorry that we haven't chosen to put
+up front the knowledge that we have that this is unique,
+it's clustered, it's almost certainly related
+to the vaccine, and there are options.
+>> Thank you, Dr. Long.
+Dr. Bernstein.
+>> I was wondering if you could clarify when language
+within the clinical considerations, I think some
+of the concerns that I'm hearing I would assume would be written
+into the clinical considerations that are updated,
+the way they were when we were talking
+about anaphylaxis initially again with the Pfizer vaccine.
+And there were clear considerations
+that were readily available to the public published
+on the CDC website and in MMWR.
+And I would assume that, that kind of content would be,
+and language would appear in the clinical consideration.
+>> Dr. Cohn.
+>> Thanks, Dr. Bernstein.
+So this, all of this language around the risks and benefits
+and the decision to get vaccinated that were presented
+in the course of the discussion today, there's language
+that will still be included in the MMWR.
+And additionally the clinical considerations will be updated.
+We anticipate that if the director agrees
+to reaffirm this recommendation that all
+of this will be published during the day on Tuesday.
+>> Dr. Lee.
+>> Thank you.
+>> Thank you.
+I just, I want to emphasize that I actually agree with all
+of my colleagues who voted no.
+But I absolutely think this is a serious adverse event.
+We need to continue to insure that awareness is raised.
+I am perhaps a procedural nerd in that I think
+that the only choices that we really had were to recommend
+or to not recommend for future clinical decision making.
+And I think that the emphasis
+and the vote itself reflect the challenges that was today
+or that was before us today, that we need to be able
+to reflect the importance
+of this particular [inaudible] and elevate it.
+But I also think that we have to come
+out with a clear recommendation.
+I think that the recommendation number four would have been
+confusing and it's actually inconsistent with all
+of the other prior ACIP's recommendations we've did.
+And so I think that is why I had chosen the top box instead
+of the bottom box.
+Thank you.
+>> Thank you.
+So I will exercise Chair's prerogative
+and have the last word.
+So as I stated before, I was, I was able to vote
+for a number two, number one excuse me,
+I think that it states clearly
+that Janssen vaccine can be reinstituted
+and should be reinstituted.
+I acknowledge, as does everyone else,
+that these events are rare but they are serious.
+At the same time, it places up on us,
+those that will make this vaccine available
+and will be distributing it, to make an informed public
+about the risk of the vaccine.
+This is not something that we will be able
+to simply say we're following the ACIP recommendation.
+It is our responsibility as clinicians to make sure
+that women understand this risk and, when possible,
+that they have an alternative at the same site
+that you're administering the vaccine.
+So I will end there.
+Let me again, I think the Oscar
+for best presentation goes to Dr. Oliver.
+There's an applause in the room here if you can't hear it.
+Thank you all for your time, thank you all,
+that is the voting members, the liaisons, the exofficios.
+I don't think I'm exaggerating when I say
+that I think there's no group that has put
+in as much time as you have.
+I think everybody else in the room.
+I'm sorry forgive me Dr. Wharton,
+you were behind me, I didn't see you.
+>> I just wanted to add my thanks to those of Dr. Romero.
+I know this has been [inaudible].
+I know this has been difficult
+and this has taken a lot of time.
+And we greatly appreciate your thoughtful deliberation.
+>> Is that clear to you.
+Can you all hear that?
+Why don't you come down here Dr. Wharton?
+I think this is important that they hear this.
+>> I just wanted to say thank you to all of you for the time
+that you've put into this thoughtful consideration the
+deliberative process you've engaged in and your, you know,
+coming to a conclusion on this important matter for us.
+We really appreciate your support and your help.
+And thank you for everything you've done
+to support the COVID vaccine program.
+>> Thank you.
+And again thank you Jessica, Dr. Cohn,
+Stephanie for everything that you're doing.
+And I'll turn it back over to Dr. Cohn.
+>> Before we close the meeting out I think,
+just to reiterate Dr. Wharton, there's been probably hundreds
+of people working in our Immunization Safety Office
+and the FDA collaboratively on all of this work
+over the past two weeks.
+So thank you.
+I just want to remind everybody
+that we do have a ACIP meeting scheduled for May 5th
+to discuss dengue and rabies vaccines.
+Dr. Oliver is off the hook for that one.
+But we do anticipate, if there is a future authorization
+by FDA, we do anticipate having an additional ACIP emergency
+meeting to review any additional, authorizations
+for additional age groups for vaccines in the near future.
+So stay on the lookout for updates.
+Thanks.
+>> So with that then I will knuckle us
+out of the meeting, meeting adjourned.

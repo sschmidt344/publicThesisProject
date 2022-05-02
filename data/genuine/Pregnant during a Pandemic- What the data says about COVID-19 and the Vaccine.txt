@@ -1,0 +1,775 @@
+Hello, everyone.
+My name is Angel Rocha, and I would like to welcome you
+to today's CDC Partner Update Call on COVID-19.
+This call serves as a way for CDC to share the updates on COVID-19 and our latest resources
+and guidances and to answer questions submitted by participants.
+On today's call, we will discuss the effects of being pregnant during the ongoing pandemic.
+First, we will hear from one of our science officers on CDC's COVID-19 emergency response
+who will describe where we are with the response and give us insight
+into the recent scientific findings.
+Then, we will hear from two experts working on the COVID-19 response on the effect
+that the COVID-19 pandemic is having on pregnant people and the consideration
+for pregnant people who are getting vaccinated.
+Afterwards, our speakers will answer questions we received over the last week via email.
+If you're experiencing technical difficulties or otherwise would like to review today's call,
+you can find the recordings on cdc.gov and YouTube in eight to ten days.
+All past partner calls can be found there, so please take time
+to review and share prior recordings.
+For more information about these webinars, visit our COVID-19 partner calls webpage
+where you can register for future partner calls and see recordings of previous webinars.
+If this is your first webinar with us, please see the links in the chat and subscribe
+and receive future call invitations.
+Please note this call is not intended for the media,
+although we welcome the media who may be here today.
+Should you be a reporter and have questions, we invite you to reach out to media@cdc.gov.
+Again, media@cdc.gov.
+these calls are designed to share the latest science guidance and resources from CDC.
+CDC has issued thousands of resources and guidance materials for individuals, businesses,
+and the public on our website, cdc.gov.
+Here are some of the highlights on just a few of our most recent web editions.
+First, CDC published new guidance for fully vaccinated people.
+This update specifies that fully vaccinated people can resume activities
+without wearing masks or physically distancing except where required by federal, state,
+local, tribal, or territorial laws.
+Rules and regulations including local businesses and workplace guidance.
+In addition to this fully vaccinated people who are asymptomatic can also refrain
+from testing following a known exposure unless they are residents or employees
+of a correctional or detention facility or a homeless shelter and resume domestic travel
+and refrain from testing before or after travel or self-quarantine after travel.
+Second, recent studies add to the growing body of real-world evidence showing
+that COVID-19 MRNA vaccines authorized by the Food and Drug Administration, FDA,
+protect healthcare personnel against COVID-19.
+the MRNA vaccines which are Pfizer BioNTech and Moderna reduce the risk of getting sick
+with COVID-19 by 94% among healthcare personnel who were fully vaccinated.
+This assessment independently confirms U.S. vaccine effectiveness,
+findings among healthcare workers that were first reported in March 29.
+On May 12, 2021, after a systematic review of all available data,
+the committee on immunization practices made an interim recommendation for use
+of the Pfizer BioNTech COVID-19 vaccine in adolescents aged 12
+through 15 years for the prevention of COVID-19.
+ACIP determined that use of the Pfizer BioNTech COVID-19 vaccine among adolescents is a
+reasonable and efficient allocation of resources.
+Whereas they might be uncertainty regarding how different populations value the vaccine,
+results from several surveys suggest that approximately 1/2 of parents were willing
+to have their adolescent children vaccinated overall.
+ACIP determined that the desirable effects clearly outweighed any undesirable effects
+in most settings.
+As we continue, Dr. Debbie Dowell, Deputy Chief Medical Officer,
+CDC COVID-19 Emergency Response, Dr. Romeo Galang from the Pregnancy
+and Infant Linked Outcomes Team,
+from the Epidemiology Studies Taskforce COVID-19 response, and Ms. Kara Polen,
+the communication lead for the Maternal Immunization Team Vaccine Taskforce COVID-19
+Response will be joining us as our panelists.
+Now, I will turn it over to Dr. Dowell for some general updates.
+Dr. Dowell.
+>> Thank you, Angel, and welcome to everyone joining us today.
+My name is Dr. Debbie Dowell, and as mentioned,
+I am the Deputy Chief Medical Officer for the response.
+Today, I would like to provide a brief update on the response and review some
+of the latest scientific developments.
+First, a situational update.
+You can see from the slide that national COVID-19 cases and deaths have continued
+to decrease over the past week as compared to the previous week.
+As of May 24th, the seven-day average in cases decreased by 19.5%
+over the previous seven-day average.
+The seven-day average in deaths decreased by 10.5% over the previous seven-day average.
+Compared with the highest peak on January 8, 2021, which was 252,768,
+the current seven-day average decreased by 89%.
+These statistics provide us with very valuable information.
+When these percentages are decreasing, this tells us that mitigation efforts are working.
+When case counts increase, this tells us that we need to step
+up mitigation efforts to slow the spread of COVID-19.
+As of May 20th, 279.4 million vaccine doses have been administered.
+Overall, about 160.2 million people or 48.2%
+of the total U.S. population have received at least one dose of vaccine.
+About 126.6 million people or 38.1% of the total U.S. population have been fully vaccinated.
+The seven-day average number of administered vaccine doses reported
+to CDC per day was 1.8 million, which is a 12.5% decrease from the previous week
+which highlights the current need for us to address vaccine hesitancy
+and step-up vaccine promotion for underserved populations and hard to reach demographics.
+We encourage you to visit CDC's data tracker and the new weekly review for the latest statistics
+and key indicators for the pandemic.
+Next, I want to share what we've learned from a couple of reports released over the past week
+in CDC's morbidity and mortality weekly report or MMWR.
+In the interest of time, I will only briefly touch on the high points of these reports.
+You will see the links to the reports in the chat
+or please visit cdc.gov to read the full reports.
+First, we would like to report
+on an MMWR highlighting COVID-19 mitigation strategies being used
+within Georgia kindergarten through fifth grade schools.
+Using data from Georgia K through five schools that opened
+for in-person learning during Fall 2020, the Georgia Department of Health
+and CDC Investigators found that COVID-19 incidents was 37% lower in schools
+that require teachers and staff to use masks and 39% lower in schools that improved ventilation.
+Representatives from 169 of 1461 schools and 51 of 159 Georgia counties completed the survey
+and also had available COVID-19 case data.
+Prevention strategies implemented at participating schools included requiring masks
+for teachers and staff members or students, flexible sick leave for teachers,
+improved ventilation, spacing all desks at least six feet apart, and using barriers on all desks.
+The study found that mask requirements for teachers and staff with a ratio of 0.63
+and improved ventilation with a rate ratio of 0.61 were associated with lower incidence.
+Among 124 schools that reported on ventilation improvements,
+dilution methods such as opening doors, opening windows, or using fans alone or in combination
+with filtration such as HEPA filters with
+or without purification were associated with lower COVID-19 incidents.
+A second MMWR on COVID-19 assessed testing to sustain in-person instruction
+and extracurricular activities in high schools.
+Utah implemented two high school COVID-19 testing programs
+to sustain in-person instruction and extracurricular activities.
+During November 30, 2020 through March 20, 2021, among 59,552 students tested,
+1886 or 3.2% received a positive result.
+These programs facilitated the completion of approximately 95%
+of high school extracurricular competition events
+and saved an estimated 109,752 instruction days.
+Utah health and school partners in addition
+to standard preventative measures implemented two high school testing programs.
+One, test to play, in which testing every 14 days was mandated for participation
+in extracurricular activities, and two, test to stay which involved school-wide testing
+to continue in person instruction as an alternative
+to transitioning to remote instruction.
+Test to play was implemented two out of three of Utah's 193 public high schools
+and it facilitated completion of nearly all scheduled high school extracurricular winter
+athletics competition events.
+And during January 4th through March 20th of 2021,
+13 schools conducted 16 test to stay events.
+About 13,809 students tested at least once during these events,
+representing an estimated 70% of students participating
+in in-person instruction at these 13 schools.
+Ninety, or 0.7% received a positive result.
+After testing events, these 13 schools continued in-person instruction.
+And finally, we released an MMWR in disparities in COVID-19 vaccination coverage
+between urban and rural counties.
+Using county level vaccine administration data among adults aged 18 and older,
+COVID-19 vaccination coverage was lower in rural compared with urban counties.
+CDC analyzed county-level vaccine administration data among adults aged 18 and older
+who received either their first dose of the Pfizer BioNTech or Moderna COVID-19 vaccines
+or a single dose of the Janssen COVID-19 vaccine.
+That's the Johnson and Johnson vaccine.
+During December 14, 2020 through April 10, 2021 in 50 U.S. jurisdictions.
+That is 49 states and the District of Columbia.
+First dose COVID-19 vaccination coverage was lower in rural
+than in urban counties for adults overall.
+It was 39.9% in rural and 45.7% in urban counties.
+And also, for adults aged 18 to 64 and those aged which was 29.1%
+in rural and 37.7% in urban counties.
+And among those age 65 and older, the disparity was 67.6% in rural and 76.1% in urban counties.
+For women, it was 41.7% in rural and 48.4% in urban counties.
+And for men, 35.3% in rural and 41.9% in urban counties.
+And with that, it is now my pleasure to hand the call over to my esteemed colleague
+from the epidemiology and surveillance taskforce.
+>> Thank you, Dr. Dowell.
+Good afternoon.
+My name is Romeo Galang.
+I'm an OB GYN serving in the CDC's COVID-19 response, and in this portion of the talk,
+I'll give an overview of what we know so far on COVID-19 in pregnancy.
+So, let's begin with what we know so far, based upon the available data.
+It's well established that there are physiologic changes in pregnancy
+that could increase mom's risk for a severe illness from respiratory viral infections,
+and these include normal and expected changes in heart and lung function
+that support mom's growing need for oxygen and changes in the immune system
+that prevent rejection of pregnancy.
+Some changes persist for a period of time after pregnancy ends and when studies have looked
+at these effects, those study timeframes have been up to 42 days after the end of pregnancy.
+We've seen these kind of effects before in studies of pregnant
+and recently pregnant women with H1N1 influenza infection.
+Next slide, please.
+Regarding COVID-19, we've seen a growing number of studies
+about pregnant and recently pregnant women.
+Systematic reviews and meta-analyses pull together data from many reports
+to produce information that can be helpful in understanding the risks for severe illness
+and for adverse pregnancy outcomes among pregnant and recently pregnant women
+when you compare them to other groups.
+Specifically, when compared to nonpregnant women who do not have COVID-19.
+I'm sorry.
+When compared to nonpregnant women who have COVID-19, pregnant and recently pregnant women
+with COVID have higher odds of admission to an intensive care unit,
+the need for invasive ventilation, and special respiratory support using extra corporeal
+membrane oxygenation, also known as ECMO.
+When compared with other pregnant women who do not have COVID,
+pregnant women with COVID have higher odds of preterm birth
+and their babies may have higher odds of being admitted to a neonatal intensive care unit.
+These pregnant women might also have higher odds of death themselves and of stillbirth,
+although these events are infrequent, and the numbers are quite low.
+Next slide, please.
+As of last Monday, May 17, there were a total of 91,466 cases
+of COVID-19 among pregnant women reported to CDC.
+This figure, which is regularly updated on the CDC website, shows the number of cases per week,
+and this follows the shape of total reported cases in the U.S. For those looking
+at the most recent totals on the far right, it's important to note
+that there's a two-to-four-week lag in case reporting as information is collected.
+So, the totals in that greyed out area should be read keeping that lag in mind.
+Next slide, please.
+It's important to consider health equity.
+Now, health equity is when everyone has the opportunity to be as healthy as possible.
+And this includes the conditions and places where pregnant
+and recently pregnant people live, learn, work, play,
+and worship because these effect health risks and outcomes such as how one is exposed
+to COVID, the conditions that increase the risk for severe illness,
+and existing disparities in pregnancy outcomes.
+Next slide, please.
+We are gaining an understanding of individual level characteristics
+that are associated with severe COVID-19 illness.
+Recent studies have identified that increasing older maternal age,
+certain underlying conditions, and the number of these health conditions and occupation
+in healthcare are associated with more severe illness among pregnant
+and recently pregnant women.
+Next slide, please.
+So, taken all together, the data suggests that pregnancy and recent pregnancy are associated
+with an increased risk of severe illness.
+There are certain characteristics that increase that risk, specifically maternal age
+and underlying health conditions, and the data also suggests that there is an increased risk
+of preterm birth and that there might be increased risk
+for other adverse pregnancy outcomes like stillbirth,
+though these still could be quite infrequent.
+Next slide, please.
+Next, let's talk about what we know about if and how COVID-19 might be passed from mom
+with infection to her baby during pregnancy, during delivery,
+and after the baby is born during breastfeeding.
+Next slide, please.
+So, transmission via these different routes seems possible but infrequent,
+and there are several kinds of data that have led us to this point.
+There have been reports of viral RNA and antibodies detected in some newborns shortly
+after birth, despite not having contact with their mother.
+And we know of reports of RNA being found in the stool and rarely
+in amniotic fluid or in placenta.
+And these kinds of findings raise the concern
+that transmission during pregnancy or delivery is possible.
+At the World Health Organization developed a rigorous definition
+for identifying this scenario, but it's hard to tell just how frequently this happens
+and what it means clinically once it's detected.
+At this time, we think that postnatal infection, and that is transmission from a mom
+or a caregiver to an infant after they're born accounts for most infections that are detected
+in newborns, and from our own data, we've found positive test results reported among 6%
+of infants born to moms with COVID-19 during pregnancy.
+Although there have been reports of breast milk testing positive for viral RNA,
+the current evidence suggests that breastfeeding itself is not likely a route,
+the most likely route of transmission.
+Infection rates appear to be no greater when the baby is breastfed or remains with the mother
+when you compare that to infants that were separated
+from their mothers for infection control reasons.
+And CDC considers breast milk as the optimal source of nutrition for most infants,
+even those born to mothers with suspected or confirmed COVID-19.
+And, as always, precautions should be taken to avoid spreading the virus from mother to infant.
+Next slide, please.
+Regarding disease severity among infants, we know very little still
+about the overall severity among neonates and infants.
+Current evidence so far suggests that SARS-CoV-2 infections among neonates are uncommon and most
+that are reported in the literature are noted to be asymptomatic
+or to have only very mild symptoms.
+Next slide, please.
+So, in summary, the data suggests that transmission during pregnancy
+and delivery may be possible but appears infrequent.
+How often this occurs and how we use that information clinically is still unclear.
+We don't know for sure if SARS-CoV-2 is transmitted via breast milk,
+but current data suggests that this is not a likely source of transmission.
+And finally, SARS-CoV-2 infections in the neonate are uncommon,
+and if they do become infected, the majority of neonates have either asymptomatic infection
+or mild disease, and they recover.
+Next slide, please.
+So, next, let's talk about what we're doing to learn more about these issues.
+CDC is conducting the surveillance and research
+to better understand the impact of COVID-19 in pregnancy.
+Now, the Surveillance for Emerging Threats to Mothers and Babies Network,
+also known as SETNET, is our largest COVID-19 and pregnancy activity.
+SETNET was born out of the 2016 Zika response,
+and it expanded to collect information on COVID-19.
+SETNET detects the effects of new health threats like COVID on pregnant women and their babies
+by collecting data from pregnancy through childhood.
+CDC currently supports 28 state, local, and territorial health departments for this effort.
+We also work with existing surveillance systems.
+A COVID-19 questionnaire supplement was recently added
+to the pregnancy risk assessment monitoring system, also known as PRAMS,
+which routinely collects population-based data on maternal behaviors and experiences before,
+during, and shortly after pregnancy.
+And finally, CDC is supporting three cohort studies including retrospective electronic
+cohorts and prospective community cohort studies to examine serum prevalence
+and outcomes among pregnant women.
+Next slide, please.
+So, what can pregnant and recently pregnant people do to prevent getting sick?
+Next slide.
+Everyone 12 years of age or older is now eligible to get a COVID-19 vaccination.
+Getting a COVID-19 vaccination is an important step to help prevent getting sick from COVID.
+Our next presenter, Kara Polen, will go into this topic in more depth.
+Next slide, please.
+For extra precautions, it is important that pregnant people and those who live
+with them take steps to protect themselves from getting COVID,
+and this involves limiting interaction, avoiding crowds and poorly ventilated indoor spaces,
+taking precautions when interaction is needed, such as physical distancing,
+wearing a mask, and practicing hand hygiene.
+And if they start feeling sick or think they have COVID, pregnant people should get in touch
+with their healthcare provider within 24 hours.
+It's important not to skip prenatal care appointments, and it may be helpful to have
+at least a 30-day supply of medications.
+Next slide, please.
+We have several resources online which can be helpful
+in communicating messages around COVID-19 in pregnancy.
+Next slide, please.
+We just released a one stop shop toolkit for pregnant people and new parents,
+and it includes web sources, clinical care guidance, facts sheets, social media materials,
+and public service announcements.
+Next slide, please.
+And weekly and monthly CDC updates the number of pregnant people
+with lab confirmed COVID-19 based on the case surveillance data.
+And this is a screenshot of those pages.
+Next slide, please.
+And of course, we work closely across CDC response to develop messaging for pregnant women
+and guidance documents relating to pregnant women and infants.
+We also coordinate activities relating to COVID-19 and communicate
+with our clinical partners in order to best promote the health and wellbeing
+of pregnant women and infants impacted by COVID-19.
+Next slide, please.
+So, I'd like to thank you for joining us today for this portion,
+and I would like to extend gratitude to all the groups, jurisdictions,
+and experts that are supporting this work.
+And with that, it's now my pleasure to hand over the call to my esteemed colleague
+and the Maternal COVID-19 Immunization Team, Ms. Kara Polen.
+>> Thank you, Dr. Galang.
+My name is Kara Polen and I'm the Communications Lead
+for the Maternal Immunization Team for CDC's COVID-19 Response.
+I'm very happy to be here today, and grateful to share some of these updates with you.
+Today, I'll be talking about what we know about COVID-19 vaccination during pregnancy.
+Next slide, please.
+Thank you.
+As you heard in Dr. Galang's presentation, pregnant people are more likely
+to get severely I'll with COVID-19 compared with nonpregnant people.
+If you are pregnant, you are eligible and can receive a COVID-19 vaccine.
+Getting a COVID-19 vaccine during pregnancy can protect you from severe COVID-19.
+If you're facing decisions about whether to receive a COVID-19 vaccine while pregnant,
+you might consider your risk of exposure to COVID-19,
+risks of severe infection during pregnancy, the known benefits of vaccination, and limited
+but growing evidence about safety of COVID-19 vaccine during pregnancy.
+A discussion with a healthcare provider can help you make an informed decision,
+but this is not a requirement prior to receiving a vaccine.
+Data on the safety of COVID-19 vaccines in pregnant people are limited.
+The manufacturers of these COVID-19 vaccines, Pfizer BioNTech, Moderna, and Johnson
+and Johnson's Janssen have done animal developmental and reproductive toxicity studies
+to look at effects of COVID-19 vaccine on fetal development of animals
+and no safety concerns have been identified.
+As is usual for clinical trials of new medications and vaccines,
+pregnant people were excluded due to theoretical concerns to the fetus, of risk to the fetus.
+However, in the clinical trials, some women did become pregnant,
+and no safety signals were observed from pregnancies inadvertently vaccinated.
+Next slide, please.
+I'd be remiss if I didn't mention the pause in Johnson and Johnson's Janssen vaccine.
+CDC and FDA had recommended a pause in the use of the Janssen COVID-19 vaccine on April 13,
+2021 after reports of U.S. cases of thrombosis with thrombocytopenia syndrome
+or TTS among people who received a Janssen COVID-19 vaccine.
+TTS is a rare syndrome that involves blood clots with low platelets.
+Emergency ACIP meetings were held on April 14th and 23rd to investigate the cases.
+The cases identified were nearly all among women of reproductive age.
+No cases have been reported among people who are pregnant or postpartum.
+On April 23, 2021, after thorough safety review, ACIP reaffirmed its interim recommendations
+for use of the Janssen COVID-19 vaccine in all persons aged 18 years and older under the Food
+and Drug Administration's Emergency Use Authorization.
+The FDA's EUA now includes a warning for rare clotting events, primarily among women of age 18
+to 49 years which is shown here on the slide.
+Next slide, please.
+Next, I'll cover CDC's activities to monitor safety during pregnancy.
+After a vaccine is authorized or approved for use,
+many vaccine safety monitoring systems watch for adverse events.
+This continued monitoring can pick up on adverse events
+that may not have been seen in clinical trials.
+CDC has expanded existing safety surveillance through safety monitoring systems shown
+on the slide and CDC has also developed new systems like v-safe
+and the v-safe pregnancy registry, which I'm going to talk about next.
+The v-safe after vaccination health checker is a smartphone-based system
+for people who receive COVID-19 vaccines.
+Reports to v-safe offer real time data and are available or valuable
+to understand the safety of these vaccines.
+V-safe uses text messaging and web surveys from CDC to check
+in with vaccine recipients following COVID-19 vaccination
+at designated time points post vaccination.
+People, including those who are pregnant,
+can report that they've received medical care will be called
+by the various call center to obtain more information.
+And people who report pregnancy will be contacted
+by the pregnancy registry team, the registry team.
+Next slide, please.
+Next, I'll review some preliminary findings from our safety systems.
+These findings are published in the New England Journal
+of Medicine article released on April 21st.
+This report included more than 35,000 people who reported pregnancy in v-safe
+and received an MRNA COVID-19 vaccine by February 28th.
+Most of these individuals were around 25 to 44 years of age.
+We regularly report the number of people who report to v-safe
+after they received a COVID-19 vaccine just before or during pregnancy.
+As of May 17th, last week, more than 114,000 pregnant people were reported to v-safe.
+Next slide, please.
+Data from the New England Journal of Medicine article also indicate health impacts among
+pregnant people who received an MRNA COVID-19 vaccine.
+Local and systemic reactions were similar among pregnant
+and nonpregnant women through MRNA vaccines.
+The most frequent local and systemic reactions reported
+in v-safe occurred on the day after vaccination.
+And I also just want to note that J and J, the Janssen vaccine was not included
+because it was not authorized by the February 28th cutoff.
+Next slide, please.
+The data on this slide are form the v-safe pregnancy registry.
+Nearly 4000 pregnant people have received the vaccine as of February 28,
+2021 and had been enrolled in the registry.
+Among the enrolled participants, most were 25 to 44 years of age.
+Again, we regularly report these numbers online, and as of May 17, 2021,
+nearly 5000 pregnant people have been enrolled.
+Among participants who are enrolled in the v-safe pregnancy registry,
+most were non-Hispanic white at 79%, and you can see the breakdown by type of vaccine here.
+This way, you can see the timing when pregnant people received their first dose
+of COVID-19 vaccine.
+About 2% reported receiving their first dose during the periconception period.
+About 28.6% in the first trimester of pregnancy, 43.3% in the second trimester,
+and 25.7% in the third trimester.
+And the main message here that we have a good distribution of data
+from vaccination across trimesters.
+Next slide.
+On this slide, we show pregnancy outcomes in the registry.
+Typically, when we look at health effects of exposures during pregnancy,
+it can be helpful to compare people who had an exposure during pregnancy
+to people who do not have that exposure.
+In this case, we don't have an unexposed comparison group.
+Therefore, we look at outcomes among people who received COVID-19 vaccination during pregnancy
+in the context of what we might normally expect to see among women
+who did not receive a vaccine in the general population.
+In essence, we used data published before the COVID-19 pandemic as a benchmark
+from the general population of people who did not receive the vaccine.
+This comparison can help us better understand the severity among those
+who are vaccinated during pregnancy.
+Among 827 participants who completed a pregnancy in the registry, the pregnancy resulted
+in live birth 86% of the time and a spontaneous abortion in 12.6% and a stillbirth in 0.1%.
+The proportion of these outcomes appeared similar to what we would expect to see
+from estimates published before the pandemic.
+In summary, data on COVID-19 vaccination among pregnant people are limited
+because pregnant people were not included
+in preauthorization clinical trials of COVID-19 vaccines.
+CDC has existing and new systems to monitor safety
+of COVID-19 vaccines among people who are pregnant.
+Generally, pregnant people reported similar side effects in the type and frequency compared
+to nonpregnant women after vaccination with MRNA COVID-19 vaccine.
+Preliminary data did not identify any vaccine related safety concerns
+for pregnant people vaccinated during the third trimester or for their babies.
+However, additional follow up is needed, including follow up for those vaccinated
+in the first or second trimester of pregnancy.
+However, these preliminary findings are reassuring.
+Next, I'd like to review some common questions from people
+who are pregnant or trying to become pregnant.
+A common question that has arisen is whether COVID-19 vaccine affects a person's chance
+of becoming pregnant.
+As I'm sure you've seen, this information has spread widely about this topic.
+I want to emphasize that there's currently no evidence that any vaccines,
+including COVID-19 vaccines, cause fertility problems.
+Based on how these vaccines work in the body, there's not a plausible mechanism
+to suggest they would have any impact on fertility.
+Again, there's currently no evidence to suggest
+that COVID-19 MRNA vaccination might affect a person's ability
+to become pregnant now or in the future.
+CDC recommends that all people 12 years of age and older receive a COVID-19 vaccine,
+and like all vaccines, we're studying them for side effects
+and will continue to study them moving forward.
+Next slide.
+Another common question we've heard is related to people who find out they are pregnant
+after the first dose and may be hesitant about receiving a second dose.
+As you've seen, preliminary safety data are reassuring.
+Data from the clinical trials indicate that COVID-19 MRNA vaccines are most effective
+after two doses, and therefore, completion
+of the vaccination series is the most effective way to be fully protected.
+If you are facing decisions about COVID-19 vaccination while pregnant,
+a conversation with a healthcare provider may help.
+Next slide.
+Side effects can occur with COVID-19 vaccine in pregnant people similar
+to those expected among nonpregnant people.
+These side effects are generally short lived.
+We do not expect there to be an effect on the fetus.
+Fever has been a concern because of associations with adverse pregnancy outcomes.
+However, acetaminophen can be offered to pregnant people experiencing a fever
+or other post vaccination symptoms like aches and pain at the injection site.
+Next slide, please.
+Another common question is will getting vaccinated during pregnancy help protect my baby
+after they are born.
+Recent reports have shown that pregnant,
+or that people who receive COVID-19 MRNA vaccines during pregnancy,
+mostly during their third trimester, have passed antibodies to their fetuses
+which could help protect them after birth.
+More data are needed to determine the level of antibodies related to the timing
+of vaccination during pregnancy and what protection this might provide to the infant.
+Next slide.
+On this slide, we have some examples of CDC's COVID-19 vaccine resources.
+You can check out the CDC website to learn more.
+>> Thank you, Dr. Galang and Ms. Polen for those extremely informative presentations.
+For those of you who have submitted questions in advance of this call, thank you.
+We received many excellent questions, and we will try to get to as many as we can today.
+Dr. Galang, if you could start us off by answering the first few questions.
+The first question being what would happen to me and my baby
+if I contract the virus during pregnancy?
+>> Thank you for that question.
+So, it's important to note that although the overall risk of severe illness is low,
+pregnant people and recently pregnant people, which includes those that are
+at least 42 days following the end of pregnancy, are at an increased risk for severe illness
+from COVID when you compare that to nonpregnant people.
+Pregnant people with COVID-19 are also at an increased risk for preterm birth,
+and that means delivering the baby earlier than 37 weeks.
+And they might be at increased risk for other poor pregnancy outcomes.
+We're still learning more about longer term outcomes among the many with COVID-19
+and among their babies, and pregnant and recently pregnant people still need
+to take the steps to protect themselves from getting sick with COVID.
+And people who live with or visit pregnant
+or recently pregnant people should also take these steps.
+Thank you.
+>> Thank you.
+Next question.
+How soon after birth would my baby be at risk of contracting the virus?
+>> Thank you.
+So, it's actually very soon afterwards.
+You know, there have been reports of infection detected in infants very soon after delivery,
+and this is in studies that have tested infants, you know, with 24 to 48 hours after delivery.
+So, as soon as they're born, if they are exposed,
+they are at risk of contracting the virus.
+>> Thank you.
+What are your recommendations about air travel for fully immunized pregnant people?
+>> Certainly.
+So, you know, as my colleague Kara Polen mentioned earlier, the updated guidance
+that CDC released on May 13 applies to all fully vaccinated people
+in nonhealthcare settings regardless of their pregnancy status.
+In the updated guidance, fully vaccinated people who travel in the U.S. do not need
+to get tested before or after travel.
+They also do not need to self-quarantine after travel.
+People who are fully vaccinated can travel safely within the U.S. However,
+CDC prevention measures continue to apply to all travelers, including those who are vaccinated.
+So, for example, all travelers are required to wear masks on all planes, busses, trains,
+and other forms of public transportation when traveling into, within,
+or out of the United States and in U.S. transportation hubs,
+such as airports and stations.
+Now, if you're traveling internationally, there are additional requirements, and it's important
+to pay close attention to the situation at your international destination.
+For fully vaccinated people who are pregnant, it would be important to talk with your OB GYN
+or other healthcare provider before making any travel plans during the pandemic.
+And together, you can discuss whether your travel is essential
+or might be able to be postponed.
+Travel also may not be recommended for people who have pregnancy complications,
+and together with your OB or other healthcare provider,
+you can decide what's best for you and for your baby.
+>> Thank you.
+Next question.
+Are we seeing people who are fully immunized while pregnant subsequently getting infected
+with COVID-19, and is this occurring at a higher rate than in the general population?
+And if yes, is this related to the natural immunosuppression of pregnancy?
+How are the pregnancies affected?
+>> Okay. Thank you.
+Thank you for this question.
+When we see people who become infected after immunization, we call it breakthrough infection.
+As you can imagine, understanding breakthrough infections is a high priority for CDC.
+We have a team specifically dedicated to monitoring breakthrough infection
+and analyzing that data that's collected.
+And as part of data collection, we do attempt to get information on pregnancy status,
+but it doesn't always come to us as complete.
+And so, at this time, we don't have information
+on breakthrough infection among pregnant people specifically.
+But as we learn more, we will share that updated information.
+>> Thank you, Dr. Galang.
+Really appreciate that.
+The next set of questions are for Ms. Polen.
+Ms. Polen, will you please address concerns related
+to infertility associated with COVID-19 vaccine?
+>> Thank you for that question.
+Although misinformation has spread online about this topic,
+as I mentioned during my presentation, there's currently no evidence that any vaccines,
+including COVID-19 vaccines, cause fertility problems.
+So, just as a reminder of how these vaccines work,
+all three authorized COVID-19 vaccines give instructions to our cells
+to make a harmless piece of the virus called spike protein.
+After the protein piece is made, the cell breaks down the instructions and gets rid of them.
+The spike protein doesn't look like anything else in our body, and our body recognizes
+that protein should not be there, and it mounts an immune response
+by making antibodies against the spike protein.
+So, if you're exposed to the virus in the future, your body is now prepared to fight it
+because the vaccine has taught your body how to recognize it.
+So, based on how these vaccines work in the body, there's no plausible mechanism to suggest
+that they would have any effect on fertility.
+Again, there's currently no evidence to suggest
+that COVID-19 vaccination might affect the person's ability
+to become pregnant now or in the future.
+>> Well, thank you for that.
+Next question.
+Could you please touch on what we should know about new infants and COVID-19,
+specifically regarding the recommendations around mask wearing?
+For example, should everyone be wearing masks when meeting the baby,
+or only those that are unvaccinated, and for how long?
+>> The updated guidance that CDC released on May 13th about what activities people can start
+to do after they've been fully vaccinated applies
+to all fully vaccinated people in nonhealthcare settings.
+So, we know at this point that fully vaccinated people have a low risk of becoming infected
+and transmitting the infection to someone else, including a baby.
+Therefore, fully vaccinated people do not need to wear a mask
+when meeting a new baby unless they want to.
+They should, of course, wear masks if they're meeting in an area where masking is required
+by the state, locality, or a business.
+And people who are not fully vaccinated should keep taking all precautions,
+including wearing a mask until they are fully vaccinated.
+As a new mom, I too have felt worried about how best to protect my baby this year.
+I had a son during the pandemic, and when I started to feel that anxiety and uncertainty,
+I talked to my pediatrician and I encourage you to talk to your pediatrician, too,
+if you have questions or concerns.
+Together, you can discuss what you feel comfortable with and decide on a path forward
+that works best for you and your family.
+>> Thank you for that.
+Next question.
+When does CDC expect to release additional results
+from the v-safe COVID-19 vaccine pregnancy registry, including outcomes
+from pregnant participants vaccinated during their first and second trimesters?
+>> Thank you for that question.
+As you guys know, the vaccine rolled out, the COVID-19 vaccines rolled out around in December,
+so we're only 24 weeks into the COVID-19 vaccine distribution efforts in the U.S. So,
+based on this, we're just starting to see outcomes among women vaccinated
+in their second trimester of pregnancy, and we'll start to have data to report
+on the first trimester vaccinations later this summer.
+But continuing analyzing the data, and we plan to discriminate data as quickly
+as possible once they are available.
+Next question?
+>> Oh, sorry.
+Is there an ideal time for pregnant women to be vaccinated?
+Is it possible that COVID vaccination will eventually be recommended during the third
+trimester, such as recommendations for the TDAP vaccine?
+>> Thank you for that question.
+Information is limited about COVID-19 vaccine at different times during pregnancy.
+Given the increased risk of severe COVID-19 during pregnancy, pregnant people are eligible
+and can receive a COVID-19 vaccine at any time during pregnancy.
+Data on the safety of COVID-19 vaccines in pregnant people are limited,
+and we're learning a lot about vaccination during pregnancy, and as we learn more
+about the safety, effectiveness, and protection in the newborn,
+recommendations may evolve over time.
+So, based on how these vaccines work in the body, experts believe they're unlikely
+to pose a risk for people who are pregnant or their babies.
+And a conversation with a healthcare provider may help a pregnant person decide about the use
+of a COVID-19 vaccine, though conversation is not required prior to vaccination.
+>> Thank you.
+Can you explain what dangers would be to me and my baby should I receive the vaccine?
+>> Sure. Because pregnant people were not included in the preauthorization clinical trials
+for COVID-19 vaccines, there's limited data about the safety during pregnancy.
+So, to better understand safety during pregnancy, we're monitoring safety
+through multiple surveillance systems, which I talked about in my presentation.
+As I mentioned, preliminary results have been reassuring.
+If you're pregnant, you're eligible and can receive a vaccine,
+and if you're facing the decision about whether to get vaccinated,
+you can talk with your clinical team, and they may assist you with your decision.
+Factors you can think about when you're considering this decision is the level
+of COVID-19 transmission in your community, your personal risk
+of getting COVID-19 during pregnancy, the increased risk of severe COVID-19
+as well as the benefits of vaccination.
+So, remember, COVID-19 vaccines protect against severe illness from COVID during pregnancy,
+and when you get vaccinated during pregnancy, you can potentially pass antibodies to your baby
+which could result in protection after birth.
+>> One more question.
+How soon after birth can my baby be vaccinated for the virus?
+>> Sure. At this time, COVID-19 vaccination is recommended for all people 12 years and older.
+So, it might take some time before babies
+and young children are eligible to receive a COVID-19 vaccine.
+Therefore, it's really important to consider the risk of COVID-19 to you yourself, your baby,
+the people who live with you, and visitors before you allow anyone,
+any visitors into your home or near your baby.
+If you are a new parent, get vaccinated if you haven't yet, and encourage everyone who will be
+around your new baby to be vaccinated as well.
+If you have questions or concerns about this, talking with a pediatrician can help.
+>> Thank you for that, Ms. Polen.
+The final set of questions are for Dr. Dowell.
+Dr. Dowell, first question.
+How likely is it for a vaccinated individual to transmit COVID to an unvaccinated child
+or immune compromised friend or loved one?
+>> Thank you for that important question.
+All COVID-19 vaccines currently authorized in the United States are effective
+against COVID-19, including in preventing serious outcomes
+like severe disease, hospitalization, and death.
+In addition, a growing body of evidence indicates that people fully vaccinated, that is,
+two weeks after completing a two-dose series with the Pfizer BioNTech
+or Moderna vaccines are less likely to have asymptomatic infection
+or to transmit SARS-CoV-2 to others.
+Studies are underway to learn more about the benefits of the Johnson and Johnson vaccine.
+Is it still possible for fully vaccinated people to get COVID-19
+or to transmit the virus to an unvaccinated child?
+Yes, but the risk is very low.
+Everyone needs to determine how comfortable they are with that low risk.
+If you are fully vaccinated but are in a community with lower vaccination rates
+and higher rates of disease or if you are uncomfortable with even a very low risk
+of passing on the virus to others, you may choose to wear a mask to further reduce risk.
+And if you are not yet fully vaccinated, please continue to take precautions
+to protect yourself and others from COVID-19.
+We are still learning about the effectiveness of vaccination for individuals
+with immunocompromising conditions or taking immunosuppressive medications.
+Reduced immune responses to vaccination have been seen among several groups
+of these individuals.
+In addition, people with weakened immune systems might be more likely
+to get severely I'll with COVID-19.
+Even though a vaccinated individual has a reduced risk of transmitting the COVID-19 virus
+in general, it is reasonable to continue to be vigilant and take additional risks
+to protect individuals who are immunocompromised.
+And finally, everyone needs to help more people get vaccinated to protect themselves
+and to protect people around us which will help protect individuals
+with immunocompromising conditions for whom the effectiveness of vaccination is less certain,
+and also people not yet fully vaccinated.
+Children younger than 12 are not yet eligible to be vaccinated,
+and 12- to 15-year-olds will not be fully vaccinated until mid-June at the earliest,
+even if they were vaccinated when they first became eligible.
+>> Thank you.
+Next question.
+Should residential college campuses consider continuing mask mandates
+until we reach 80% vaccination rates?
+>> Thank you for this question.
+We know colleges and universities are struggling with decisions
+about the best ways to open safely in the fall.
+CDC is engaged in discussions with state and local public health officials,
+the counsel of state and territorial epidemiologists
+and others throughout public health around what kind and level of community indicators.
+For example, high vaccination rates,
+low community transmission might make sense to guide policies.
+CDC is finalizing updated guidance for institutions of higher learning
+and will provide it as soon as possible.
+For now, it's important to remember that CDC's recommendations for individuals
+who are not yet fully vaccinated remain.
+Continue to wear a mask to protect yourselves and others from COVID-19.
+That said.
+>> No, go ahead.
+>> Oh, sorry.
+That said, it can be challenging for institutions to apply different rules
+for different people, and each institution will need to assess local circumstances
+and determine the level of risk it is willing to accept.
+There's a community with lower vaccination rates and higher rates of disease may choose
+to remain precautions for everyone to further reduce risk.
+Some institutions are requiring COVID-19 vaccination.
+Increasing vaccination rates is the most effective way to protect individuals
+from COVID-19 on campuses and in other settings.
+>> We have one more question, and this is with respect to travel restrictions.
+Despite states reducing their restrictions, should we still be concerned about quarantine,
+testing, and isolation upon return to home base
+if our staff have been traveling in the United States?
+Often, our travel, our staff travel home to different locations,
+and since they are vaccinated, they are questioning obligations
+to quarantine or test upon their return.
+Again, we have clients in group homes, congregate settings,
+and shelters who are mixed status, high risk health issues,
+and/or vaccinated and unvaccinated.
+Please advise.
+>> So, workplaces can decide what policies they need to implement, revise,
+or continue to protect consumers and staff.
+CDC's travel guidance was revised specifically for fully vaccinated individuals to reflect
+that quarantine and testing may not be necessary after being fully vaccinated.
+However, CDC continues to recommend that even fully vaccinated individuals continue
+to self-monitor for symptoms and that they quarantine and test if symptomatic.
+In addition, CDC continues to advice masking and distancing while traveling for everyone,
+including fully vaccinated individuals.
+All travelers are required to wear a mask on planes, busses, trains,
+and other forms of public transportation, traveling into, within,
+or out of the United States
+and use transportation hubs such as airports and stations.
+>> Thank you, Dr. Dowell, Dr. Galang, and Ms. Polen.
+This concludes today's discussion.
+Thank you, everyone, for joining our call today.
+A recording will be posted on our partner call webpage where you can find other recordings
+and information about previous webinars.
+Our next call will take place on Monday, May 24th.
+As announced last week, we will be reducing, excuse me.
+As announced last month, we will be reducing the frequency
+of these webinars from weekly to monthly.
+So, please make sure to sign up for the upcoming partner call.
+The link is listed on the slide or it's listed in the chat box.
+Thank you again for attending, and a special thank you to those
+that have been attending the partner call on a weekly basis.
+We truly appreciate your commitment to getting the most up to date information,
+and we hope that you join us on a monthly basis.
+Until next time, wear a mask, stay six feet apart, avoid crowds, and please get a vaccine.
+Take care, everyone.

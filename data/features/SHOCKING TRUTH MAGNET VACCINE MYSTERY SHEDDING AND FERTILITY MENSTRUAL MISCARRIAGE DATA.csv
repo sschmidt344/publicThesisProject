@@ -1,0 +1,2 @@
+keywords,seconds,hashtags,sentiment,title_sentiment
+300,7931,3,"{'neg': 0.065, 'neu': 0.838, 'pos': 0.096, 'compound': 1.0}","{'neg': 0.193, 'neu': 0.643, 'pos': 0.164, 'compound': -0.1027}"
