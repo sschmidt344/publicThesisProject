@@ -1,6 +1,5 @@
 """
-Runs sentiment analysis on the video transcript as well as the titles of the videos and updates the feature
-set files for each video with the sentiment analysis results.
+Decodes all the raw transcripts from base64.
 """
 
 import os
