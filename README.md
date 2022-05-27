@@ -41,7 +41,7 @@ New files overwrite the current ones at `data/features/`.
 
 ## Raw transcript
 
-The raw transcript data has been base64 encoded since the material or words spoken within the transcripts belongs to someone else.
+The raw transcript data has been base64 encoded for reasons.
 
 Run services/base64decode.py to decode it back to the raw transcript for viewing and further research.
 
