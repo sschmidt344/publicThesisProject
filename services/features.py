@@ -96,7 +96,7 @@ def read_features_file(dataset):
 
 def update_features_file(dataset):
     for item in dataset:
-        file = open('data/updated_features/' + item[_title] + '.csv', 'w')
+        file = open('data/features/' + item[_title] + '.csv', 'w')
         writer = csv.writer(file)
         header = [_keywords, _seconds, _hashtags, _sentiment, _title_sentiment]
         writer.writerow(header)

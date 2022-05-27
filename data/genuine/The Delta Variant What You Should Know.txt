@@ -1,11 +1,1 @@
-1. Delta caused over 75% of recent COVID-19 cases in the United States
-—according to estimates— and will likely cause more.
-2. Viruses constantly change through mutation.
-Slightly different forms of a virus are called variants.
-3. Delta is a variant of the virus that causes COVID-19.
-4. Delta spreads more easily than other variants
-which could lead to more cases of COVID-19.
-5. The best way to stop the spread of Delta is to get vaccinated against COVID-19.
-6. FDA-authorized COVID-19 vaccines offer protection against Delta and other variants.
-Find a COVID-19 vaccine near you: Search http://vaccines.gov
-Text your ZIP code to 438829 Call 1-800-232-0233
+MS4gRGVsdGEgY2F1c2VkIG92ZXIgNzUlIG9mIHJlY2VudCBDT1ZJRC0xOSBjYXNlcyBpbiB0aGUgVW5pdGVkIFN0YXRlcwrigJRhY2NvcmRpbmcgdG8gZXN0aW1hdGVz4oCUIGFuZCB3aWxsIGxpa2VseSBjYXVzZSBtb3JlLgoyLiBWaXJ1c2VzIGNvbnN0YW50bHkgY2hhbmdlIHRocm91Z2ggbXV0YXRpb24uClNsaWdodGx5IGRpZmZlcmVudCBmb3JtcyBvZiBhIHZpcnVzIGFyZSBjYWxsZWQgdmFyaWFudHMuCjMuIERlbHRhIGlzIGEgdmFyaWFudCBvZiB0aGUgdmlydXMgdGhhdCBjYXVzZXMgQ09WSUQtMTkuCjQuIERlbHRhIHNwcmVhZHMgbW9yZSBlYXNpbHkgdGhhbiBvdGhlciB2YXJpYW50cwp3aGljaCBjb3VsZCBsZWFkIHRvIG1vcmUgY2FzZXMgb2YgQ09WSUQtMTkuCjUuIFRoZSBiZXN0IHdheSB0byBzdG9wIHRoZSBzcHJlYWQgb2YgRGVsdGEgaXMgdG8gZ2V0IHZhY2NpbmF0ZWQgYWdhaW5zdCBDT1ZJRC0xOS4KNi4gRkRBLWF1dGhvcml6ZWQgQ09WSUQtMTkgdmFjY2luZXMgb2ZmZXIgcHJvdGVjdGlvbiBhZ2FpbnN0IERlbHRhIGFuZCBvdGhlciB2YXJpYW50cy4KRmluZCBhIENPVklELTE5IHZhY2NpbmUgbmVhciB5b3U6IFNlYXJjaCBodHRwOi8vdmFjY2luZXMuZ292ClRleHQgeW91ciBaSVAgY29kZSB0byA0Mzg4MjkgQ2FsbCAxLTgwMC0yMzItMDIzMwo=

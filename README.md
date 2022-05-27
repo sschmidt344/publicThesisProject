@@ -35,6 +35,24 @@ Feature sets for each video in the data set are found under `data/features/`. Ea
 
 ## Updating existing feature set files
 
-Run `$ python services/features.py` to add the sentiment analysis results to the feature sets.
+Run `python services/features.py` to add the sentiment analysis results to the feature sets.
 
-New files are outputted to `data/updated_features/`, copy those files to `data/features/` for use in the programs.
+New files overwrite the current ones at `data/features/`.
+
+## Raw transcript
+
+The raw transcript data has been base64 encoded since the material or words spoken within the transcripts belongs to someone else.
+
+Run services/base64decode.py to decode it back to the raw transcript for viewing and further research.
+
+## Questions
+
+If you have questions or are having issues with running the programs, open an issue.
+
+## Citation
+
+If you end up using this repository for your research, please include my paper in your references. 
+
+Paper citation: 
+
+TBA
