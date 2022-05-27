@@ -43,7 +43,7 @@ New files overwrite the current ones at `data/features/`.
 
 The raw transcript data has been base64 encoded for reasons.
 
-Run services/base64decode.py to decode it back to the raw transcript for viewing and further research.
+Run `python services/base64decode.py` to decode it back to the raw transcript for viewing and further research.
 
 ## Questions
 
